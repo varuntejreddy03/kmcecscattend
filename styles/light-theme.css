@@ -1,0 +1,96 @@
+/* Light Theme */
+[data-theme="light"] {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --bg-tertiary: #e9ecef;
+  --text-primary: #212529;
+  --text-secondary: #6c757d;
+  --border-color: #dee2e6;
+  --accent-color: #007bff;
+}
+
+[data-theme="light"] body {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  color: var(--text-primary);
+}
+
+[data-theme="light"] .container {
+  background: transparent;
+}
+
+[data-theme="light"] .card {
+  background: white;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="light"] .btn {
+  background: var(--accent-color);
+  color: white;
+}
+
+[data-theme="light"] .btn-secondary {
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+}
+
+[data-theme="light"] input, [data-theme="light"] select {
+  background: white;
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+}
+
+[data-theme="light"] .nav-tab {
+  background: var(--bg-tertiary) !important;
+  color: var(--text-primary) !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+[data-theme="light"] .nav-tab.active {
+  background: var(--accent-color) !important;
+  color: white !important;
+}
+
+[data-theme="light"] .student-card {
+  background: white;
+  border: 1px solid var(--border-color);
+}
+
+[data-theme="light"] .stat-card {
+  background: white;
+  border: 1px solid var(--border-color);
+}
+
+[data-theme="light"] .subject-card {
+  background: white;
+  border: 1px solid var(--border-color);
+}
+
+[data-theme="light"] .analysis-card {
+  background: white;
+  border: 1px solid var(--border-color);
+}
+
+[data-theme="light"] .performance-card {
+  background: white;
+  border: 1px solid var(--border-color);
+}
+
+[data-theme="light"] .modern-select {
+  background: white;
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+}
+
+[data-theme="light"] .table {
+  background: white;
+}
+
+[data-theme="light"] .table th {
+  background: var(--bg-secondary);
+}
+
+[data-theme="light"] .table tr:hover {
+  background: var(--bg-secondary);
+}

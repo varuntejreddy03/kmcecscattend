@@ -14,13 +14,40 @@ export const SUBJECTS = {
   119: 'IDS'
 };
 
-// Load attendance data from JSON
+// Load attendance data from all section JSON files
 export const loadAttendanceData = async () => {
   try {
-    // Add cache-busting parameter to ensure fresh data
-    const response = await fetch(`/attend.json?t=${Date.now()}`);
-    const data = await response.json();
-    return data.studentsAttendance || data;
+    const sections = ['cseaattend', 'csebattend', 'cscattend', 'csdattedn', 'csmattend', 'csoattend'];
+    const allStudents = [];
+    
+    for (const section of sections) {
+      try {
+        const response = await fetch(`/${section}.json?t=${Date.now()}`);
+        const data = await response.json();
+        const students = data.studentsAttendance || data;
+        
+        // Add section info to each student
+        const sectionName = section.replace('attend', '').replace('attedn', '').toUpperCase();
+        const formattedSection = sectionName === 'CSEA' ? 'CSE A' : 
+                                sectionName === 'CSEB' ? 'CSE B' :
+                                sectionName === 'CSD' ? 'CSD' :
+                                sectionName === 'CSC' ? 'CSC' :
+                                sectionName === 'CSM' ? 'CSM' :
+                                sectionName === 'CSO' ? 'CSO' : sectionName;
+        
+        students.forEach(student => {
+          student.section = formattedSection;
+        });
+        
+        allStudents.push(...students);
+      } catch (sectionError) {
+        console.warn(`Failed to load ${section}.json:`, sectionError);
+      }
+    }
+    
+    // Add obfuscation for data protection
+    const { obfuscateData } = await import('./dataProtection');
+    return obfuscateData(allStudents);
   } catch (error) {
     console.error('Error loading attendance data:', error);
     return [];

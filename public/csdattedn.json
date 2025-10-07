@@ -1,0 +1,4386 @@
+{
+    "Error": false,
+    "subjectDetails": [
+        {
+            "subjectId": 105,
+            "subjectName": "SKILLING"
+        },
+        {
+            "subjectId": 103,
+            "subjectName": "PS"
+        },
+        {
+            "subjectId": 104,
+            "subjectName": "FS"
+        },
+        {
+            "subjectId": 119,
+            "subjectName": "IDS"
+        },
+        {
+            "subjectId": 113,
+            "subjectName": "ADA"
+        },
+        {
+            "subjectId": 108,
+            "subjectName": "CN"
+        },
+        {
+            "subjectId": 121,
+            "subjectName": "R-LAB"
+        },
+        {
+            "subjectId": 116,
+            "subjectName": "AI"
+        },
+        {
+            "subjectId": 109,
+            "subjectName": "DEV-OPS"
+        },
+        {
+            "subjectId": 115,
+            "subjectName": "ACS-LAB"
+        },
+        {
+            "subjectId": 122,
+            "subjectName": "ETL"
+        },
+        {
+            "subjectId": 117,
+            "subjectName": "IPR"
+        }
+    ],
+    "studentsAttendance": [
+        {
+            "studentId": 321,
+            "hallticket": "23P81A6701",
+            "studentName": "A BHARGHAV RAM",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "36/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "45/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "30/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "19/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "32/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "5/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "5/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "5/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "1/4"
+                }
+            ],
+            "totalPresent": 203,
+            "totalPeriods": 331,
+            "percentage": "61.33",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 322,
+            "hallticket": "23P81A6702",
+            "studentName": "ABDULLAH ARSHAD",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "33/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "37/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "34/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "18/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "28/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "5/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "6/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "6/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "0/4"
+                }
+            ],
+            "totalPresent": 192,
+            "totalPeriods": 331,
+            "percentage": "58.01",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 323,
+            "hallticket": "23P81A6703",
+            "studentName": "ADLA NAINIKA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "41/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "48/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "40/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "16/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "27/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "23/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "13/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "17/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "12/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 254,
+            "totalPeriods": 331,
+            "percentage": "76.74",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 324,
+            "hallticket": "23P81A6704",
+            "studentName": "AJJAKOLU HRUSHIKESH REDDY",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "33/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "30/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "16/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "17/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "16/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "11/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "9/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "3/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "3/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 175,
+            "totalPeriods": 331,
+            "percentage": "52.87",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 325,
+            "hallticket": "23P81A6705",
+            "studentName": "AKKENAPALLY SHIVA SAI",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "16/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "14/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "28/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "8/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "6/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "4/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "5/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "4/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "4/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 91,
+            "totalPeriods": 331,
+            "percentage": "27.49",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 326,
+            "hallticket": "23P81A6706",
+            "studentName": "ALISHETY SANKETH",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "17/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "10/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "28/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "11/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "8/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "2/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "2/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "7/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "3/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "3/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "1/4"
+                }
+            ],
+            "totalPresent": 92,
+            "totalPeriods": 331,
+            "percentage": "27.79",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 327,
+            "hallticket": "23P81A6707",
+            "studentName": "ALUVALA ABHISHEK GOUD",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "36/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "42/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "38/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "24/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "21/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "6/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "15/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "8/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 221,
+            "totalPeriods": 331,
+            "percentage": "66.77",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 328,
+            "hallticket": "23P81A6708",
+            "studentName": "AMANAGANTI SAI NATH REDDY",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "45/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "28/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "19/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "18/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "9/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "10/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "9/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 195,
+            "totalPeriods": 331,
+            "percentage": "58.91",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 329,
+            "hallticket": "23P81A6709",
+            "studentName": "BALAMONI SATHVIKA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "41/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "48/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "40/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "27/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "27/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "13/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "17/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "12/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 260,
+            "totalPeriods": 331,
+            "percentage": "78.55",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 330,
+            "hallticket": "23P81A6710",
+            "studentName": "BANDARI SHIVA KUMAR",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "5/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "0/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "18/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "2/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "1/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "0/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "0/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "0/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "0/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "0/4"
+                }
+            ],
+            "totalPresent": 26,
+            "totalPeriods": 331,
+            "percentage": "7.85",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 331,
+            "hallticket": "23P81A6711",
+            "studentName": "BANDI HARSHITH REDDY",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "33/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "26/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "12/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "11/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "10/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "6/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "1/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 164,
+            "totalPeriods": 331,
+            "percentage": "49.55",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 332,
+            "hallticket": "23P81A6712",
+            "studentName": "BARISETTY SAHAJA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "21/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "40/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "30/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "11/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "16/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "21/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "11/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "12/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "5/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 183,
+            "totalPeriods": 331,
+            "percentage": "55.29",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 333,
+            "hallticket": "23P81A6713",
+            "studentName": "BIKUMALLA SRIWATSAVA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "33/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "44/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "36/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "16/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "27/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "27/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "12/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "13/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 236,
+            "totalPeriods": 331,
+            "percentage": "71.30",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 334,
+            "hallticket": "23P81A6714",
+            "studentName": "BONAGIRI AKSHITHA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "13/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "28/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "30/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "14/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "12/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "14/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "6/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "10/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "3/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 142,
+            "totalPeriods": 331,
+            "percentage": "42.90",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 335,
+            "hallticket": "23P81A6715",
+            "studentName": "BRAHMADEVARA SNIGDHA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "25/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "49/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "21/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "25/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "11/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "15/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "17/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 230,
+            "totalPeriods": 331,
+            "percentage": "69.49",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 336,
+            "hallticket": "23P81A6716",
+            "studentName": "CHITTOORI LAKSHMI PRAGJNA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "45/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "51/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "40/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "16/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "28/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "31/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "13/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "17/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 275,
+            "totalPeriods": 331,
+            "percentage": "83.08",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 337,
+            "hallticket": "23P81A6717",
+            "studentName": "DANDANAYAK HARSHAVARDHAN",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "33/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "48/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "36/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "18/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "18/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "8/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "11/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "5/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 209,
+            "totalPeriods": 331,
+            "percentage": "63.14",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 338,
+            "hallticket": "23P81A6718",
+            "studentName": "DEVALLA LAKSHMI SAI SRAVYA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "45/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "47/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "34/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "16/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "21/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "30/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "3/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "5/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "5/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "3/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "1/4"
+                }
+            ],
+            "totalPresent": 216,
+            "totalPeriods": 331,
+            "percentage": "65.26",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 339,
+            "hallticket": "23P81A6719",
+            "studentName": "DEVANOOR ANIRUDH",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "16/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "8/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "26/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "7/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "11/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "12/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "3/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "4/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "2/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "3/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "0/4"
+                }
+            ],
+            "totalPresent": 92,
+            "totalPeriods": 331,
+            "percentage": "27.79",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 340,
+            "hallticket": "23P81A6720",
+            "studentName": "DUDALA PRANEETH",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "13/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "24/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "30/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "12/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "9/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "2/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "1/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "5/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "3/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 107,
+            "totalPeriods": 331,
+            "percentage": "32.33",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 341,
+            "hallticket": "23P81A6721",
+            "studentName": "ERADADILLA SAI KUMAR",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "41/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "32/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "30/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "19/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "16/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "12/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "10/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 193,
+            "totalPeriods": 331,
+            "percentage": "58.31",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 342,
+            "hallticket": "23P81A6722",
+            "studentName": "GANGAPURAM VINAY GOUD",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "48/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "20/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "38/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "21/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "31/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "30/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "9/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "9/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "7/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "5/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "0/4"
+                }
+            ],
+            "totalPresent": 226,
+            "totalPeriods": 331,
+            "percentage": "68.28",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 343,
+            "hallticket": "23P81A6723",
+            "studentName": "GINNAKUNTI TEJASWINI",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "29/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "41/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "36/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "19/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "16/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "12/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "11/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 200,
+            "totalPeriods": 331,
+            "percentage": "60.42",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 344,
+            "hallticket": "23P81A6724",
+            "studentName": "GODUR SRINIVAS",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "41/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "44/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "42/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "22/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "27/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "31/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "11/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "19/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "17/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 269,
+            "totalPeriods": 331,
+            "percentage": "81.27",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 345,
+            "hallticket": "23P81A6725",
+            "studentName": "GORIGE SRIMANI",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "37/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "32/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "38/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "18/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "17/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "9/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "9/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "5/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 201,
+            "totalPeriods": 331,
+            "percentage": "60.73",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 346,
+            "hallticket": "23P81A6726",
+            "studentName": "GOTTE PRANAY KUMAR",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "29/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "22/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "34/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "11/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "6/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "2/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "10/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "7/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 146,
+            "totalPeriods": 331,
+            "percentage": "44.11",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 347,
+            "hallticket": "23P81A6727",
+            "studentName": "GUNDEMONI SNEHITH",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "36/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "57/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "16/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "26/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "29/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "10/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "15/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 249,
+            "totalPeriods": 331,
+            "percentage": "75.23",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 348,
+            "hallticket": "23P81A6728",
+            "studentName": "JILLALA KORESH REDDY",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "48/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "22/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "38/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "21/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "31/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "30/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "9/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "9/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "7/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "0/4"
+                }
+            ],
+            "totalPresent": 229,
+            "totalPeriods": 331,
+            "percentage": "69.18",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 349,
+            "hallticket": "23P81A6729",
+            "studentName": "KATAM LIKHITHA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "33/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "37/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "40/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "21/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "20/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "9/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "16/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "15/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 219,
+            "totalPeriods": 331,
+            "percentage": "66.16",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 350,
+            "hallticket": "23P81A6730",
+            "studentName": "KONDURU SRINEET",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "13/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "22/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "26/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "10/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "9/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "0/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "0/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "5/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "3/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 96,
+            "totalPeriods": 331,
+            "percentage": "29.00",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 351,
+            "hallticket": "23P81A6731",
+            "studentName": "KOTHAMASU KIRTHANA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "37/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "46/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "44/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "20/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "29/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "27/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "13/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "15/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "15/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 261,
+            "totalPeriods": 331,
+            "percentage": "78.85",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 352,
+            "hallticket": "23P81A6732",
+            "studentName": "KUMKUM BHATI",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "29/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "55/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "40/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "26/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "26/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "13/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "16/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 262,
+            "totalPeriods": 331,
+            "percentage": "79.15",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 353,
+            "hallticket": "23P81A6733",
+            "studentName": "KUNTALA KAUSHIK",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "25/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "46/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "40/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "16/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "16/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "20/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "9/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "7/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "5/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 200,
+            "totalPeriods": 331,
+            "percentage": "60.42",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 354,
+            "hallticket": "23P81A6734",
+            "studentName": "MAKTALA SATWIK GOUD",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "28/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "25/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "28/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "13/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "21/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "15/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "5/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "11/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "15/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "3/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 166,
+            "totalPeriods": 331,
+            "percentage": "50.15",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 355,
+            "hallticket": "23P81A6735",
+            "studentName": "MALAY SHIVA SUDEEP REDDY",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "33/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "26/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "34/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "13/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "8/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "10/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "10/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "3/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 168,
+            "totalPeriods": 331,
+            "percentage": "50.76",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 356,
+            "hallticket": "23P81A6736",
+            "studentName": "MANDIGA KARTHIKEYA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "36/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "49/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "40/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "21/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "22/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "18/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "5/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "16/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "14/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 234,
+            "totalPeriods": 331,
+            "percentage": "70.69",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 357,
+            "hallticket": "23P81A6737",
+            "studentName": "MANURI VENKATA GURU SRI CHARAN",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "21/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "38/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "30/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "14/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "19/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "24/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "11/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "6/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "8/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "1/4"
+                }
+            ],
+            "totalPresent": 182,
+            "totalPeriods": 331,
+            "percentage": "54.98",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 358,
+            "hallticket": "23P81A6738",
+            "studentName": "NAMANI SAI CHARAN",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "32/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "45/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "36/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "20/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "20/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "5/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "11/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 216,
+            "totalPeriods": 331,
+            "percentage": "65.26",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 359,
+            "hallticket": "23P81A6739",
+            "studentName": "NAREDDY HARSHITH REDDY",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "21/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "24/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "13/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "4/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "2/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "9/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "9/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 140,
+            "totalPeriods": 331,
+            "percentage": "42.30",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 360,
+            "hallticket": "23P81A6740",
+            "studentName": "NEDUNOORI PALLAPU RAJU",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "37/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "51/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "42/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "21/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "23/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "32/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "13/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "15/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "17/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 267,
+            "totalPeriods": 331,
+            "percentage": "80.66",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 361,
+            "hallticket": "23P81A6741",
+            "studentName": "NETHALA RUSHIKA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "21/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "27/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "30/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "11/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "21/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "10/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "5/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "3/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 159,
+            "totalPeriods": 331,
+            "percentage": "48.04",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 362,
+            "hallticket": "23P81A6742",
+            "studentName": "OMKAR REDDY SHANALA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "40/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "50/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "19/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "20/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "8/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "8/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 220,
+            "totalPeriods": 331,
+            "percentage": "66.47",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 363,
+            "hallticket": "23P81A6743",
+            "studentName": "PERUGU JAHNAVI",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "25/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "53/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "36/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "20/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "18/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "6/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "10/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "1/4"
+                }
+            ],
+            "totalPresent": 211,
+            "totalPeriods": 331,
+            "percentage": "63.75",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 364,
+            "hallticket": "23P81A6744",
+            "studentName": "POLOJU SAI KEERTHANA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "33/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "39/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "34/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "17/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "20/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "11/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "11/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 205,
+            "totalPeriods": 331,
+            "percentage": "61.93",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 365,
+            "hallticket": "23P81A6745",
+            "studentName": "SAMALA CHATHURYA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "33/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "51/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "34/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "14/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "20/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "14/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "9/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "10/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 213,
+            "totalPeriods": 331,
+            "percentage": "64.35",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 366,
+            "hallticket": "23P81A6746",
+            "studentName": "SIRISANAGANDLA SOWMYA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "41/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "41/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "20/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "24/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "11/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "9/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "12/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 223,
+            "totalPeriods": 331,
+            "percentage": "67.37",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 367,
+            "hallticket": "23P81A6747",
+            "studentName": "SOLLETI AKSHITHA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "41/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "50/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "40/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "26/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "25/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "13/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "10/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 253,
+            "totalPeriods": 331,
+            "percentage": "76.44",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 368,
+            "hallticket": "23P81A6748",
+            "studentName": "SRI SAMVARTHIKA MUNIMADUGU",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "45/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "51/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "42/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "24/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "29/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "11/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "18/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "17/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "5/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 271,
+            "totalPeriods": 331,
+            "percentage": "81.87",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 369,
+            "hallticket": "23P81A6749",
+            "studentName": "SYED MOHAMMED YOUNUS",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "37/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "42/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "40/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "22/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "12/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "6/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "1/4"
+                }
+            ],
+            "totalPresent": 208,
+            "totalPeriods": 331,
+            "percentage": "62.84",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 370,
+            "hallticket": "23P81A6750",
+            "studentName": "T SRI HARI BABU",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "12/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "2/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "22/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "6/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "3/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "2/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "2/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "3/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "3/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "1/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 60,
+            "totalPeriods": 331,
+            "percentage": "18.13",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 371,
+            "hallticket": "23P81A6751",
+            "studentName": "TADUKA AKSHAY KUMAR",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "12/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "4/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "22/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "9/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "2/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "8/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "6/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "2/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "1/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "1/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "1/4"
+                }
+            ],
+            "totalPresent": 70,
+            "totalPeriods": 331,
+            "percentage": "21.15",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 372,
+            "hallticket": "23P81A6752",
+            "studentName": "TANNIRU JASHWANTH KUMAR",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "29/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "20/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "20/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "10/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "4/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "10/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "6/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 159,
+            "totalPeriods": 331,
+            "percentage": "48.04",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 373,
+            "hallticket": "23P81A6753",
+            "studentName": "TERALA SAMIKSHA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "45/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "43/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "20/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "24/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "33/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "6/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "7/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "3/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "1/4"
+                }
+            ],
+            "totalPresent": 229,
+            "totalPeriods": 331,
+            "percentage": "69.18",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 374,
+            "hallticket": "23P81A6754",
+            "studentName": "THOTA LOKESHWARABHIRAM",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "36/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "51/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "42/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "20/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "25/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "15/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "9/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "15/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "15/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 242,
+            "totalPeriods": 331,
+            "percentage": "73.11",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 375,
+            "hallticket": "23P81A6755",
+            "studentName": "TIKKALI VENKATESH",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "37/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "35/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "23/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "25/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "20/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "14/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "5/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 224,
+            "totalPeriods": 331,
+            "percentage": "67.67",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 376,
+            "hallticket": "23P81A6756",
+            "studentName": "VANJA RISHI KUMAR REDDY",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "41/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "40/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "20/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "16/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "24/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "18/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "12/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 207,
+            "totalPeriods": 331,
+            "percentage": "62.54",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 377,
+            "hallticket": "23P81A6757",
+            "studentName": "VELUPALLY ROHAN SAI",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "45/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "56/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "42/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "21/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "26/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "19/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "0/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "12/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 251,
+            "totalPeriods": 331,
+            "percentage": "75.83",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 378,
+            "hallticket": "23P81A6758",
+            "studentName": "VOJJALA SHASHVITHA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "25/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "12/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "12/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "10/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "9/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "16/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "3/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "3/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "5/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 102,
+            "totalPeriods": 331,
+            "percentage": "30.82",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 379,
+            "hallticket": "23P81A6759",
+            "studentName": "YARAKALA SAI CHARAN",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "25/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "39/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "36/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "16/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "19/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "9/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "16/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "15/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "5/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 207,
+            "totalPeriods": 331,
+            "percentage": "62.54",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 380,
+            "hallticket": "23P81A6760",
+            "studentName": "YELLISETTY SAI AKSHITA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "37/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "36/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "26/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "20/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "21/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "19/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "9/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "11/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "7/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "5/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 198,
+            "totalPeriods": 331,
+            "percentage": "59.82",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 381,
+            "hallticket": "23P81A6761",
+            "studentName": "JAMPALA PAVANTEJA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "13/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "24/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "28/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "12/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "11/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "4/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "2/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "5/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "5/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 114,
+            "totalPeriods": 331,
+            "percentage": "34.44",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 382,
+            "hallticket": "23P81A6762",
+            "studentName": "V SAI MARUTHI",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "29/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "40/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "34/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "15/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "9/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "10/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "8/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "3/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 185,
+            "totalPeriods": 331,
+            "percentage": "55.89",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 383,
+            "hallticket": "23P81A6763",
+            "studentName": "PENDURTHI SASHI",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "33/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "28/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "28/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "12/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "17/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "19/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "4/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "9/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "9/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "3/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 170,
+            "totalPeriods": 331,
+            "percentage": "51.36",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 384,
+            "hallticket": "23P81A6764",
+            "studentName": "GADDAM VENNELA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "29/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "39/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "38/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "21/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "20/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "20/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "12/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "11/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 212,
+            "totalPeriods": 331,
+            "percentage": "64.05",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 385,
+            "hallticket": "24P85A6701",
+            "studentName": "JONNALA VARSHIKA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "37/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "43/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "26/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "25/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "8/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "15/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 229,
+            "totalPeriods": 331,
+            "percentage": "69.18",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 386,
+            "hallticket": "24P85A6702",
+            "studentName": "KATLA SATHWIKA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "49/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "45/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "34/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "30/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "33/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "11/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 265,
+            "totalPeriods": 331,
+            "percentage": "80.06",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 387,
+            "hallticket": "24P85A6703",
+            "studentName": "KATTI SAI SRIMAN",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "33/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "27/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "36/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "14/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "18/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "8/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "10/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "8/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "5/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "1/4"
+                }
+            ],
+            "totalPresent": 179,
+            "totalPeriods": 331,
+            "percentage": "54.08",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 388,
+            "hallticket": "24P85A6704",
+            "studentName": "KOMMU KARTHIK",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "12/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "12/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "26/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "4/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "5/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "8/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "4/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "5/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "5/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "0/4"
+                }
+            ],
+            "totalPresent": 87,
+            "totalPeriods": 331,
+            "percentage": "26.28",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 389,
+            "hallticket": "24P85A6705",
+            "studentName": "MADA NITHIN REDDY",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "33/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "31/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "36/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "19/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "19/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "5/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "17/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "13/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "3/4"
+                }
+            ],
+            "totalPresent": 204,
+            "totalPeriods": 331,
+            "percentage": "61.63",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 390,
+            "hallticket": "24P85A6706",
+            "studentName": "SAMUDRAM ABHINAI SAGAR",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "37/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "33/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "32/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "24/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "21/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "12/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "9/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "7/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "2/4"
+                }
+            ],
+            "totalPresent": 203,
+            "totalPeriods": 331,
+            "percentage": "61.33",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        },
+        {
+            "studentId": 391,
+            "hallticket": "24P85A6707",
+            "studentName": "TULA SMITHA",
+            "attendance": [
+                {
+                    "subjectId": 105,
+                    "status": "29/49"
+                },
+                {
+                    "subjectId": 103,
+                    "status": "41/65"
+                },
+                {
+                    "subjectId": 104,
+                    "status": "36/44"
+                },
+                {
+                    "subjectId": 119,
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 113,
+                    "status": "21/34"
+                },
+                {
+                    "subjectId": 108,
+                    "status": "25/41"
+                },
+                {
+                    "subjectId": 121,
+                    "status": "12/13"
+                },
+                {
+                    "subjectId": 116,
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 109,
+                    "status": "14/22"
+                },
+                {
+                    "subjectId": 115,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 122,
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 117,
+                    "status": "4/4"
+                }
+            ],
+            "totalPresent": 226,
+            "totalPeriods": 331,
+            "percentage": "68.28",
+            "totalBiometricPresentDays": 0,
+            "totalBiometricWorkingDays": 0,
+            "biometricpercentage": 0
+        }
+    ]
+}

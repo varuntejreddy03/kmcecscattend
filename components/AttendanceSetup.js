@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { findStudentByHallTicket, getAttendanceColor } from '../utils/attendanceUtils';
+import SiteProtection from './SiteProtection';
 
 export default function AttendanceSetup({ students, onSetupComplete }) {
   const [hallTicket, setHallTicket] = useState('');
@@ -41,9 +42,24 @@ export default function AttendanceSetup({ students, onSetupComplete }) {
 
   return (
     <div className="container">
+      <SiteProtection />
       <div className="header">
-        <h1>Attendance Tracker</h1>
-        <p>Track your attendance easily and efficiently</p>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '12px', marginBottom: '8px' }}>
+          <span style={{ fontSize: '2.5rem' }}>🎓</span>
+          <h1 style={{ 
+            background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+            WebkitBackgroundClip: 'text',
+            WebkitTextFillColor: 'transparent',
+            backgroundClip: 'text',
+            margin: 0,
+            fontWeight: 'bold'
+          }}>KMCE Attendance Tracker</h1>
+          <span style={{ fontSize: '2.5rem' }}>📊</span>
+        </div>
+        <p style={{ color: '#aaa', fontSize: '1rem', margin: '0 0 8px 0' }}>
+          🏛️ Keshav Memorial College of Engineering
+        </p>
+        <p style={{ color: '#aaa', fontSize: '0.9rem' }}>Track your attendance easily and efficiently</p>
       </div>
 
       <div className="card setup-form">
@@ -94,7 +110,23 @@ export default function AttendanceSetup({ students, onSetupComplete }) {
           <div style={{ marginTop: '24px', padding: '20px', background: '#0a0a0a', borderRadius: '8px' }}>
             <h3 style={{ marginBottom: '20px', textAlign: 'center' }}>👥 Class Attendance Overview</h3>
             
-            {/* Class Stats */}
+            {/* Section-wise Stats */}
+            <div style={{ marginBottom: '20px' }}>
+              <h4 style={{ marginBottom: '12px' }}>📊 Section-wise Overview</h4>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(120px, 1fr))', gap: '8px', marginBottom: '16px' }}>
+                {['CSE A', 'CSE B', 'CSC', 'CSD', 'CSM', 'CSO'].map(section => {
+                  const sectionStudents = students.filter(s => s.section === section);
+                  return (
+                    <div key={section} className="stat-card" style={{ padding: '8px', textAlign: 'center' }}>
+                      <div className="stat-value" style={{ fontSize: '1.2rem' }}>{sectionStudents.length}</div>
+                      <div className="stat-label" style={{ fontSize: '0.8rem' }}>{section}</div>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+
+            {/* Overall Stats */}
             <div className="stats-grid" style={{ marginBottom: '20px' }}>
               <div className="stat-card">
                 <div className="stat-value">{students.length}</div>

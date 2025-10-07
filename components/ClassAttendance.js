@@ -1,17 +1,21 @@
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import { SUBJECTS, parseAttendanceStatus, getAttendanceColor, calculatePercentage } from '../utils/attendanceUtils';
+import VirtualizedList from './VirtualizedList';
 
 export default function ClassAttendance({ students }) {
   const [sortBy, setSortBy] = useState('percentage');
   const [sortOrder, setSortOrder] = useState('desc');
   const [searchTerm, setSearchTerm] = useState('');
+  const [selectedSection, setSelectedSection] = useState('all');
 
   // Filter and sort students
   const filteredStudents = students
-    .filter(student => 
-      student.studentName.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      student.hallticket.toLowerCase().includes(searchTerm.toLowerCase())
-    )
+    .filter(student => {
+      const matchesSearch = student.studentName.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                           student.hallticket.toLowerCase().includes(searchTerm.toLowerCase());
+      const matchesSection = selectedSection === 'all' || student.section === selectedSection;
+      return matchesSearch && matchesSection;
+    })
     .sort((a, b) => {
       let aValue, bValue;
       
@@ -60,6 +64,26 @@ export default function ClassAttendance({ students }) {
     <div className="card animate-slide-up">
       <h2 style={{ marginBottom: '20px' }}>👥 Class Attendance Overview</h2>
       
+      {/* Section Filter */}
+      <div style={{ marginBottom: '16px' }}>
+        <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap', justifyContent: 'center' }}>
+          {['all', 'CSE A', 'CSE B', 'CSC', 'CSD', 'CSM', 'CSO'].map(section => (
+            <button
+              key={section}
+              className={`btn ${selectedSection === section ? '' : 'btn-secondary'}`}
+              onClick={() => setSelectedSection(section)}
+              style={{ 
+                fontSize: '0.9rem',
+                padding: '8px 16px',
+                minWidth: '80px'
+              }}
+            >
+              {section === 'all' ? 'All Sections' : section}
+            </button>
+          ))}
+        </div>
+      </div>
+
       {/* Controls */}
       <div style={{ 
         display: 'flex', 
@@ -99,43 +123,108 @@ export default function ClassAttendance({ students }) {
         </div>
       </div>
 
-      {/* Stats Summary */}
-      <div className="stats-grid" style={{ marginBottom: '24px' }}>
-        <div className="stat-card">
-          <div className="stat-value">{students.length}</div>
-          <div className="stat-label">Total Students</div>
-        </div>
-        <div className="stat-card">
-          <div className="stat-value percentage-good">
-            {students.filter(s => parseFloat(s.percentage) >= 75).length}
+      {/* Overall Stats Summary */}
+      <div style={{ marginBottom: '24px' }}>
+        <h3>📊 Overall Statistics</h3>
+        <div className="stats-grid">
+          <div className="stat-card">
+            <div className="stat-value">{students.length}</div>
+            <div className="stat-label">Total Students</div>
           </div>
-          <div className="stat-label">Above 75%</div>
-        </div>
-        <div className="stat-card">
-          <div className="stat-value percentage-warning">
-            {students.filter(s => parseFloat(s.percentage) >= 65 && parseFloat(s.percentage) < 75).length}
+          <div className="stat-card">
+            <div className="stat-value percentage-good">
+              {students.filter(s => parseFloat(s.percentage) >= 75).length}
+            </div>
+            <div className="stat-label">Above 75%</div>
           </div>
-          <div className="stat-label">65% - 75%</div>
-        </div>
-        <div className="stat-card">
-          <div className="stat-value percentage-danger">
-            {students.filter(s => parseFloat(s.percentage) < 65).length}
+          <div className="stat-card">
+            <div className="stat-value percentage-warning">
+              {students.filter(s => parseFloat(s.percentage) >= 65 && parseFloat(s.percentage) < 75).length}
+            </div>
+            <div className="stat-label">65% - 75%</div>
           </div>
-          <div className="stat-label">Below 65%</div>
+          <div className="stat-card">
+            <div className="stat-value percentage-danger">
+              {students.filter(s => parseFloat(s.percentage) < 65).length}
+            </div>
+            <div className="stat-label">Below 65%</div>
+          </div>
         </div>
       </div>
 
-      {/* Students Grid */}
-      <div className="students-grid">
-        {filteredStudents.map((student, index) => {
+      {/* Section-wise Statistics */}
+      <div style={{ marginBottom: '24px' }}>
+        <h3>📊 Section-wise Statistics</h3>
+        <div style={{ display: 'grid', gap: '12px' }}>
+          {['CSE A', 'CSE B', 'CSC', 'CSD', 'CSM', 'CSO'].map(section => {
+            const sectionStudents = students.filter(s => s.section === section);
+            const sectionAvg = sectionStudents.length > 0 ? 
+              (sectionStudents.reduce((sum, s) => sum + parseFloat(s.percentage), 0) / sectionStudents.length).toFixed(2) : 0;
+            const good = sectionStudents.filter(s => parseFloat(s.percentage) >= 75).length;
+            const average = sectionStudents.filter(s => parseFloat(s.percentage) >= 65 && parseFloat(s.percentage) < 75).length;
+            const poor = sectionStudents.filter(s => parseFloat(s.percentage) < 65).length;
+            
+            return (
+              <div 
+                key={section}
+                style={{
+                  display: 'grid',
+                  gridTemplateColumns: '100px 1fr 60px 40px 40px 40px',
+                  alignItems: 'center',
+                  gap: '12px',
+                  padding: '12px',
+                  background: '#111',
+                  borderRadius: '8px'
+                }}
+              >
+                <div style={{ fontWeight: 'bold', color: '#fff' }}>{section}</div>
+                <div style={{ 
+                  background: '#333', 
+                  borderRadius: '4px', 
+                  height: '8px',
+                  position: 'relative'
+                }}>
+                  <div 
+                    style={{
+                      background: parseFloat(sectionAvg) >= 75 ? '#28a745' : 
+                                 parseFloat(sectionAvg) >= 65 ? '#ffc107' : '#dc3545',
+                      height: '100%',
+                      borderRadius: '4px',
+                      width: `${Math.min(parseFloat(sectionAvg), 100)}%`
+                    }}
+                  />
+                </div>
+                <div style={{ fontWeight: 'bold', color: '#fff' }}>{sectionAvg}%</div>
+                <div style={{ color: '#28a745', fontSize: '0.9rem' }}>✓{good}</div>
+                <div style={{ color: '#ffc107', fontSize: '0.9rem' }}>⚠{average}</div>
+                <div style={{ color: '#dc3545', fontSize: '0.9rem' }}>✗{poor}</div>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+
+      {/* Students List - Virtualized for Performance */}
+      <VirtualizedList
+        items={students}
+        searchTerm={searchTerm}
+        filterFn={(student) => selectedSection === 'all' || student.section === selectedSection}
+        itemHeight={200}
+        containerHeight={600}
+        renderItem={(student, index) => {
           const percentage = parseFloat(student.percentage);
           const colorClass = getAttendanceColor(percentage);
           
           return (
             <div 
               key={student.studentId} 
-              className="student-card animate-fade-in"
-              style={{ animationDelay: `${index * 0.05}s` }}
+              className="student-card"
+              style={{ 
+                marginBottom: '16px',
+                height: '180px',
+                display: 'flex',
+                flexDirection: 'column'
+              }}
             >
               <div className="student-header">
                 <div className="student-avatar">
@@ -156,14 +245,16 @@ export default function ClassAttendance({ students }) {
                     {student.studentName.length > 20 ? student.studentName.substring(0, 20) + '...' : student.studentName}
                   </div>
                   <div className="student-hallticket">{student.hallticket}</div>
-                  <div className="student-id">ID: {student.studentId}</div>
+                  <div className="student-section" style={{ color: '#ffc107', fontSize: '0.8rem', fontWeight: '500' }}>
+                    {student.section || 'N/A'}
+                  </div>
                 </div>
                 <div className={`attendance-badge badge-${colorClass}`}>
                   {student.percentage}%
                 </div>
               </div>
               
-              <div className="student-stats">
+              <div className="student-stats" style={{ flex: 1 }}>
                 <div className="stat-item">
                   <span>Present</span>
                   <strong>{student.totalPresent}</strong>
@@ -176,38 +267,21 @@ export default function ClassAttendance({ students }) {
                   <span>Absent</span>
                   <strong className="text-danger">{student.totalPeriods - student.totalPresent}</strong>
                 </div>
-                <div className="stat-item" style={{ gridColumn: 'span 3' }}>
-                  <span>Status</span>
-                  <strong className={`text-${colorClass === 'good' ? 'success' : colorClass === 'warning' ? 'warning' : 'danger'}`}>
-                    {percentage >= 75 ? '✅ Good' : percentage >= 65 ? '⚠️ Average' : '❌ Poor'}
-                  </strong>
-                </div>
               </div>
               
               {/* Progress Bar */}
-              <div style={{ marginTop: '12px' }}>
+              <div style={{ marginTop: 'auto' }}>
                 <div className="attendance-bar">
                   <div 
                     className={`attendance-fill fill-${colorClass}`}
                     style={{ width: `${percentage}%` }}
                   ></div>
                 </div>
-                <div style={{ 
-                  display: 'flex', 
-                  justifyContent: 'space-between', 
-                  fontSize: '0.8rem', 
-                  color: '#aaa',
-                  marginTop: '4px'
-                }}>
-                  <span>0%</span>
-                  <span>{percentage}%</span>
-                  <span>100%</span>
-                </div>
               </div>
             </div>
           );
-        })}
-      </div>
+        }}
+      />
 
       {filteredStudents.length === 0 && (
         <div style={{ 

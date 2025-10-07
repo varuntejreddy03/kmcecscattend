@@ -5,7 +5,16 @@ import SubjectAttendance from '../components/SubjectAttendance';
 import AttendanceAnalysis from '../components/AttendanceAnalysis';
 import AttendanceSummary from '../components/AttendanceSummary';
 import ClassAttendance from '../components/ClassAttendance';
+import AttendanceAlerts from '../components/AttendanceAlerts';
+import QuickStats from '../components/QuickStats';
+import PersonalGoals from '../components/PersonalGoals';
+import PersonalInsights from '../components/PersonalInsights';
+import PredictionEngine from '../components/PredictionEngine';
+import PersonalizedDashboard from '../components/PersonalizedDashboard';
+import SiteProtection from '../components/SiteProtection';
+
 import { loadAttendanceData, findStudentByHallTicket } from '../utils/attendanceUtils';
+import { deobfuscateData, memoizeData } from '../utils/dataProtection';
 
 export default function Home() {
   const [students, setStudents] = useState([]);
@@ -24,9 +33,11 @@ export default function Home() {
         localStorage.removeItem('attendanceData');
         localStorage.removeItem('attendanceDataTime');
         
-        // Always load fresh data - no caching
-        const data = await loadAttendanceData();
-        setStudents(data);
+        // Load and protect data
+        const rawData = await loadAttendanceData();
+        const cleanData = deobfuscateData(rawData);
+        const memoizedData = memoizeData('students', cleanData);
+        setStudents(memoizedData);
       } catch (error) {
         console.error('Failed to load attendance data:', error);
       } finally {
@@ -69,9 +80,11 @@ export default function Home() {
       localStorage.removeItem('attendanceData');
       localStorage.removeItem('attendanceDataTime');
       
-      // Load fresh data
-      const data = await loadAttendanceData();
-      setStudents(data);
+      // Load and protect fresh data
+      const rawData = await loadAttendanceData();
+      const cleanData = deobfuscateData(rawData);
+      const memoizedData = memoizeData('students_refresh', cleanData);
+      setStudents(memoizedData);
       
       // Update current student if exists
       if (currentStudent) {
@@ -86,6 +99,8 @@ export default function Home() {
       setLoading(false);
     }
   };
+
+
 
   if (loading) {
     return (
@@ -105,17 +120,35 @@ export default function Home() {
   }
 
   const tabs = [
-    { id: 'overview', label: 'Overview', icon: '📊' },
+    { id: 'dashboard', label: 'Dashboard', icon: '🏠' },
+    { id: 'overview', label: 'My Stats', icon: '📊' },
     { id: 'analysis', label: 'Analysis', icon: '📈' },
-    { id: 'class', label: 'Class', icon: '👥' },
-    { id: 'summary', label: 'Summary', icon: '📋' }
+    { id: 'predictions', label: 'Predictions', icon: '🔮' },
+    { id: 'goals', label: 'Goals', icon: '🎯' },
+    { id: 'insights', label: 'Insights', icon: '💡' },
+    { id: 'class', label: 'Class View', icon: '👥' }
   ];
 
   return (
     <div className="container">
+      <SiteProtection />
       {/* Header */}
       <div className="header">
-        <h1>Attendance Tracker</h1>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '12px', marginBottom: '8px' }}>
+          <span style={{ fontSize: '2.5rem' }}>🎓</span>
+          <h1 style={{ 
+            background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+            WebkitBackgroundClip: 'text',
+            WebkitTextFillColor: 'transparent',
+            backgroundClip: 'text',
+            margin: 0,
+            fontWeight: 'bold'
+          }}>KMCE Attendance Tracker</h1>
+          <span style={{ fontSize: '2.5rem' }}>📊</span>
+        </div>
+        <p style={{ color: '#aaa', fontSize: '1rem', margin: '0 0 16px 0', textAlign: 'center' }}>
+          🏛️ Keshav Memorial College of Engineering
+        </p>
         <div style={{ 
           background: 'rgba(255, 193, 7, 0.1)', 
           border: '1px solid #ffc107', 
@@ -175,9 +208,9 @@ export default function Home() {
         
         <div className="mobile-actions" style={{ 
           display: 'grid', 
-          gridTemplateColumns: '1fr 1fr 1fr',
+          gridTemplateColumns: '1fr 1fr',
           gap: '8px', 
-          maxWidth: '400px',
+          maxWidth: '300px',
           margin: '0 auto'
         }}>
           <button 
@@ -192,7 +225,7 @@ export default function Home() {
               justifyContent: 'center'
             }}
           >
-            Switch
+            Switch Student
           </button>
           <button 
             className="btn" 
@@ -211,31 +244,20 @@ export default function Home() {
           >
             {loading ? '⟳' : '🔄'} Refresh
           </button>
-          <button 
-            className="btn" 
-            onClick={() => setActiveTab('class')}
-            style={{ 
-              fontSize: '0.8rem', 
-              padding: '10px 16px',
-              minHeight: '44px',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center'
-            }}
-          >
-            👥 Class
-          </button>
         </div>
       </div>
 
       {/* Navigation Tabs */}
       <div className="nav-tabs" style={{ 
         display: 'grid',
-        gridTemplateColumns: '1fr 1fr',
-        gap: '8px', 
+        gridTemplateColumns: window.innerWidth > 768 ? 'repeat(7, 1fr)' : 'repeat(4, 1fr)',
+        gap: window.innerWidth > 768 ? '8px' : '4px', 
         marginBottom: '20px',
         borderBottom: '1px solid #333',
-        paddingBottom: '12px'
+        paddingBottom: '12px',
+        overflowX: 'auto',
+        scrollbarWidth: 'none',
+        msOverflowStyle: 'none'
       }}>
         {tabs.map(tab => (
           <button
@@ -250,22 +272,30 @@ export default function Home() {
               border: 'none',
               cursor: 'pointer',
               transition: 'all 0.3s ease',
-              fontSize: '0.85rem',
+              fontSize: '0.8rem',
               fontWeight: '500',
               textAlign: 'center',
-              minHeight: '44px',
+              minHeight: window.innerWidth > 768 ? '48px' : '40px',
               display: 'flex',
               alignItems: 'center',
-              justifyContent: 'center'
+              justifyContent: 'center',
+              flexDirection: window.innerWidth > 768 ? 'row' : 'column',
+              gap: window.innerWidth > 768 ? '8px' : '2px',
+              whiteSpace: 'nowrap',
+              minWidth: window.innerWidth > 768 ? 'auto' : '70px'
             }}
           >
-            <span style={{ marginRight: '6px' }}>{tab.icon}</span>
-            {tab.label}
+            <span style={{ fontSize: window.innerWidth > 768 ? '1.1rem' : '0.9rem' }}>{tab.icon}</span>
+            <span style={{ fontSize: window.innerWidth > 768 ? '0.9rem' : '0.65rem' }}>{tab.label}</span>
           </button>
         ))}
       </div>
 
       {/* Tab Content */}
+      {activeTab === 'dashboard' && (
+        <PersonalizedDashboard student={currentStudent} students={students} />
+      )}
+
       {activeTab === 'overview' && (
         <div className="animate-fade-in">
           <AttendanceStats student={currentStudent} />
@@ -277,15 +307,20 @@ export default function Home() {
         <AttendanceAnalysis student={currentStudent} />
       )}
 
-      {activeTab === 'class' && (
-        <ClassAttendance students={students} />
+      {activeTab === 'predictions' && (
+        <PredictionEngine student={currentStudent} />
       )}
 
-      {activeTab === 'summary' && (
-        <AttendanceSummary 
-          student={currentStudent}
-          attendanceRecords={attendanceRecords}
-        />
+      {activeTab === 'goals' && (
+        <PersonalGoals student={currentStudent} />
+      )}
+
+      {activeTab === 'insights' && (
+        <PersonalInsights student={currentStudent} students={students} />
+      )}
+
+      {activeTab === 'class' && (
+        <ClassAttendance students={students} />
       )}
 
       {/* Footer */}
@@ -296,7 +331,7 @@ export default function Home() {
         borderTop: '1px solid #333',
         color: '#666'
       }}>
-        <p style={{ fontSize: '0.9rem', margin: '0 0 12px 0' }}>Attendance Tracker - Track your progress efficiently</p>
+        <p style={{ fontSize: '0.9rem', margin: '0 0 12px 0' }}>🎓 KMCE Attendance Tracker - Track your progress efficiently</p>
         <div style={{ 
           marginTop: '8px',
           padding: '8px 12px',
