@@ -17,7 +17,8 @@ export const SUBJECTS = {
 // Load attendance data from JSON
 export const loadAttendanceData = async () => {
   try {
-    const response = await fetch('/attend.json');
+    // Add cache-busting parameter to ensure fresh data
+    const response = await fetch(`/attend.json?t=${Date.now()}`);
     const data = await response.json();
     return data.studentsAttendance || data;
   } catch (error) {

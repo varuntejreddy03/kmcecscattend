@@ -5,7 +5,7 @@ import SubjectAttendance from '../components/SubjectAttendance';
 import AttendanceAnalysis from '../components/AttendanceAnalysis';
 import AttendanceSummary from '../components/AttendanceSummary';
 import ClassAttendance from '../components/ClassAttendance';
-import { loadAttendanceData } from '../utils/attendanceUtils';
+import { loadAttendanceData, findStudentByHallTicket } from '../utils/attendanceUtils';
 
 export default function Home() {
   const [students, setStudents] = useState([]);
@@ -20,25 +20,13 @@ export default function Home() {
   useEffect(() => {
     const loadData = async () => {
       try {
-        // Check localStorage first
-        const cached = localStorage.getItem('attendanceData');
-        const cacheTime = localStorage.getItem('attendanceDataTime');
-        const now = Date.now();
+        // Clear any existing localStorage data
+        localStorage.removeItem('attendanceData');
+        localStorage.removeItem('attendanceDataTime');
         
-        // Use cache if less than 2 hours old
-        if (cached && cacheTime && (now - parseInt(cacheTime)) < 7200000) {
-          setStudents(JSON.parse(cached));
-          setLoading(false);
-          return;
-        }
-        
-        // Load fresh data
+        // Always load fresh data - no caching
         const data = await loadAttendanceData();
         setStudents(data);
-        
-        // Cache the data
-        localStorage.setItem('attendanceData', JSON.stringify(data));
-        localStorage.setItem('attendanceDataTime', now.toString());
       } catch (error) {
         console.error('Failed to load attendance data:', error);
       } finally {
@@ -68,6 +56,35 @@ export default function Home() {
     setCurrentStudent(null);
     setAttendanceRecords([]);
     setActiveTab('overview');
+    // Clear any localStorage data
+    localStorage.removeItem('attendanceData');
+    localStorage.removeItem('attendanceDataTime');
+  };
+
+  // Refresh data
+  const handleRefresh = async () => {
+    setLoading(true);
+    try {
+      // Clear localStorage
+      localStorage.removeItem('attendanceData');
+      localStorage.removeItem('attendanceDataTime');
+      
+      // Load fresh data
+      const data = await loadAttendanceData();
+      setStudents(data);
+      
+      // Update current student if exists
+      if (currentStudent) {
+        const updatedStudent = findStudentByHallTicket(data, currentStudent.hallticket);
+        if (updatedStudent) {
+          setCurrentStudent(updatedStudent);
+        }
+      }
+    } catch (error) {
+      console.error('Failed to refresh data:', error);
+    } finally {
+      setLoading(false);
+    }
   };
 
   if (loading) {
@@ -158,38 +175,55 @@ export default function Home() {
         
         <div className="mobile-actions" style={{ 
           display: 'grid', 
-          gridTemplateColumns: '1fr 1fr',
+          gridTemplateColumns: '1fr 1fr 1fr',
           gap: '8px', 
-          maxWidth: '300px',
+          maxWidth: '400px',
           margin: '0 auto'
         }}>
           <button 
             className="btn btn-secondary" 
             onClick={handleReset}
             style={{ 
-              fontSize: '0.9rem', 
-              padding: '12px 20px',
+              fontSize: '0.8rem', 
+              padding: '10px 16px',
               minHeight: '44px',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center'
             }}
           >
-            Switch Student
+            Switch
+          </button>
+          <button 
+            className="btn" 
+            onClick={handleRefresh}
+            disabled={loading}
+            style={{ 
+              fontSize: '0.8rem', 
+              padding: '10px 16px',
+              minHeight: '44px',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              background: loading ? '#666' : '#28a745',
+              opacity: loading ? 0.6 : 1
+            }}
+          >
+            {loading ? '⟳' : '🔄'} Refresh
           </button>
           <button 
             className="btn" 
             onClick={() => setActiveTab('class')}
             style={{ 
-              fontSize: '0.9rem', 
-              padding: '12px 20px',
+              fontSize: '0.8rem', 
+              padding: '10px 16px',
               minHeight: '44px',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center'
             }}
           >
-            👥 View Class
+            👥 Class
           </button>
         </div>
       </div>
