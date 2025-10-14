@@ -1,0 +1,16 @@
+[
+  {
+    "studentId": 246,
+    "hallticket": "24P85A6200",
+    "studentName": "TEST STUDENT",
+    "attendance": [
+      {
+        "subjectId": 105,
+        "status": "45/49"
+      }
+    ],
+    "totalPresent": 269,
+    "totalPeriods": 324,
+    "percentage": "83.02"
+  }
+]

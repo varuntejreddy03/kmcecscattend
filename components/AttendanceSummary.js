@@ -37,55 +37,55 @@ export default function AttendanceSummary({ student, attendanceRecords = [] }) {
   const stats = getAttendanceStats();
 
   return (
-    <div className="card">
-      <h2 style={{ marginBottom: '20px' }}>Attendance Summary</h2>
+    <div className="glass-card">
+      <h2 className="gradient-text mb-6">Attendance Summary</h2>
       
 
 
       {/* Overall Stats from JSON */}
-      <div className="stats-grid" style={{ marginBottom: '24px' }}>
-        <div className="stat-card">
-          <div className="stat-value percentage-good">{student.percentage}%</div>
-          <div className="stat-label">Current Attendance</div>
+      <div className="grid grid-cols-2 md:grid-cols-5 gap-4 mb-6">
+        <div className="glass-card-inner text-center">
+          <div className="text-2xl font-bold text-green-400">{student.percentage}%</div>
+          <div className="text-sm text-gray-400 mt-1">Current Attendance</div>
         </div>
-        <div className="stat-card">
-          <div className="stat-value" style={{ color: '#28a745' }}>{student.totalPresent}</div>
-          <div className="stat-label">Classes Attended</div>
+        <div className="glass-card-inner text-center">
+          <div className="text-2xl font-bold text-green-400">{student.totalPresent}</div>
+          <div className="text-sm text-gray-400 mt-1">Classes Attended</div>
         </div>
-        <div className="stat-card">
-          <div className="stat-value" style={{ color: '#dc3545' }}>{student.totalPeriods - student.totalPresent}</div>
-          <div className="stat-label">Classes Missed</div>
+        <div className="glass-card-inner text-center">
+          <div className="text-2xl font-bold text-red-400">{student.totalPeriods - student.totalPresent}</div>
+          <div className="text-sm text-gray-400 mt-1">Classes Missed</div>
         </div>
-        <div className="stat-card">
-          <div className="stat-value">{student.totalPeriods}</div>
-          <div className="stat-label">Total Classes</div>
+        <div className="glass-card-inner text-center">
+          <div className="text-2xl font-bold text-blue-400">{student.totalPeriods}</div>
+          <div className="text-sm text-gray-400 mt-1">Total Classes</div>
         </div>
-        <div className="stat-card">
-          <div className="stat-value" style={{ color: '#ffc107' }}>{Math.ceil((student.totalPeriods - student.totalPresent) / 8)}</div>
-          <div className="stat-label">Days Missed</div>
+        <div className="glass-card-inner text-center">
+          <div className="text-2xl font-bold text-yellow-400">{Math.ceil((student.totalPeriods - student.totalPresent) / 8)}</div>
+          <div className="text-sm text-gray-400 mt-1">Days Missed</div>
         </div>
       </div>
 
       {/* Performance Charts */}
-      <div style={{ marginBottom: '24px' }}>
-        <h3 style={{ marginBottom: '16px' }}>📊 Performance Analytics</h3>
+      <div className="mb-6">
+        <h3 className="gradient-text mb-4">📊 Performance Analytics</h3>
         
         {/* Attendance Distribution */}
-        <div className="stats-grid" style={{ marginBottom: '20px' }}>
-          <div className="stat-card">
-            <div className="stat-value" style={{ color: '#28a745' }}>75%+</div>
-            <div className="stat-label">Good Performance</div>
-            <div style={{ fontSize: '0.8rem', color: '#aaa', marginTop: '4px' }}>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-5">
+          <div className="glass-card-inner text-center">
+            <div className="text-2xl font-bold text-green-400">75%+</div>
+            <div className="text-sm text-gray-400 mt-1">Good Performance</div>
+            <div className="text-xs text-gray-500 mt-2">
               {student.attendance.filter(s => {
                 const { present, total } = parseAttendanceStatus(s.status);
                 return parseFloat(calculatePercentage(present, total)) >= 75;
               }).length} subjects
             </div>
           </div>
-          <div className="stat-card">
-            <div className="stat-value" style={{ color: '#ffc107' }}>65-74%</div>
-            <div className="stat-label">Average Performance</div>
-            <div style={{ fontSize: '0.8rem', color: '#aaa', marginTop: '4px' }}>
+          <div className="glass-card-inner text-center">
+            <div className="text-2xl font-bold text-yellow-400">65-74%</div>
+            <div className="text-sm text-gray-400 mt-1">Average Performance</div>
+            <div className="text-xs text-gray-500 mt-2">
               {student.attendance.filter(s => {
                 const { present, total } = parseAttendanceStatus(s.status);
                 const perc = parseFloat(calculatePercentage(present, total));
@@ -93,10 +93,10 @@ export default function AttendanceSummary({ student, attendanceRecords = [] }) {
               }).length} subjects
             </div>
           </div>
-          <div className="stat-card">
-            <div className="stat-value" style={{ color: '#dc3545' }}>&lt;65%</div>
-            <div className="stat-label">Needs Attention</div>
-            <div style={{ fontSize: '0.8rem', color: '#aaa', marginTop: '4px' }}>
+          <div className="glass-card-inner text-center">
+            <div className="text-2xl font-bold text-red-400">&lt;65%</div>
+            <div className="text-sm text-gray-400 mt-1">Needs Attention</div>
+            <div className="text-xs text-gray-500 mt-2">
               {student.attendance.filter(s => {
                 const { present, total } = parseAttendanceStatus(s.status);
                 return parseFloat(calculatePercentage(present, total)) < 65;
@@ -106,8 +106,8 @@ export default function AttendanceSummary({ student, attendanceRecords = [] }) {
         </div>
         
         {/* Progress Bars */}
-        <div style={{ background: '#0a0a0a', padding: '20px', borderRadius: '8px' }}>
-          <h4 style={{ marginBottom: '16px' }}>Subject Progress Overview</h4>
+        <div className="glass-card-inner">
+          <h4 className="text-lg font-semibold text-gray-200 mb-4">Subject Progress Overview</h4>
           {student.attendance.slice(0, 8).map((subject) => {
             const { present, total } = parseAttendanceStatus(subject.status);
             const percentage = parseFloat(calculatePercentage(present, total));
@@ -115,15 +115,15 @@ export default function AttendanceSummary({ student, attendanceRecords = [] }) {
             const subjectName = SUBJECTS[subject.subjectId] || `Subject ${subject.subjectId}`;
             
             return (
-              <div key={subject.subjectId} style={{ marginBottom: '12px' }}>
-                <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '4px' }}>
-                  <span style={{ fontSize: '0.9rem' }}>{subjectName}</span>
-                  <span className={`percentage-${colorClass}`} style={{ fontSize: '0.9rem', fontWeight: 'bold' }}>
+              <div key={subject.subjectId} className="mb-3">
+                <div className="flex justify-between items-center mb-1">
+                  <span className="text-sm text-gray-300">{subjectName}</span>
+                  <span className={`text-sm font-bold percentage-${colorClass}`}>
                     {percentage}% ({present}/{total})
                   </span>
                 </div>
-                <div className="attendance-bar" style={{ height: '6px' }}>
-                  <div className={`attendance-fill fill-${colorClass}`} style={{ width: `${percentage}%` }}></div>
+                <div className="w-full bg-gray-700 rounded-full h-2">
+                  <div className={`h-2 rounded-full fill-${colorClass}`} style={{ width: `${percentage}%` }}></div>
                 </div>
               </div>
             );

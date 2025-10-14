@@ -1,9 +1,10 @@
 import { SUBJECTS } from '../utils/attendanceUtils';
 import { motion } from 'framer-motion';
-import { Trophy, Target, TrendingUp, AlertTriangle, Award, BookOpen } from 'lucide-react';
+import { Trophy, Target, TrendingUp, AlertTriangle, Award, BookOpen, BarChart3 } from 'lucide-react';
 
-export default function PersonalInsights({ student, students }) {
+export default function CombinedStats({ student, students }) {
   const currentPercentage = parseFloat(student.percentage);
+  const absent = student.totalPeriods - student.totalPresent;
   
   // Calculate rank
   const sortedStudents = [...students].sort((a, b) => parseFloat(b.percentage) - parseFloat(a.percentage));
@@ -94,134 +95,146 @@ export default function PersonalInsights({ student, students }) {
   }
 
   return (
-    <div className="space-y-6 animate-fade-in">
-      {/* Personal Stats Overview */}
+    <div className="space-y-4 animate-fade-in">
+      {/* Mobile-First Overview Cards */}
       <motion.div 
         className="glass-card"
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
       >
-        <h2 className="gradient-text text-2xl font-bold mb-6 flex items-center gap-2">
-          <Trophy className="w-6 h-6" />
-          Personal Insights
+        <h2 className="gradient-text text-xl md:text-2xl font-bold mb-4 flex items-center gap-2">
+          <BarChart3 className="w-5 h-5 md:w-6 md:h-6" />
+          Attendance Overview
         </h2>
         
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+        {/* Main Stats - Mobile Optimized */}
+        <div className="grid grid-cols-2 gap-3 mb-4">
           <motion.div 
-            className="glass-card-inner text-center"
+            className="glass-card-inner text-center p-3"
             whileHover={{ scale: 1.02 }}
             transition={{ duration: 0.2 }}
           >
-            <div className="text-2xl font-bold text-yellow-400">#{rank}</div>
-            <div className="text-sm text-gray-400 mt-1">Overall Rank</div>
+            <div className={`text-2xl md:text-3xl font-bold ${
+              currentPercentage >= 75 ? 'text-green-400' : 
+              currentPercentage >= 65 ? 'text-yellow-400' : 'text-red-400'
+            }`}>
+              {student.percentage}%
+            </div>
+            <div className="text-xs md:text-sm text-gray-400 mt-1">Overall Attendance</div>
           </motion.div>
+          
           <motion.div 
-            className="glass-card-inner text-center"
+            className="glass-card-inner text-center p-3"
             whileHover={{ scale: 1.02 }}
             transition={{ duration: 0.2 }}
           >
-            <div className="text-2xl font-bold text-blue-400">#{sectionRank}</div>
-            <div className="text-sm text-gray-400 mt-1">Section Rank</div>
-          </motion.div>
-          <motion.div 
-            className="glass-card-inner text-center"
-            whileHover={{ scale: 1.02 }}
-            transition={{ duration: 0.2 }}
-          >
-            <div className="text-2xl font-bold text-purple-400">{student.section}</div>
-            <div className="text-sm text-gray-400 mt-1">Your Section</div>
-          </motion.div>
-          <motion.div 
-            className="glass-card-inner text-center"
-            whileHover={{ scale: 1.02 }}
-            transition={{ duration: 0.2 }}
-          >
-            <div className="text-2xl font-bold text-emerald-400">{sectionAvg}%</div>
-            <div className="text-sm text-gray-400 mt-1">Section Average</div>
+            <div className="text-2xl md:text-3xl font-bold text-yellow-400">#{rank}</div>
+            <div className="text-xs md:text-sm text-gray-400 mt-1">Overall Rank</div>
           </motion.div>
         </div>
 
-        {/* Performance Comparison */}
+        {/* Secondary Stats */}
+        <div className="grid grid-cols-4 gap-2 mb-4">
+          <div className="glass-card-inner text-center p-2">
+            <div className="text-lg md:text-xl font-bold text-green-400">{student.totalPresent}</div>
+            <div className="text-xs text-gray-400">Present</div>
+          </div>
+          <div className="glass-card-inner text-center p-2">
+            <div className="text-lg md:text-xl font-bold text-red-400">{absent}</div>
+            <div className="text-xs text-gray-400">Absent</div>
+          </div>
+          <div className="glass-card-inner text-center p-2">
+            <div className="text-lg md:text-xl font-bold text-blue-400">{student.totalPeriods}</div>
+            <div className="text-xs text-gray-400">Total</div>
+          </div>
+          <div className="glass-card-inner text-center p-2">
+            <div className="text-lg md:text-xl font-bold text-purple-400">#{sectionRank}</div>
+            <div className="text-xs text-gray-400">Section</div>
+          </div>
+        </div>
+
+        {/* Performance Comparison - Mobile Optimized */}
         <div className="glass-card-inner">
-          <h3 className="text-lg font-semibold text-gray-200 mb-4 flex items-center gap-2">
-            <TrendingUp className="w-5 h-5" />
-            Performance Comparison
+          <h3 className="text-sm md:text-base font-semibold text-gray-200 mb-3 flex items-center gap-2">
+            <TrendingUp className="w-4 h-4" />
+            vs Section Average
           </h3>
           <div className="flex items-center justify-between">
             <div className="text-center">
-              <div className="text-sm text-gray-400 mb-1">Your Performance</div>
-              <div className="text-3xl font-bold text-white">{currentPercentage}%</div>
+              <div className="text-xs text-gray-400 mb-1">You</div>
+              <div className="text-xl md:text-2xl font-bold text-white">{currentPercentage}%</div>
             </div>
-            <div className="text-4xl">
+            <div className="text-2xl md:text-3xl">
               {currentPercentage > parseFloat(sectionAvg) ? '📈' : currentPercentage < parseFloat(sectionAvg) ? '📉' : '➡️'}
             </div>
             <div className="text-center">
-              <div className="text-sm text-gray-400 mb-1">Section Average</div>
-              <div className="text-3xl font-bold text-gray-400">{sectionAvg}%</div>
+              <div className="text-xs text-gray-400 mb-1">Section</div>
+              <div className="text-xl md:text-2xl font-bold text-gray-400">{sectionAvg}%</div>
             </div>
           </div>
         </div>
       </motion.div>
 
-      {/* Subject Performance */}
+      {/* Subject Performance - Mobile First */}
       <motion.div 
         className="glass-card"
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5, delay: 0.1 }}
       >
-        <h3 className="gradient-text text-xl font-bold mb-6 flex items-center gap-2">
-          <BookOpen className="w-5 h-5" />
-          Subject Performance Analysis
+        <h3 className="gradient-text text-lg md:text-xl font-bold mb-4 flex items-center gap-2">
+          <BookOpen className="w-4 h-4 md:w-5 md:h-5" />
+          Subject Performance
         </h3>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+        {/* Best/Worst Subjects - Mobile Stack */}
+        <div className="space-y-3 mb-4">
           <motion.div 
-            className="glass-card-inner border-l-4 border-green-400"
-            whileHover={{ scale: 1.02 }}
+            className="glass-card-inner border-l-4 border-green-400 p-3"
+            whileHover={{ scale: 1.01 }}
             transition={{ duration: 0.2 }}
           >
-            <div className="flex items-center gap-3 mb-3">
-              <Trophy className="w-6 h-6 text-green-400" />
-              <span className="font-semibold text-green-400">Best Subject</span>
+            <div className="flex items-center gap-2 mb-2">
+              <Trophy className="w-4 h-4 text-green-400" />
+              <span className="text-sm font-semibold text-green-400">Best Subject</span>
             </div>
-            <div className="text-lg font-bold text-white">{bestSubject.subject}</div>
-            <div className="text-sm text-gray-400">{bestSubject.percentage}% ({bestSubject.present}/{bestSubject.total})</div>
+            <div className="text-base md:text-lg font-bold text-white">{bestSubject.subject}</div>
+            <div className="text-xs md:text-sm text-gray-400">{bestSubject.percentage}% ({bestSubject.present}/{bestSubject.total})</div>
           </motion.div>
           
           <motion.div 
-            className="glass-card-inner border-l-4 border-red-400"
-            whileHover={{ scale: 1.02 }}
+            className="glass-card-inner border-l-4 border-red-400 p-3"
+            whileHover={{ scale: 1.01 }}
             transition={{ duration: 0.2 }}
           >
-            <div className="flex items-center gap-3 mb-3">
-              <Target className="w-6 h-6 text-red-400" />
-              <span className="font-semibold text-red-400">Needs Focus</span>
+            <div className="flex items-center gap-2 mb-2">
+              <Target className="w-4 h-4 text-red-400" />
+              <span className="text-sm font-semibold text-red-400">Needs Focus</span>
             </div>
-            <div className="text-lg font-bold text-white">{worstSubject.subject}</div>
-            <div className="text-sm text-gray-400">{worstSubject.percentage}% ({worstSubject.present}/{worstSubject.total})</div>
+            <div className="text-base md:text-lg font-bold text-white">{worstSubject.subject}</div>
+            <div className="text-xs md:text-sm text-gray-400">{worstSubject.percentage}% ({worstSubject.present}/{worstSubject.total})</div>
           </motion.div>
         </div>
 
-        {/* Subject-wise breakdown */}
+        {/* All Subjects - Mobile Optimized */}
         <div className="glass-card-inner">
-          <h4 className="text-lg font-semibold text-gray-200 mb-4">All Subjects Breakdown</h4>
-          <div className="space-y-3">
-            {subjectPerformances.map((subject, index) => (
+          <h4 className="text-sm md:text-base font-semibold text-gray-200 mb-3">All Subjects</h4>
+          <div className="space-y-2">
+            {subjectPerformances.slice(0, 6).map((subject, index) => (
               <motion.div 
                 key={subject.subject}
-                className="flex items-center gap-4 p-3 bg-white/[0.02] rounded-lg border border-white/5"
+                className="flex items-center gap-2 p-2 bg-white/[0.02] rounded-lg border border-white/5"
                 initial={{ opacity: 0, x: -20 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: index * 0.05 }}
                 whileHover={{ backgroundColor: 'rgba(255, 255, 255, 0.05)' }}
               >
-                <div className="flex-1">
-                  <div className="font-medium text-white">{subject.subject}</div>
-                  <div className="text-sm text-gray-400">{subject.present}/{subject.total} classes</div>
+                <div className="flex-1 min-w-0">
+                  <div className="text-xs md:text-sm font-medium text-white truncate">{subject.subject}</div>
+                  <div className="text-xs text-gray-400">{subject.present}/{subject.total}</div>
                 </div>
-                <div className="w-24 h-2 bg-gray-700 rounded-full overflow-hidden">
+                <div className="w-16 md:w-20 h-1.5 bg-gray-700 rounded-full overflow-hidden">
                   <motion.div 
                     className={`h-full rounded-full ${
                       subject.percentage >= 75 ? 'bg-green-400' : 
@@ -232,7 +245,7 @@ export default function PersonalInsights({ student, students }) {
                     transition={{ duration: 1, delay: index * 0.1 }}
                   />
                 </div>
-                <div className={`min-w-12 text-right font-bold ${
+                <div className={`text-xs md:text-sm font-bold min-w-8 text-right ${
                   subject.percentage >= 75 ? 'text-green-400' : 
                   subject.percentage >= 65 ? 'text-yellow-400' : 'text-red-400'
                 }`}>
@@ -244,24 +257,24 @@ export default function PersonalInsights({ student, students }) {
         </div>
       </motion.div>
 
-      {/* Insights & Recommendations */}
+      {/* Insights - Mobile Optimized */}
       <motion.div 
         className="glass-card"
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5, delay: 0.2 }}
       >
-        <h3 className="gradient-text text-xl font-bold mb-6 flex items-center gap-2">
-          <Target className="w-5 h-5" />
-          Personalized Insights
+        <h3 className="gradient-text text-lg md:text-xl font-bold mb-4 flex items-center gap-2">
+          <Target className="w-4 h-4 md:w-5 md:h-5" />
+          Smart Insights
         </h3>
-        <div className="space-y-4">
+        <div className="space-y-3">
           {insights.map((insight, index) => {
             const Icon = insight.icon;
             return (
               <motion.div 
                 key={index}
-                className={`glass-card-inner border-l-4 ${
+                className={`glass-card-inner border-l-4 p-3 ${
                   insight.type === 'success' ? 'border-green-400 bg-green-400/5' : 
                   insight.type === 'warning' ? 'border-yellow-400 bg-yellow-400/5' : 
                   insight.type === 'danger' ? 'border-red-400 bg-red-400/5' : 'border-blue-400 bg-blue-400/5'
@@ -271,15 +284,15 @@ export default function PersonalInsights({ student, students }) {
                 transition={{ delay: index * 0.1 }}
                 whileHover={{ scale: 1.01 }}
               >
-                <div className="flex items-start gap-4">
-                  <Icon className={`w-6 h-6 mt-1 ${
+                <div className="flex items-start gap-3">
+                  <Icon className={`w-4 h-4 md:w-5 md:h-5 mt-0.5 flex-shrink-0 ${
                     insight.type === 'success' ? 'text-green-400' : 
                     insight.type === 'warning' ? 'text-yellow-400' : 
                     insight.type === 'danger' ? 'text-red-400' : 'text-blue-400'
                   }`} />
-                  <div>
-                    <h4 className="font-semibold text-white mb-1">{insight.title}</h4>
-                    <p className="text-gray-300 text-sm">{insight.message}</p>
+                  <div className="min-w-0">
+                    <h4 className="text-sm md:text-base font-semibold text-white mb-1">{insight.title}</h4>
+                    <p className="text-xs md:text-sm text-gray-300">{insight.message}</p>
                   </div>
                 </div>
               </motion.div>

@@ -1,25 +1,47 @@
 {
-  "name": "attendance-tracker",
-  "version": "0.1.0",
+  "name": "kmce-attendance-tracker",
+  "version": "1.0.0",
+  "description": "Smart attendance management system for KMCE students",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3005",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export"
   },
   "dependencies": {
-    "next": "14.0.0",
+    "framer-motion": "^10.16.16",
+    "lucide-react": "^0.294.0",
+    "next": "14.0.4",
     "react": "^18",
-    "react-dom": "^18",
-    "lucide-react": "^0.294.0"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
     "eslint": "^8",
-    "eslint-config-next": "14.0.0",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
     "typescript": "^5"
+  },
+  "keywords": [
+    "attendance",
+    "tracker",
+    "kmce",
+    "student",
+    "college",
+    "education",
+    "management"
+  ],
+  "author": "KMCE Attendance Tracker",
+  "license": "MIT",
+  "homepage": "https://kmceattendance.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kmce/attendance-tracker"
   }
 }

@@ -58,39 +58,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "36/49"
+                    "status": "44/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "45/65"
+                    "status": "51/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "30/44"
+                    "status": "36/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "17/23"
+                    "status": "21/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "19/34"
+                    "status": "23/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "32/41"
+                    "status": "34/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "5/13"
+                    "status": "9/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "5/20"
+                    "status": "6/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "5/22"
+                    "status": "5/26"
                 },
                 {
                     "subjectId": 115,
@@ -98,16 +98,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "2/8"
+                    "status": "2/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "1/4"
+                    "status": "1/6"
                 }
             ],
-            "totalPresent": 203,
-            "totalPeriods": 331,
-            "percentage": "61.33",
+            "totalPresent": 238,
+            "totalPeriods": 379,
+            "percentage": "62.80",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -119,39 +119,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "33/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "37/65"
+                    "status": "43/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "34/44"
+                    "status": "36/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "17/23"
+                    "status": "19/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "18/34"
+                    "status": "20/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "28/41"
+                    "status": "30/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "5/13"
+                    "status": "7/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "6/20"
+                    "status": "6/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "6/22"
+                    "status": "6/26"
                 },
                 {
                     "subjectId": 115,
@@ -159,16 +159,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "2/8"
+                    "status": "2/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "0/4"
+                    "status": "0/6"
                 }
             ],
-            "totalPresent": 192,
-            "totalPeriods": 331,
-            "percentage": "58.01",
+            "totalPresent": 220,
+            "totalPeriods": 378,
+            "percentage": "58.20",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -180,39 +180,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "41/49"
+                    "status": "53/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "48/65"
+                    "status": "52/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "40/44"
+                    "status": "42/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "16/23"
+                    "status": "18/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "27/34"
+                    "status": "31/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "23/41"
+                    "status": "25/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "13/13"
+                    "status": "13/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "17/20"
+                    "status": "19/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "12/22"
+                    "status": "15/26"
                 },
                 {
                     "subjectId": 115,
@@ -220,16 +220,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 254,
-            "totalPeriods": 331,
-            "percentage": "76.74",
+            "totalPresent": 287,
+            "totalPeriods": 379,
+            "percentage": "75.73",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -241,39 +241,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "33/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "30/65"
+                    "status": "34/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "16/23"
+                    "status": "20/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "17/34"
+                    "status": "21/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "16/41"
+                    "status": "16/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "11/13"
+                    "status": "11/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "9/20"
+                    "status": "9/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "3/22"
+                    "status": "6/26"
                 },
                 {
                     "subjectId": 115,
@@ -281,16 +281,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "3/8"
+                    "status": "4/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 175,
-            "totalPeriods": 331,
-            "percentage": "52.87",
+            "totalPresent": 210,
+            "totalPeriods": 378,
+            "percentage": "55.56",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -302,39 +302,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "16/49"
+                    "status": "28/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "14/65"
+                    "status": "16/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "28/44"
+                    "status": "30/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "8/23"
+                    "status": "10/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "6/34"
+                    "status": "8/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "4/41"
+                    "status": "4/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "5/13"
+                    "status": "5/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "4/20"
+                    "status": "5/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "4/22"
+                    "status": "7/26"
                 },
                 {
                     "subjectId": 115,
@@ -342,16 +342,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "0/8"
+                    "status": "1/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 91,
-            "totalPeriods": 331,
-            "percentage": "27.49",
+            "totalPresent": 117,
+            "totalPeriods": 378,
+            "percentage": "30.95",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -363,39 +363,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "17/49"
+                    "status": "29/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "10/65"
+                    "status": "10/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "28/44"
+                    "status": "34/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "11/23"
+                    "status": "13/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "8/34"
+                    "status": "10/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "2/41"
+                    "status": "2/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "2/13"
+                    "status": "4/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "7/20"
+                    "status": "7/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "3/22"
+                    "status": "4/26"
                 },
                 {
                     "subjectId": 115,
@@ -403,16 +403,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "3/8"
+                    "status": "3/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "1/4"
+                    "status": "2/6"
                 }
             ],
-            "totalPresent": 92,
-            "totalPeriods": 331,
-            "percentage": "27.79",
+            "totalPresent": 118,
+            "totalPeriods": 378,
+            "percentage": "31.22",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -424,39 +424,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "36/49"
+                    "status": "48/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "42/65"
+                    "status": "48/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "38/44"
+                    "status": "44/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "19/23"
+                    "status": "22/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "24/34"
+                    "status": "28/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "21/41"
+                    "status": "23/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "6/13"
+                    "status": "8/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "15/20"
+                    "status": "16/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "8/22"
+                    "status": "10/26"
                 },
                 {
                     "subjectId": 115,
@@ -464,16 +464,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 221,
-            "totalPeriods": 331,
-            "percentage": "66.77",
+            "totalPresent": 260,
+            "totalPeriods": 379,
+            "percentage": "68.60",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -485,39 +485,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "45/49"
+                    "status": "57/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "28/65"
+                    "status": "34/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "15/23"
+                    "status": "19/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "19/34"
+                    "status": "23/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "18/41"
+                    "status": "22/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "9/13"
+                    "status": "11/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "10/20"
+                    "status": "12/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "9/22"
+                    "status": "13/26"
                 },
                 {
                     "subjectId": 115,
@@ -525,16 +525,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 195,
-            "totalPeriods": 331,
-            "percentage": "58.91",
+            "totalPresent": 242,
+            "totalPeriods": 378,
+            "percentage": "64.02",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -546,39 +546,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "41/49"
+                    "status": "53/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "48/65"
+                    "status": "52/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "40/44"
+                    "status": "44/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "18/23"
+                    "status": "22/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "27/34"
+                    "status": "31/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "27/41"
+                    "status": "29/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "13/13"
+                    "status": "15/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "17/20"
+                    "status": "19/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "12/22"
+                    "status": "15/26"
                 },
                 {
                     "subjectId": 115,
@@ -586,16 +586,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 260,
-            "totalPeriods": 331,
-            "percentage": "78.55",
+            "totalPresent": 299,
+            "totalPeriods": 379,
+            "percentage": "78.89",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -607,39 +607,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "5/49"
+                    "status": "9/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "0/65"
+                    "status": "0/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "18/44"
+                    "status": "20/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "2/23"
+                    "status": "3/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "1/34"
+                    "status": "1/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "0/41"
+                    "status": "0/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "0/13"
+                    "status": "0/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "0/20"
+                    "status": "0/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "0/22"
+                    "status": "0/26"
                 },
                 {
                     "subjectId": 115,
@@ -647,16 +647,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "0/8"
+                    "status": "0/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "0/4"
+                    "status": "0/6"
                 }
             ],
-            "totalPresent": 26,
-            "totalPeriods": 331,
-            "percentage": "7.85",
+            "totalPresent": 33,
+            "totalPeriods": 378,
+            "percentage": "8.73",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -668,39 +668,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "33/49"
+                    "status": "41/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "26/65"
+                    "status": "28/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "18/23"
+                    "status": "22/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "12/34"
+                    "status": "14/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "11/41"
+                    "status": "11/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "9/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "10/20"
+                    "status": "10/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "6/22"
+                    "status": "7/26"
                 },
                 {
                     "subjectId": 115,
@@ -708,16 +708,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "1/8"
+                    "status": "1/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 164,
-            "totalPeriods": 331,
-            "percentage": "49.55",
+            "totalPresent": 190,
+            "totalPeriods": 378,
+            "percentage": "50.26",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -729,39 +729,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "21/49"
+                    "status": "29/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "40/65"
+                    "status": "44/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "30/44"
+                    "status": "36/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "11/23"
+                    "status": "15/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "16/34"
+                    "status": "20/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "21/41"
+                    "status": "23/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "7/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "11/20"
+                    "status": "12/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "12/22"
+                    "status": "15/26"
                 },
                 {
                     "subjectId": 115,
@@ -769,16 +769,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "5/8"
+                    "status": "6/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 183,
-            "totalPeriods": 331,
-            "percentage": "55.29",
+            "totalPresent": 217,
+            "totalPeriods": 378,
+            "percentage": "57.41",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -790,39 +790,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "33/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "44/65"
+                    "status": "50/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "36/44"
+                    "status": "42/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "16/23"
+                    "status": "20/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "27/34"
+                    "status": "31/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "27/41"
+                    "status": "31/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "12/13"
+                    "status": "14/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "13/20"
+                    "status": "16/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "13/22"
+                    "status": "17/26"
                 },
                 {
                     "subjectId": 115,
@@ -830,16 +830,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "6/6"
                 }
             ],
-            "totalPresent": 236,
-            "totalPeriods": 331,
-            "percentage": "71.30",
+            "totalPresent": 284,
+            "totalPeriods": 379,
+            "percentage": "74.93",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -851,39 +851,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "13/49"
+                    "status": "25/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "28/65"
+                    "status": "34/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "30/44"
+                    "status": "36/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "14/23"
+                    "status": "18/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "12/34"
+                    "status": "16/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "14/41"
+                    "status": "18/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "6/13"
+                    "status": "8/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "10/20"
+                    "status": "11/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "3/22"
+                    "status": "5/26"
                 },
                 {
                     "subjectId": 115,
@@ -891,16 +891,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "4/8"
+                    "status": "5/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "2/6"
                 }
             ],
-            "totalPresent": 142,
-            "totalPeriods": 331,
-            "percentage": "42.90",
+            "totalPresent": 184,
+            "totalPeriods": 378,
+            "percentage": "48.68",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -912,39 +912,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "25/49"
+                    "status": "37/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "49/65"
+                    "status": "55/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "17/23"
+                    "status": "21/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "21/34"
+                    "status": "25/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "25/41"
+                    "status": "29/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "11/13"
+                    "status": "13/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "15/20"
+                    "status": "16/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "17/22"
+                    "status": "20/26"
                 },
                 {
                     "subjectId": 115,
@@ -952,16 +952,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 230,
-            "totalPeriods": 331,
-            "percentage": "69.49",
+            "totalPresent": 274,
+            "totalPeriods": 378,
+            "percentage": "72.49",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -973,39 +973,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "45/49"
+                    "status": "57/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "51/65"
+                    "status": "57/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "40/44"
+                    "status": "46/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "16/23"
+                    "status": "20/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "28/34"
+                    "status": "32/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "31/41"
+                    "status": "35/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "13/13"
+                    "status": "15/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "17/20"
+                    "status": "19/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "16/22"
+                    "status": "19/26"
                 },
                 {
                     "subjectId": 115,
@@ -1013,16 +1013,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 275,
-            "totalPeriods": 331,
-            "percentage": "83.08",
+            "totalPresent": 320,
+            "totalPeriods": 379,
+            "percentage": "84.43",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1034,39 +1034,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "33/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "48/65"
+                    "status": "54/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "36/44"
+                    "status": "42/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "15/23"
+                    "status": "19/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "18/34"
+                    "status": "22/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "18/41"
+                    "status": "20/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "8/13"
+                    "status": "10/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "14/20"
+                    "status": "17/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "11/22"
+                    "status": "15/26"
                 },
                 {
                     "subjectId": 115,
@@ -1074,16 +1074,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "5/8"
+                    "status": "6/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 209,
-            "totalPeriods": 331,
-            "percentage": "63.14",
+            "totalPresent": 255,
+            "totalPeriods": 379,
+            "percentage": "67.28",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1095,39 +1095,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "45/49"
+                    "status": "53/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "47/65"
+                    "status": "53/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "34/44"
+                    "status": "40/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "16/23"
+                    "status": "20/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "21/34"
+                    "status": "25/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "30/41"
+                    "status": "32/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "3/13"
+                    "status": "7/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "5/20"
+                    "status": "6/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "5/22"
+                    "status": "5/26"
                 },
                 {
                     "subjectId": 115,
@@ -1135,16 +1135,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "3/8"
+                    "status": "3/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "1/4"
+                    "status": "1/6"
                 }
             ],
-            "totalPresent": 216,
-            "totalPeriods": 331,
-            "percentage": "65.26",
+            "totalPresent": 251,
+            "totalPeriods": 379,
+            "percentage": "66.23",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1156,39 +1156,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "16/49"
+                    "status": "28/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "8/65"
+                    "status": "14/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "26/44"
+                    "status": "32/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "7/23"
+                    "status": "11/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "11/34"
+                    "status": "15/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "12/41"
+                    "status": "16/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "3/13"
+                    "status": "5/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "4/20"
+                    "status": "5/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "2/22"
+                    "status": "5/26"
                 },
                 {
                     "subjectId": 115,
@@ -1196,16 +1196,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "3/8"
+                    "status": "4/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "0/4"
+                    "status": "1/6"
                 }
             ],
-            "totalPresent": 92,
-            "totalPeriods": 331,
-            "percentage": "27.79",
+            "totalPresent": 136,
+            "totalPeriods": 378,
+            "percentage": "35.98",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1217,39 +1217,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "13/49"
+                    "status": "25/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "24/65"
+                    "status": "30/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "30/44"
+                    "status": "32/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "12/23"
+                    "status": "14/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "9/34"
+                    "status": "11/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "2/41"
+                    "status": "6/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "1/13"
+                    "status": "3/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "5/20"
+                    "status": "7/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "3/22"
+                    "status": "7/26"
                 },
                 {
                     "subjectId": 115,
@@ -1257,16 +1257,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "4/8"
+                    "status": "5/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 107,
-            "totalPeriods": 331,
-            "percentage": "32.33",
+            "totalPresent": 146,
+            "totalPeriods": 378,
+            "percentage": "38.62",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1278,39 +1278,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "41/49"
+                    "status": "53/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "32/65"
+                    "status": "38/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "30/44"
+                    "status": "36/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "18/23"
+                    "status": "22/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "19/34"
+                    "status": "23/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "16/41"
+                    "status": "20/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "9/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "12/20"
+                    "status": "14/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "10/22"
+                    "status": "14/26"
                 },
                 {
                     "subjectId": 115,
@@ -1318,16 +1318,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 193,
-            "totalPeriods": 331,
-            "percentage": "58.31",
+            "totalPresent": 240,
+            "totalPeriods": 378,
+            "percentage": "63.49",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1339,39 +1339,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "48/49"
+                    "status": "56/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "20/65"
+                    "status": "26/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "38/44"
+                    "status": "44/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "21/23"
+                    "status": "25/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "31/34"
+                    "status": "35/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "30/41"
+                    "status": "36/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "9/13"
+                    "status": "13/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "9/20"
+                    "status": "9/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "7/22"
+                    "status": "9/26"
                 },
                 {
                     "subjectId": 115,
@@ -1379,16 +1379,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "5/8"
+                    "status": "6/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "0/4"
+                    "status": "0/6"
                 }
             ],
-            "totalPresent": 226,
-            "totalPeriods": 331,
-            "percentage": "68.28",
+            "totalPresent": 267,
+            "totalPeriods": 378,
+            "percentage": "70.63",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1400,39 +1400,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "29/49"
+                    "status": "37/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "41/65"
+                    "status": "47/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "36/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "17/23"
+                    "status": "18/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "19/34"
+                    "status": "21/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "16/41"
+                    "status": "20/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "9/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "12/20"
+                    "status": "13/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "11/22"
+                    "status": "12/26"
                 },
                 {
                     "subjectId": 115,
@@ -1440,16 +1440,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 200,
-            "totalPeriods": 331,
-            "percentage": "60.42",
+            "totalPresent": 229,
+            "totalPeriods": 378,
+            "percentage": "60.58",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1461,39 +1461,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "41/49"
+                    "status": "53/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "44/65"
+                    "status": "50/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "42/44"
+                    "status": "48/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "22/23"
+                    "status": "26/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "27/34"
+                    "status": "31/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "31/41"
+                    "status": "35/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "11/13"
+                    "status": "13/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "19/20"
+                    "status": "21/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "17/22"
+                    "status": "21/26"
                 },
                 {
                     "subjectId": 115,
@@ -1501,16 +1501,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "8/8"
+                    "status": "9/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 269,
-            "totalPeriods": 331,
-            "percentage": "81.27",
+            "totalPresent": 316,
+            "totalPeriods": 378,
+            "percentage": "83.60",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1522,39 +1522,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "37/49"
+                    "status": "49/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "32/65"
+                    "status": "38/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "38/44"
+                    "status": "44/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "19/23"
+                    "status": "23/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "18/34"
+                    "status": "22/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "17/41"
+                    "status": "21/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "9/13"
+                    "status": "11/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "13/20"
+                    "status": "13/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "9/22"
+                    "status": "11/26"
                 },
                 {
                     "subjectId": 115,
@@ -1562,16 +1562,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "5/8"
+                    "status": "6/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 201,
-            "totalPeriods": 331,
-            "percentage": "60.73",
+            "totalPresent": 243,
+            "totalPeriods": 378,
+            "percentage": "64.29",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1583,39 +1583,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "29/49"
+                    "status": "33/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "22/65"
+                    "status": "22/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "34/44"
+                    "status": "36/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "18/23"
+                    "status": "19/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "11/34"
+                    "status": "13/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "6/41"
+                    "status": "6/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "2/13"
+                    "status": "4/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "10/20"
+                    "status": "10/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "7/22"
+                    "status": "7/26"
                 },
                 {
                     "subjectId": 115,
@@ -1623,16 +1623,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "2/8"
+                    "status": "2/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 146,
-            "totalPeriods": 331,
-            "percentage": "44.11",
+            "totalPresent": 157,
+            "totalPeriods": 378,
+            "percentage": "41.53",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1644,39 +1644,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "36/49"
+                    "status": "48/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "57/65"
+                    "status": "63/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "16/23"
+                    "status": "18/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "26/34"
+                    "status": "30/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "29/41"
+                    "status": "33/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "10/13"
+                    "status": "12/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "15/20"
+                    "status": "18/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "16/22"
+                    "status": "20/26"
                 },
                 {
                     "subjectId": 115,
@@ -1684,16 +1684,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 249,
-            "totalPeriods": 331,
-            "percentage": "75.23",
+            "totalPresent": 295,
+            "totalPeriods": 379,
+            "percentage": "77.84",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1705,39 +1705,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "48/49"
+                    "status": "56/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "22/65"
+                    "status": "28/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "38/44"
+                    "status": "44/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "21/23"
+                    "status": "25/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "31/34"
+                    "status": "35/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "30/41"
+                    "status": "36/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "9/13"
+                    "status": "13/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "9/20"
+                    "status": "9/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "7/22"
+                    "status": "9/26"
                 },
                 {
                     "subjectId": 115,
@@ -1745,16 +1745,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "0/4"
+                    "status": "0/6"
                 }
             ],
-            "totalPresent": 229,
-            "totalPeriods": 331,
-            "percentage": "69.18",
+            "totalPresent": 270,
+            "totalPeriods": 378,
+            "percentage": "71.43",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1766,39 +1766,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "33/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "37/65"
+                    "status": "43/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "40/44"
+                    "status": "46/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "18/23"
+                    "status": "22/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "21/34"
+                    "status": "25/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "20/41"
+                    "status": "24/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "9/13"
+                    "status": "11/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "16/20"
+                    "status": "17/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "15/22"
+                    "status": "18/26"
                 },
                 {
                     "subjectId": 115,
@@ -1806,16 +1806,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 219,
-            "totalPeriods": 331,
-            "percentage": "66.16",
+            "totalPresent": 263,
+            "totalPeriods": 378,
+            "percentage": "69.58",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1827,39 +1827,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "13/49"
+                    "status": "25/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "22/65"
+                    "status": "24/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "26/44"
+                    "status": "28/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "10/23"
+                    "status": "12/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "9/34"
+                    "status": "11/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "0/41"
+                    "status": "4/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "0/13"
+                    "status": "2/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "5/20"
+                    "status": "7/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "3/22"
+                    "status": "5/26"
                 },
                 {
                     "subjectId": 115,
@@ -1867,16 +1867,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "4/8"
+                    "status": "5/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 96,
-            "totalPeriods": 331,
-            "percentage": "29.00",
+            "totalPresent": 129,
+            "totalPeriods": 378,
+            "percentage": "34.13",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1888,39 +1888,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "37/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "46/65"
+                    "status": "52/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "44/44"
+                    "status": "50/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "20/23"
+                    "status": "24/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "29/34"
+                    "status": "33/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "27/41"
+                    "status": "29/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "13/13"
+                    "status": "15/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "15/20"
+                    "status": "16/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "15/22"
+                    "status": "18/26"
                 },
                 {
                     "subjectId": 115,
@@ -1928,16 +1928,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "6/6"
                 }
             ],
-            "totalPresent": 261,
-            "totalPeriods": 331,
-            "percentage": "78.85",
+            "totalPresent": 300,
+            "totalPeriods": 378,
+            "percentage": "79.37",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -1949,39 +1949,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "29/49"
+                    "status": "41/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "55/65"
+                    "status": "61/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "40/44"
+                    "status": "46/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "19/23"
+                    "status": "23/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "26/34"
+                    "status": "30/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "26/41"
+                    "status": "28/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "13/13"
+                    "status": "15/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "16/20"
+                    "status": "17/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "20/22"
+                    "status": "23/26"
                 },
                 {
                     "subjectId": 115,
@@ -1989,16 +1989,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "8/8"
+                    "status": "9/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "6/6"
                 }
             ],
-            "totalPresent": 262,
-            "totalPeriods": 331,
-            "percentage": "79.15",
+            "totalPresent": 305,
+            "totalPeriods": 378,
+            "percentage": "80.69",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2010,39 +2010,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "25/49"
+                    "status": "33/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "46/65"
+                    "status": "52/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "40/44"
+                    "status": "46/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "16/23"
+                    "status": "20/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "16/34"
+                    "status": "20/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "20/41"
+                    "status": "24/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "9/13"
+                    "status": "11/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "13/20"
+                    "status": "14/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "7/22"
+                    "status": "10/26"
                 },
                 {
                     "subjectId": 115,
@@ -2050,16 +2050,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "5/8"
+                    "status": "6/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 200,
-            "totalPeriods": 331,
-            "percentage": "60.42",
+            "totalPresent": 241,
+            "totalPeriods": 378,
+            "percentage": "63.76",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2071,39 +2071,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "28/49"
+                    "status": "36/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "25/65"
+                    "status": "29/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "28/44"
+                    "status": "30/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "13/23"
+                    "status": "15/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "21/34"
+                    "status": "21/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "15/41"
+                    "status": "15/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "5/13"
+                    "status": "5/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "11/20"
+                    "status": "12/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "15/22"
+                    "status": "18/26"
                 },
                 {
                     "subjectId": 115,
@@ -2111,16 +2111,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "3/8"
+                    "status": "4/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 166,
-            "totalPeriods": 331,
-            "percentage": "50.15",
+            "totalPresent": 189,
+            "totalPeriods": 378,
+            "percentage": "50.00",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2132,39 +2132,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "33/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "26/65"
+                    "status": "26/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "34/44"
+                    "status": "40/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "18/23"
+                    "status": "20/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "13/34"
+                    "status": "15/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "8/41"
+                    "status": "8/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "9/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "10/20"
+                    "status": "10/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "10/22"
+                    "status": "11/26"
                 },
                 {
                     "subjectId": 115,
@@ -2172,16 +2172,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "3/8"
+                    "status": "3/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 168,
-            "totalPeriods": 331,
-            "percentage": "50.76",
+            "totalPresent": 194,
+            "totalPeriods": 378,
+            "percentage": "51.32",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2193,39 +2193,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "36/49"
+                    "status": "48/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "49/65"
+                    "status": "55/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "40/44"
+                    "status": "46/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "21/23"
+                    "status": "25/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "22/34"
+                    "status": "24/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "18/41"
+                    "status": "18/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "5/13"
+                    "status": "7/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "16/20"
+                    "status": "19/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "14/22"
+                    "status": "18/26"
                 },
                 {
                     "subjectId": 115,
@@ -2233,16 +2233,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "6/6"
                 }
             ],
-            "totalPresent": 234,
-            "totalPeriods": 331,
-            "percentage": "70.69",
+            "totalPresent": 276,
+            "totalPeriods": 379,
+            "percentage": "72.82",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2254,39 +2254,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "21/49"
+                    "status": "33/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "38/65"
+                    "status": "44/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "30/44"
+                    "status": "36/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "14/23"
+                    "status": "18/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "19/34"
+                    "status": "21/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "24/41"
+                    "status": "26/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "11/13"
+                    "status": "13/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "6/20"
+                    "status": "8/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "8/22"
+                    "status": "11/26"
                 },
                 {
                     "subjectId": 115,
@@ -2294,16 +2294,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "4/8"
+                    "status": "5/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "1/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 182,
-            "totalPeriods": 331,
-            "percentage": "54.98",
+            "totalPresent": 224,
+            "totalPeriods": 379,
+            "percentage": "59.10",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2315,39 +2315,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "32/49"
+                    "status": "44/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "45/65"
+                    "status": "49/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "36/44"
+                    "status": "36/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "19/23"
+                    "status": "21/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "20/34"
+                    "status": "22/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "20/41"
+                    "status": "22/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "5/13"
+                    "status": "5/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "14/20"
+                    "status": "17/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "11/22"
+                    "status": "15/26"
                 },
                 {
                     "subjectId": 115,
@@ -2355,16 +2355,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "6/6"
                 }
             ],
-            "totalPresent": 216,
-            "totalPeriods": 331,
-            "percentage": "65.26",
+            "totalPresent": 248,
+            "totalPeriods": 379,
+            "percentage": "65.44",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2376,39 +2376,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "21/49"
+                    "status": "25/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "24/65"
+                    "status": "24/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "34/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "15/23"
+                    "status": "16/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "13/34"
+                    "status": "15/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "4/41"
+                    "status": "4/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "2/13"
+                    "status": "4/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "9/20"
+                    "status": "9/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "9/22"
+                    "status": "9/26"
                 },
                 {
                     "subjectId": 115,
@@ -2416,16 +2416,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "4/8"
+                    "status": "4/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 140,
-            "totalPeriods": 331,
-            "percentage": "42.30",
+            "totalPresent": 151,
+            "totalPeriods": 378,
+            "percentage": "39.95",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2437,39 +2437,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "37/49"
+                    "status": "49/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "51/65"
+                    "status": "57/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "42/44"
+                    "status": "48/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "21/23"
+                    "status": "25/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "23/34"
+                    "status": "27/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "32/41"
+                    "status": "36/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "13/13"
+                    "status": "15/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "15/20"
+                    "status": "16/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "17/22"
+                    "status": "20/26"
                 },
                 {
                     "subjectId": 115,
@@ -2477,16 +2477,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "8/8"
+                    "status": "9/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 267,
-            "totalPeriods": 331,
-            "percentage": "80.66",
+            "totalPresent": 311,
+            "totalPeriods": 378,
+            "percentage": "82.28",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2498,39 +2498,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "21/49"
+                    "status": "29/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "27/65"
+                    "status": "33/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "30/44"
+                    "status": "36/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "15/23"
+                    "status": "18/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "11/34"
+                    "status": "15/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "21/41"
+                    "status": "25/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "9/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "10/20"
+                    "status": "11/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "5/22"
+                    "status": "7/26"
                 },
                 {
                     "subjectId": 115,
@@ -2538,16 +2538,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "3/8"
+                    "status": "4/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 159,
-            "totalPeriods": 331,
-            "percentage": "48.04",
+            "totalPresent": 196,
+            "totalPeriods": 378,
+            "percentage": "51.85",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2559,39 +2559,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "40/49"
+                    "status": "48/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "50/65"
+                    "status": "56/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "15/23"
+                    "status": "19/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "19/34"
+                    "status": "23/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "20/41"
+                    "status": "24/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "8/13"
+                    "status": "10/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "13/20"
+                    "status": "14/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "8/22"
+                    "status": "11/26"
                 },
                 {
                     "subjectId": 115,
@@ -2599,16 +2599,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 220,
-            "totalPeriods": 331,
-            "percentage": "66.47",
+            "totalPresent": 261,
+            "totalPeriods": 378,
+            "percentage": "69.05",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2620,39 +2620,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "25/49"
+                    "status": "37/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "53/65"
+                    "status": "59/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "36/44"
+                    "status": "42/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "15/23"
+                    "status": "18/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "20/34"
+                    "status": "24/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "18/41"
+                    "status": "22/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "6/13"
+                    "status": "6/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "14/20"
+                    "status": "15/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "10/22"
+                    "status": "12/26"
                 },
                 {
                     "subjectId": 115,
@@ -2660,16 +2660,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "1/4"
+                    "status": "2/6"
                 }
             ],
-            "totalPresent": 211,
-            "totalPeriods": 331,
-            "percentage": "63.75",
+            "totalPresent": 251,
+            "totalPeriods": 379,
+            "percentage": "66.23",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2681,39 +2681,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "33/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "39/65"
+                    "status": "45/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "34/44"
+                    "status": "36/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "19/23"
+                    "status": "21/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "17/34"
+                    "status": "19/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "20/41"
+                    "status": "24/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "9/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "11/20"
+                    "status": "13/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "11/22"
+                    "status": "15/26"
                 },
                 {
                     "subjectId": 115,
@@ -2721,16 +2721,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 205,
-            "totalPeriods": 331,
-            "percentage": "61.93",
+            "totalPresent": 244,
+            "totalPeriods": 378,
+            "percentage": "64.55",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2742,39 +2742,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "33/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "51/65"
+                    "status": "57/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "34/44"
+                    "status": "40/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "14/23"
+                    "status": "17/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "20/34"
+                    "status": "24/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "14/41"
+                    "status": "18/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "9/13"
+                    "status": "9/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "13/20"
+                    "status": "15/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "10/22"
+                    "status": "13/26"
                 },
                 {
                     "subjectId": 115,
@@ -2782,16 +2782,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 213,
-            "totalPeriods": 331,
-            "percentage": "64.35",
+            "totalPresent": 256,
+            "totalPeriods": 379,
+            "percentage": "67.55",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2803,39 +2803,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "41/49"
+                    "status": "53/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "41/65"
+                    "status": "47/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "18/23"
+                    "status": "21/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "20/34"
+                    "status": "24/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "24/41"
+                    "status": "26/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "11/13"
+                    "status": "13/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "9/20"
+                    "status": "10/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "12/22"
+                    "status": "14/26"
                 },
                 {
                     "subjectId": 115,
@@ -2843,16 +2843,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 223,
-            "totalPeriods": 331,
-            "percentage": "67.37",
+            "totalPresent": 262,
+            "totalPeriods": 379,
+            "percentage": "69.13",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2864,39 +2864,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "41/49"
+                    "status": "53/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "50/65"
+                    "status": "56/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "40/44"
+                    "status": "42/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "19/23"
+                    "status": "21/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "26/34"
+                    "status": "30/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "25/41"
+                    "status": "25/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "13/13"
+                    "status": "15/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "14/20"
+                    "status": "16/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "10/22"
+                    "status": "10/26"
                 },
                 {
                     "subjectId": 115,
@@ -2904,16 +2904,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 253,
-            "totalPeriods": 331,
-            "percentage": "76.44",
+            "totalPresent": 285,
+            "totalPeriods": 379,
+            "percentage": "75.20",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2925,39 +2925,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "45/49"
+                    "status": "57/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "51/65"
+                    "status": "55/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "42/44"
+                    "status": "48/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "19/23"
+                    "status": "23/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "24/34"
+                    "status": "28/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "29/41"
+                    "status": "33/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "11/13"
+                    "status": "13/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "18/20"
+                    "status": "20/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "17/22"
+                    "status": "20/26"
                 },
                 {
                     "subjectId": 115,
@@ -2965,16 +2965,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "5/8"
+                    "status": "6/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 271,
-            "totalPeriods": 331,
-            "percentage": "81.87",
+            "totalPresent": 314,
+            "totalPeriods": 379,
+            "percentage": "82.85",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -2986,39 +2986,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "37/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "42/65"
+                    "status": "48/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "40/44"
+                    "status": "46/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "18/23"
+                    "status": "22/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "22/34"
+                    "status": "26/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "12/41"
+                    "status": "14/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "9/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "13/20"
+                    "status": "14/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "6/22"
+                    "status": "8/26"
                 },
                 {
                     "subjectId": 115,
@@ -3026,16 +3026,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "1/4"
+                    "status": "1/6"
                 }
             ],
-            "totalPresent": 208,
-            "totalPeriods": 331,
-            "percentage": "62.84",
+            "totalPresent": 244,
+            "totalPeriods": 378,
+            "percentage": "64.55",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3047,39 +3047,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "12/49"
+                    "status": "16/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "2/65"
+                    "status": "2/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "22/44"
+                    "status": "24/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "6/23"
+                    "status": "7/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "3/34"
+                    "status": "3/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "2/41"
+                    "status": "2/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "2/13"
+                    "status": "2/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "3/20"
+                    "status": "3/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "3/22"
+                    "status": "3/26"
                 },
                 {
                     "subjectId": 115,
@@ -3087,16 +3087,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "1/8"
+                    "status": "1/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 60,
-            "totalPeriods": 331,
-            "percentage": "18.13",
+            "totalPresent": 68,
+            "totalPeriods": 378,
+            "percentage": "17.99",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3108,39 +3108,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "12/49"
+                    "status": "24/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "4/65"
+                    "status": "10/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "22/44"
+                    "status": "28/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "9/23"
+                    "status": "13/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "2/34"
+                    "status": "6/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "8/41"
+                    "status": "12/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "6/13"
+                    "status": "8/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "2/20"
+                    "status": "4/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "1/22"
+                    "status": "5/26"
                 },
                 {
                     "subjectId": 115,
@@ -3148,16 +3148,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "1/8"
+                    "status": "2/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "1/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 70,
-            "totalPeriods": 331,
-            "percentage": "21.15",
+            "totalPresent": 117,
+            "totalPeriods": 378,
+            "percentage": "30.95",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3169,39 +3169,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "29/49"
+                    "status": "37/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "20/65"
+                    "status": "22/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "18/23"
+                    "status": "22/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "20/34"
+                    "status": "24/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "10/41"
+                    "status": "14/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "4/13"
+                    "status": "6/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "10/20"
+                    "status": "10/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "6/22"
+                    "status": "6/26"
                 },
                 {
                     "subjectId": 115,
@@ -3209,16 +3209,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "6/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "2/6"
                 }
             ],
-            "totalPresent": 159,
-            "totalPeriods": 331,
-            "percentage": "48.04",
+            "totalPresent": 189,
+            "totalPeriods": 378,
+            "percentage": "50.00",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3230,39 +3230,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "45/49"
+                    "status": "53/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "43/65"
+                    "status": "49/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "20/23"
+                    "status": "24/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "24/34"
+                    "status": "28/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "33/41"
+                    "status": "35/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "11/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "6/20"
+                    "status": "7/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "7/22"
+                    "status": "7/26"
                 },
                 {
                     "subjectId": 115,
@@ -3270,16 +3270,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "3/8"
+                    "status": "3/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "1/4"
+                    "status": "1/6"
                 }
             ],
-            "totalPresent": 229,
-            "totalPeriods": 331,
-            "percentage": "69.18",
+            "totalPresent": 264,
+            "totalPeriods": 379,
+            "percentage": "69.66",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3291,39 +3291,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "36/49"
+                    "status": "44/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "51/65"
+                    "status": "57/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "42/44"
+                    "status": "48/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "20/23"
+                    "status": "23/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "25/34"
+                    "status": "29/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "15/41"
+                    "status": "15/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "9/13"
+                    "status": "11/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "15/20"
+                    "status": "15/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "15/22"
+                    "status": "18/26"
                 },
                 {
                     "subjectId": 115,
@@ -3331,16 +3331,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 242,
-            "totalPeriods": 331,
-            "percentage": "73.11",
+            "totalPresent": 276,
+            "totalPeriods": 378,
+            "percentage": "73.02",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3352,39 +3352,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "37/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "35/65"
+                    "status": "39/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "17/23"
+                    "status": "21/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "23/34"
+                    "status": "27/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "25/41"
+                    "status": "27/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "7/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "20/20"
+                    "status": "21/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "14/22"
+                    "status": "17/26"
                 },
                 {
                     "subjectId": 115,
@@ -3392,16 +3392,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "5/8"
+                    "status": "6/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 224,
-            "totalPeriods": 331,
-            "percentage": "67.67",
+            "totalPresent": 259,
+            "totalPeriods": 378,
+            "percentage": "68.52",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3413,39 +3413,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "41/49"
+                    "status": "53/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "40/65"
+                    "status": "46/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "20/44"
+                    "status": "24/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "16/23"
+                    "status": "20/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "24/34"
+                    "status": "28/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "18/41"
+                    "status": "22/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "9/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "13/20"
+                    "status": "15/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "12/22"
+                    "status": "16/26"
                 },
                 {
                     "subjectId": 115,
@@ -3453,16 +3453,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "6/6"
                 }
             ],
-            "totalPresent": 207,
-            "totalPeriods": 331,
-            "percentage": "62.54",
+            "totalPresent": 252,
+            "totalPeriods": 378,
+            "percentage": "66.67",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3474,39 +3474,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "45/49"
+                    "status": "57/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "56/65"
+                    "status": "62/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "42/44"
+                    "status": "44/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "21/23"
+                    "status": "23/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "26/34"
+                    "status": "28/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "19/41"
+                    "status": "19/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "0/13"
+                    "status": "2/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "14/20"
+                    "status": "16/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "12/22"
+                    "status": "14/26"
                 },
                 {
                     "subjectId": 115,
@@ -3514,16 +3514,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 251,
-            "totalPeriods": 331,
-            "percentage": "75.83",
+            "totalPresent": 284,
+            "totalPeriods": 379,
+            "percentage": "74.93",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3535,39 +3535,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "25/49"
+                    "status": "37/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "12/65"
+                    "status": "16/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "12/44"
+                    "status": "16/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "10/23"
+                    "status": "14/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "9/34"
+                    "status": "13/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "16/41"
+                    "status": "18/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "3/13"
+                    "status": "3/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "3/20"
+                    "status": "5/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "5/22"
+                    "status": "8/26"
                 },
                 {
                     "subjectId": 115,
@@ -3575,16 +3575,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "2/8"
+                    "status": "3/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 102,
-            "totalPeriods": 331,
-            "percentage": "30.82",
+            "totalPresent": 139,
+            "totalPeriods": 379,
+            "percentage": "36.68",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3596,39 +3596,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "25/49"
+                    "status": "37/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "39/65"
+                    "status": "45/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "36/44"
+                    "status": "42/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "19/23"
+                    "status": "23/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "16/34"
+                    "status": "20/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "19/41"
+                    "status": "23/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "9/13"
+                    "status": "11/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "16/20"
+                    "status": "17/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "15/22"
+                    "status": "18/26"
                 },
                 {
                     "subjectId": 115,
@@ -3636,16 +3636,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "5/8"
+                    "status": "6/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 207,
-            "totalPeriods": 331,
-            "percentage": "62.54",
+            "totalPresent": 251,
+            "totalPeriods": 378,
+            "percentage": "66.40",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3657,39 +3657,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "37/49"
+                    "status": "49/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "36/65"
+                    "status": "42/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "26/44"
+                    "status": "28/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "20/23"
+                    "status": "21/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "21/34"
+                    "status": "23/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "19/41"
+                    "status": "23/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "9/13"
+                    "status": "11/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "11/20"
+                    "status": "13/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "7/22"
+                    "status": "10/26"
                 },
                 {
                     "subjectId": 115,
@@ -3697,16 +3697,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "5/8"
+                    "status": "6/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 198,
-            "totalPeriods": 331,
-            "percentage": "59.82",
+            "totalPresent": 234,
+            "totalPeriods": 379,
+            "percentage": "61.74",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3718,39 +3718,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "13/49"
+                    "status": "25/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "24/65"
+                    "status": "30/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "28/44"
+                    "status": "30/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "12/23"
+                    "status": "16/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "11/34"
+                    "status": "13/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "4/41"
+                    "status": "8/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "2/13"
+                    "status": "4/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "5/20"
+                    "status": "7/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "5/22"
+                    "status": "9/26"
                 },
                 {
                     "subjectId": 115,
@@ -3758,16 +3758,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "4/8"
+                    "status": "5/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 114,
-            "totalPeriods": 331,
-            "percentage": "34.44",
+            "totalPresent": 155,
+            "totalPeriods": 378,
+            "percentage": "41.01",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3779,39 +3779,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "29/49"
+                    "status": "41/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "40/65"
+                    "status": "44/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "34/44"
+                    "status": "40/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "18/23"
+                    "status": "22/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "15/34"
+                    "status": "19/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "9/41"
+                    "status": "9/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "7/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "10/20"
+                    "status": "11/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "8/22"
+                    "status": "11/26"
                 },
                 {
                     "subjectId": 115,
@@ -3819,16 +3819,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "3/8"
+                    "status": "4/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 185,
-            "totalPeriods": 331,
-            "percentage": "55.89",
+            "totalPresent": 221,
+            "totalPeriods": 378,
+            "percentage": "58.47",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3840,39 +3840,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "33/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "28/65"
+                    "status": "34/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "28/44"
+                    "status": "30/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "12/23"
+                    "status": "16/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "17/34"
+                    "status": "21/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "19/41"
+                    "status": "21/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "4/13"
+                    "status": "6/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "9/20"
+                    "status": "10/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "9/22"
+                    "status": "12/26"
                 },
                 {
                     "subjectId": 115,
@@ -3880,16 +3880,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "3/8"
+                    "status": "4/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 170,
-            "totalPeriods": 331,
-            "percentage": "51.36",
+            "totalPresent": 208,
+            "totalPeriods": 378,
+            "percentage": "55.03",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3901,39 +3901,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "29/49"
+                    "status": "41/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "39/65"
+                    "status": "45/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "38/44"
+                    "status": "40/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "21/23"
+                    "status": "23/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "20/34"
+                    "status": "22/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "20/41"
+                    "status": "24/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "9/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "12/20"
+                    "status": "13/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "11/22"
+                    "status": "15/26"
                 },
                 {
                     "subjectId": 115,
@@ -3941,16 +3941,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "6/6"
                 }
             ],
-            "totalPresent": 212,
-            "totalPeriods": 331,
-            "percentage": "64.05",
+            "totalPresent": 250,
+            "totalPeriods": 378,
+            "percentage": "66.14",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -3962,39 +3962,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "37/49"
+                    "status": "49/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "43/65"
+                    "status": "49/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "15/23"
+                    "status": "19/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "26/34"
+                    "status": "30/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "25/41"
+                    "status": "29/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "8/13"
+                    "status": "10/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "13/20"
+                    "status": "14/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "15/22"
+                    "status": "18/26"
                 },
                 {
                     "subjectId": 115,
@@ -4002,16 +4002,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 229,
-            "totalPeriods": 331,
-            "percentage": "69.18",
+            "totalPresent": 273,
+            "totalPeriods": 378,
+            "percentage": "72.22",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -4023,39 +4023,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "49/49"
+                    "status": "61/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "45/65"
+                    "status": "51/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "34/44"
+                    "status": "40/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "18/23"
+                    "status": "22/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "30/34"
+                    "status": "34/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "33/41"
+                    "status": "37/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "11/13"
+                    "status": "13/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "14/20"
+                    "status": "16/23"
                 },
                 {
                     "subjectId": 109,
-                    "status": "18/22"
+                    "status": "21/26"
                 },
                 {
                     "subjectId": 115,
@@ -4063,16 +4063,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 265,
-            "totalPeriods": 331,
-            "percentage": "80.06",
+            "totalPresent": 310,
+            "totalPeriods": 379,
+            "percentage": "81.79",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -4084,39 +4084,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "33/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "27/65"
+                    "status": "29/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "36/44"
+                    "status": "42/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "17/23"
+                    "status": "21/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "14/34"
+                    "status": "18/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "18/41"
+                    "status": "22/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "8/13"
+                    "status": "10/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "10/20"
+                    "status": "12/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "8/22"
+                    "status": "10/26"
                 },
                 {
                     "subjectId": 115,
@@ -4124,16 +4124,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "5/8"
+                    "status": "5/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "1/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 179,
-            "totalPeriods": 331,
-            "percentage": "54.08",
+            "totalPresent": 219,
+            "totalPeriods": 378,
+            "percentage": "57.94",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -4145,39 +4145,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "12/49"
+                    "status": "24/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "12/65"
+                    "status": "18/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "26/44"
+                    "status": "28/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "4/23"
+                    "status": "6/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "5/34"
+                    "status": "7/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "8/41"
+                    "status": "12/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "4/13"
+                    "status": "6/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "5/20"
+                    "status": "7/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "5/22"
+                    "status": "9/26"
                 },
                 {
                     "subjectId": 115,
@@ -4185,16 +4185,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "2/8"
+                    "status": "3/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "0/4"
+                    "status": "2/6"
                 }
             ],
-            "totalPresent": 87,
-            "totalPeriods": 331,
-            "percentage": "26.28",
+            "totalPresent": 126,
+            "totalPeriods": 378,
+            "percentage": "33.33",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -4206,39 +4206,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "33/49"
+                    "status": "41/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "31/65"
+                    "status": "37/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "36/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "15/23"
+                    "status": "17/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "19/34"
+                    "status": "21/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "19/41"
+                    "status": "23/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "5/13"
+                    "status": "7/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "17/20"
+                    "status": "18/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "13/22"
+                    "status": "16/26"
                 },
                 {
                     "subjectId": 115,
@@ -4246,16 +4246,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "3/4"
+                    "status": "4/6"
                 }
             ],
-            "totalPresent": 204,
-            "totalPeriods": 331,
-            "percentage": "61.63",
+            "totalPresent": 236,
+            "totalPeriods": 378,
+            "percentage": "62.43",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -4267,39 +4267,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "37/49"
+                    "status": "45/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "33/65"
+                    "status": "39/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "32/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "17/23"
+                    "status": "21/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "24/34"
+                    "status": "28/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "21/41"
+                    "status": "25/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "7/13"
+                    "status": "9/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "12/20"
+                    "status": "13/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "9/22"
+                    "status": "12/26"
                 },
                 {
                     "subjectId": 115,
@@ -4307,16 +4307,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "7/8"
+                    "status": "8/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "2/4"
+                    "status": "3/6"
                 }
             ],
-            "totalPresent": 203,
-            "totalPeriods": 331,
-            "percentage": "61.33",
+            "totalPresent": 243,
+            "totalPeriods": 378,
+            "percentage": "64.29",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0
@@ -4328,39 +4328,39 @@
             "attendance": [
                 {
                     "subjectId": 105,
-                    "status": "29/49"
+                    "status": "41/61"
                 },
                 {
                     "subjectId": 103,
-                    "status": "41/65"
+                    "status": "47/71"
                 },
                 {
                     "subjectId": 104,
-                    "status": "36/44"
+                    "status": "38/50"
                 },
                 {
                     "subjectId": 119,
-                    "status": "18/23"
+                    "status": "20/27"
                 },
                 {
                     "subjectId": 113,
-                    "status": "21/34"
+                    "status": "23/38"
                 },
                 {
                     "subjectId": 108,
-                    "status": "25/41"
+                    "status": "29/45"
                 },
                 {
                     "subjectId": 121,
-                    "status": "12/13"
+                    "status": "14/15"
                 },
                 {
                     "subjectId": 116,
-                    "status": "14/20"
+                    "status": "15/22"
                 },
                 {
                     "subjectId": 109,
-                    "status": "14/22"
+                    "status": "17/26"
                 },
                 {
                     "subjectId": 115,
@@ -4368,16 +4368,16 @@
                 },
                 {
                     "subjectId": 122,
-                    "status": "6/8"
+                    "status": "7/9"
                 },
                 {
                     "subjectId": 117,
-                    "status": "4/4"
+                    "status": "5/6"
                 }
             ],
-            "totalPresent": 226,
-            "totalPeriods": 331,
-            "percentage": "68.28",
+            "totalPresent": 262,
+            "totalPeriods": 378,
+            "percentage": "69.31",
             "totalBiometricPresentDays": 0,
             "totalBiometricWorkingDays": 0,
             "biometricpercentage": 0

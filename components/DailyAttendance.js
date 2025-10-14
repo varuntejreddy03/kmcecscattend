@@ -69,11 +69,11 @@ export default function DailyAttendance({ student, startDate, onAttendanceUpdate
   };
 
   return (
-    <div className="card">
-      <h2 style={{ marginBottom: '20px' }}>Daily Attendance</h2>
+    <div className="glass-card">
+      <h2 className="gradient-text mb-6">Daily Attendance</h2>
       
-      <div className="input-group">
-        <label htmlFor="attendanceDate">Select Date</label>
+      <div className="mb-6">
+        <label htmlFor="attendanceDate" className="block text-sm font-medium text-gray-300 mb-2">Select Date</label>
         <input
           type="date"
           id="attendanceDate"
@@ -81,9 +81,10 @@ export default function DailyAttendance({ student, startDate, onAttendanceUpdate
           onChange={(e) => setSelectedDate(e.target.value)}
           max={new Date().toISOString().split('T')[0]}
           min={startDate}
+          className="glass-input w-full"
         />
         {!isValidDate && (
-          <div className="error">
+          <div className="text-red-400 text-sm mt-2">
             {new Date(selectedDate) > new Date() 
               ? 'Cannot mark attendance for future dates'
               : new Date(selectedDate).getDay() === 0
@@ -94,16 +95,16 @@ export default function DailyAttendance({ student, startDate, onAttendanceUpdate
         )}
       </div>
 
-      <div style={{ marginBottom: '20px' }}>
+      <div className="flex gap-3 mb-6">
         <button 
-          className="btn" 
+          className="glass-button flex-1" 
           onClick={markAllPresent}
           disabled={!isValidDate}
         >
           Mark All Present
         </button>
         <button 
-          className="btn btn-danger" 
+          className="glass-button flex-1" 
           onClick={markAllAbsent}
           disabled={!isValidDate}
         >
@@ -111,36 +112,33 @@ export default function DailyAttendance({ student, startDate, onAttendanceUpdate
         </button>
       </div>
 
-      <div className="subject-grid">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-6">
         {subjects.map(([subjectId, subjectName]) => (
-          <div key={subjectId} className="subject-card">
-            <div className="subject-name" style={{ marginBottom: '12px' }}>
+          <div key={subjectId} className="glass-card-inner">
+            <div className="text-sm font-medium text-gray-200 mb-3">
               {subjectName}
             </div>
             
-            <div style={{ display: 'flex', gap: '8px' }}>
+            <div className="flex gap-2">
               <button
-                className={`btn ${dailyAttendance[subjectId] === 'present' ? '' : 'btn-secondary'}`}
+                className={`glass-button flex-1 text-sm ${
+                  dailyAttendance[subjectId] === 'present' 
+                    ? 'bg-green-500/20 border-green-400 text-green-300' 
+                    : ''
+                }`}
                 onClick={() => handleAttendanceChange(subjectId, 'present')}
                 disabled={!isValidDate}
-                style={{ 
-                  flex: 1, 
-                  fontSize: '0.9rem',
-                  backgroundColor: dailyAttendance[subjectId] === 'present' ? '#28a745' : undefined,
-                  color: dailyAttendance[subjectId] === 'present' ? '#fff' : undefined
-                }}
               >
                 Present
               </button>
               <button
-                className={`btn ${dailyAttendance[subjectId] === 'absent' ? 'btn-danger' : 'btn-secondary'}`}
+                className={`glass-button flex-1 text-sm ${
+                  dailyAttendance[subjectId] === 'absent' 
+                    ? 'bg-red-500/20 border-red-400 text-red-300' 
+                    : ''
+                }`}
                 onClick={() => handleAttendanceChange(subjectId, 'absent')}
                 disabled={!isValidDate}
-                style={{ 
-                  flex: 1, 
-                  fontSize: '0.9rem',
-                  backgroundColor: dailyAttendance[subjectId] === 'absent' ? '#dc3545' : undefined
-                }}
               >
                 Absent
               </button>
@@ -150,25 +148,24 @@ export default function DailyAttendance({ student, startDate, onAttendanceUpdate
       </div>
 
       <button 
-        className="btn" 
+        className="glass-button w-full" 
         onClick={saveAttendance}
         disabled={!isValidDate || Object.keys(dailyAttendance).length === 0}
-        style={{ width: '100%', marginTop: '20px' }}
       >
         Save Attendance
       </button>
 
       {attendanceRecords.length > 0 && (
-        <div style={{ marginTop: '32px' }}>
-          <h3 style={{ marginBottom: '16px' }}>Recent Records</h3>
-          <div className="table" style={{ maxHeight: '300px', overflowY: 'auto' }}>
-            <table style={{ width: '100%' }}>
+        <div className="mt-8">
+          <h3 className="gradient-text mb-4">Recent Records</h3>
+          <div className="glass-card-inner max-h-80 overflow-y-auto">
+            <table className="w-full">
               <thead>
-                <tr>
-                  <th>Date</th>
-                  <th>Present</th>
-                  <th>Absent</th>
-                  <th>Not Marked</th>
+                <tr className="border-b border-gray-600">
+                  <th className="text-left py-2 text-gray-300">Date</th>
+                  <th className="text-left py-2 text-gray-300">Present</th>
+                  <th className="text-left py-2 text-gray-300">Absent</th>
+                  <th className="text-left py-2 text-gray-300">Not Marked</th>
                 </tr>
               </thead>
               <tbody>
@@ -178,11 +175,11 @@ export default function DailyAttendance({ student, startDate, onAttendanceUpdate
                   const notMarked = subjects.length - present - absent;
                   
                   return (
-                    <tr key={record.date}>
-                      <td>{formatDate(record.date)}</td>
-                      <td style={{ color: '#28a745' }}>{present}</td>
-                      <td style={{ color: '#dc3545' }}>{absent}</td>
-                      <td style={{ color: '#6c757d' }}>{notMarked}</td>
+                    <tr key={record.date} className="border-b border-gray-700">
+                      <td className="py-2 text-gray-200">{formatDate(record.date)}</td>
+                      <td className="py-2 text-green-400">{present}</td>
+                      <td className="py-2 text-red-400">{absent}</td>
+                      <td className="py-2 text-gray-400">{notMarked}</td>
                     </tr>
                   );
                 })}

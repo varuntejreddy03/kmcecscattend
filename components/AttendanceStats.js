@@ -6,35 +6,35 @@ export default function AttendanceStats({ student }) {
   const absent = student.totalPeriods - student.totalPresent;
 
   return (
-    <div className="card">
-      <h2 style={{ marginBottom: '20px' }}>📊 Attendance Overview</h2>
-      <div className="stats-grid">
-        <div className="stat-card animate-fade-in">
-          <div className={`stat-value percentage-${statusColor}`}>
+    <div className="glass-card">
+      <h2 className="gradient-text mb-6">📊 Attendance Overview</h2>
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <div className="glass-card-inner animate-fade-in">
+          <div className={`text-2xl font-bold percentage-${statusColor}`}>
             {student.percentage}%
           </div>
-          <div className="stat-label">Overall Attendance</div>
+          <div className="text-sm text-gray-400 mt-1">Overall Attendance</div>
         </div>
         
-        <div className="stat-card animate-fade-in" style={{ animationDelay: '0.1s' }}>
-          <div className="stat-value" style={{ color: '#28a745' }}>
+        <div className="glass-card-inner animate-fade-in" style={{ animationDelay: '0.1s' }}>
+          <div className="text-2xl font-bold text-green-400">
             {student.totalPresent}
           </div>
-          <div className="stat-label">Classes Attended</div>
+          <div className="text-sm text-gray-400 mt-1">Classes Attended</div>
         </div>
         
-        <div className="stat-card animate-fade-in" style={{ animationDelay: '0.2s' }}>
-          <div className="stat-value" style={{ color: '#dc3545' }}>
+        <div className="glass-card-inner animate-fade-in" style={{ animationDelay: '0.2s' }}>
+          <div className="text-2xl font-bold text-red-400">
             {absent}
           </div>
-          <div className="stat-label">Classes Missed</div>
+          <div className="text-sm text-gray-400 mt-1">Classes Missed</div>
         </div>
         
-        <div className="stat-card animate-fade-in" style={{ animationDelay: '0.3s' }}>
-          <div className="stat-value">
+        <div className="glass-card-inner animate-fade-in" style={{ animationDelay: '0.3s' }}>
+          <div className="text-2xl font-bold text-blue-400">
             {student.totalPeriods}
           </div>
-          <div className="stat-label">Total Classes</div>
+          <div className="text-sm text-gray-400 mt-1">Total Classes</div>
         </div>
       </div>
     </div>

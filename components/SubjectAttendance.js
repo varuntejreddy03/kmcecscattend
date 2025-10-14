@@ -53,15 +53,15 @@ export default function SubjectAttendance({ student }) {
   });
 
   return (
-    <div className="card animate-slide-up">
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px', flexWrap: 'wrap', gap: '16px' }}>
-        <h2 style={{ margin: 0 }}>📚 Subject-wise Attendance</h2>
+    <div className="glass-card animate-slide-up">
+      <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-6 gap-4">
+        <h2 className="gradient-text m-0">📚 Subject-wise Attendance</h2>
         
-        <div style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
+        <div className="flex gap-2 items-center">
           <select
             value={sortBy}
             onChange={(e) => setSortBy(e.target.value)}
-            className="modern-select"
+            className="glass-input text-sm"
           >
             <option value="percentage">Sort by Percentage</option>
             <option value="name">Sort by Subject</option>
@@ -70,7 +70,7 @@ export default function SubjectAttendance({ student }) {
           </select>
           
           <button
-            className="btn btn-secondary sort-btn"
+            className="glass-button px-3 py-2"
             onClick={() => setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc')}
           >
             {sortOrder === 'asc' ? '↑' : '↓'}
@@ -78,7 +78,7 @@ export default function SubjectAttendance({ student }) {
         </div>
       </div>
       
-      <div className="subject-grid">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {sortedSubjects.map((subject, index) => {
           const { present, total } = parseAttendanceStatus(subject.status);
           const percentage = parseFloat(calculatePercentage(present, total));
@@ -88,21 +88,21 @@ export default function SubjectAttendance({ student }) {
           return (
             <div 
               key={subject.subjectId} 
-              className="subject-card animate-fade-in"
+              className="glass-card-inner animate-fade-in"
               style={{ animationDelay: `${index * 0.05}s` }}
             >
-              <div className="subject-header">
-                <div className="subject-name" title={subjectName}>
+              <div className="flex justify-between items-start mb-3">
+                <div className="text-sm font-medium text-gray-200 truncate pr-2" title={subjectName}>
                   {subjectName}
                 </div>
-                <div className={`attendance-percentage percentage-${colorClass}`}>
+                <div className={`text-lg font-bold percentage-${colorClass}`}>
                   {percentage}%
                 </div>
               </div>
               
-              <div className="attendance-bar">
+              <div className="w-full bg-gray-700 rounded-full h-2 mb-3">
                 <div 
-                  className={`attendance-fill fill-${colorClass}`}
+                  className={`h-2 rounded-full fill-${colorClass}`}
                   style={{ 
                     width: `${percentage}%`,
                     animation: `fillBar 1s ease-out ${index * 0.05}s forwards`
@@ -110,11 +110,9 @@ export default function SubjectAttendance({ student }) {
                 ></div>
               </div>
               
-              <div className="attendance-details">
-                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                  <span>Present: <strong style={{ color: '#28a745' }}>{present}</strong> / {total}</span>
-                  <span style={{ fontSize: '0.8rem', color: '#aaa' }}>Absent: {total - present}</span>
-                </div>
+              <div className="flex justify-between text-xs text-gray-400">
+                <span>Present: <strong className="text-green-400">{present}</strong> / {total}</span>
+                <span>Absent: {total - present}</span>
               </div>
             </div>
           );
