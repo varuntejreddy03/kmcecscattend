@@ -30,24 +30,113 @@ export default async function handler(req, res) {
       filename = `${year}nd_${cleanSection}attend.json`;
     }
 
-    const filePath = path.join(process.cwd(), 'public', filename);
-    fs.writeFileSync(filePath, JSON.stringify(data, null, 4));
+    // 🚀 Dual-Mode Sync: GitHub API (Vercel) vs Filesystem (Local)
 
-    // Update last-sync timestamp
-    const lastUpdatePath = path.join(process.cwd(), 'public', 'last-update.json');
-    const updateInfo = {
-      timestamp: new Date().toISOString(),
-      section: section,
-      year: year
-    };
-    fs.writeFileSync(lastUpdatePath, JSON.stringify(updateInfo, null, 2));
+    // Check for GitHub Token (Production Mode)
+    const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+    const REPO_OWNER = 'varuntejreddy03';
+    const REPO_NAME = 'kmcecscattend';
+    const BRANCH = 'main';
 
-    return res.status(200).json({
-      message: `Successfully updated Year ${year} - ${section} (${filename})`,
-      lastUpdated: updateInfo.timestamp
-    });
+    if (GITHUB_TOKEN) {
+      // 🌐 GitHub API Strategy
+      const statusUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/public/${filename}`;
+
+      // 1. Get current SHA
+      const getRes = await fetch(statusUrl, {
+        headers: {
+          'Authorization': `token ${GITHUB_TOKEN}`,
+          'Accept': 'application/vnd.github.v3+json'
+        }
+      });
+
+      let sha = null;
+      if (getRes.ok) {
+        const fileData = await getRes.json();
+        sha = fileData.sha;
+      }
+
+      // 2. Commit Update
+      const content = Buffer.from(JSON.stringify(data, null, 4)).toString('base64');
+      const putRes = await fetch(statusUrl, {
+        method: 'PUT',
+        headers: {
+          'Authorization': `token ${GITHUB_TOKEN}`,
+          'Accept': 'application/vnd.github.v3+json',
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          message: `🤖 Auto-Sync: Updated ${year}nd Year - ${section}`,
+          content: content,
+          sha: sha, // Include SHA if file exists
+          branch: BRANCH
+        })
+      });
+
+      if (!putRes.ok) {
+        const err = await putRes.json();
+        throw new Error(`GitHub Sync Failed: ${err.message}`);
+      }
+
+      // Also update last-update.json on GitHub
+      const updateUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/public/last-update.json`;
+      const updateInfo = {
+        timestamp: new Date().toISOString(),
+        section: section,
+        year: year
+      };
+
+      const getUpdateRes = await fetch(updateUrl, {
+        headers: { 'Authorization': `token ${GITHUB_TOKEN}` }
+      });
+      let updateSha = null;
+      if (getUpdateRes.ok) {
+        const d = await getUpdateRes.json();
+        updateSha = d.sha;
+      }
+
+      await fetch(updateUrl, {
+        method: 'PUT',
+        headers: {
+          'Authorization': `token ${GITHUB_TOKEN}`,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          message: `🕒 Timestamp Update`,
+          content: Buffer.from(JSON.stringify(updateInfo, null, 2)).toString('base64'),
+          sha: updateSha,
+          branch: BRANCH
+        })
+      });
+
+      return res.status(200).json({
+        message: `✅ GitHub Cloud Sync Active! Vercel will redeploy in ~60s.`,
+        lastUpdated: updateInfo.timestamp,
+        mode: 'cloud'
+      });
+
+    } else {
+      // 💻 Local Filesystem Strategy
+      const filePath = path.join(process.cwd(), 'public', filename);
+      fs.writeFileSync(filePath, JSON.stringify(data, null, 4));
+
+      // Update last-sync timestamp local
+      const lastUpdatePath = path.join(process.cwd(), 'public', 'last-update.json');
+      const updateInfo = {
+        timestamp: new Date().toISOString(),
+        section: section,
+        year: year
+      };
+      fs.writeFileSync(lastUpdatePath, JSON.stringify(updateInfo, null, 2));
+
+      return res.status(200).json({
+        message: `✅ Local Sync Complete: ${filename}`,
+        lastUpdated: updateInfo.timestamp,
+        mode: 'local'
+      });
+    }
   } catch (error) {
-    console.error('Error saving attendance data:', error);
-    return res.status(500).json({ message: 'Internal server error', error: error.message });
+    console.error('Sync Error:', error);
+    return res.status(500).json({ message: 'Sync Protocol Failed', error: error.message });
   }
 }
