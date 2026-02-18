@@ -2,48 +2,48 @@
     "Error": false,
     "subjectDetails": [
         {
-            "subjectId": 105,
-            "subjectName": "SKILLING"
-        },
-        {
             "subjectId": 103,
-            "subjectName": "PS"
-        },
-        {
-            "subjectId": 104,
             "subjectName": "FS"
         },
         {
-            "subjectId": 112,
-            "subjectName": "DBMS"
+            "subjectId": 104,
+            "subjectName": "FIOT"
         },
         {
-            "subjectId": 127,
-            "subjectName": "ACS/MPMC"
+            "subjectId": 105,
+            "subjectName": "COVR"
         },
         {
-            "subjectId": 117,
-            "subjectName": "IPR"
+            "subjectId": 106,
+            "subjectName": "IOTS"
         },
         {
-            "subjectId": 126,
-            "subjectName": "MPMC"
+            "subjectId": 107,
+            "subjectName": "IOTCPA"
         },
         {
-            "subjectId": 125,
-            "subjectName": "ATCD"
+            "subjectId": 108,
+            "subjectName": "IOT LAB"
         },
         {
-            "subjectId": 120,
-            "subjectName": "BEFA"
-        },
-        {
-            "subjectId": 113,
-            "subjectName": "ADA"
+            "subjectId": 109,
+            "subjectName": "COVR LAB"
         },
         {
             "subjectId": 110,
-            "subjectName": "SDC"
+            "subjectName": "ES"
+        },
+        {
+            "subjectId": 111,
+            "subjectName": "ML"
+        },
+        {
+            "subjectId": 112,
+            "subjectName": "IOMP"
+        },
+        {
+            "subjectId": 113,
+            "subjectName": "CLUBS"
         }
     ],
     "studentsAttendance": [
@@ -51,3250 +51,3763 @@
             "studentId": 392,
             "hallticket": "23P81A6901",
             "studentName": "ABBANI MANASA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "48/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "64/80"
+                    "subjectName": "FS",
+                    "status": "60/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "50/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "26/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "14/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "31/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "12/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "12/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "26/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "22/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "22/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "20/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "32/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "21/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "14/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 330,
-            "totalPeriods": 422,
-            "percentage": "78.20",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 163,
+            "totalPeriods": 228,
+            "percentage": "71.49"
         },
         {
             "studentId": 393,
             "hallticket": "23P81A6902",
             "studentName": "ADIT POLE",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "52/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "54/80"
+                    "subjectName": "FS",
+                    "status": "64/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "51/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "25/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "14/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "24/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "12/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "12/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "26/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "21/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "23/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "18/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "31/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "21/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "11/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 314,
-            "totalPeriods": 422,
-            "percentage": "74.41",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 163,
+            "totalPeriods": 222,
+            "percentage": "73.42"
         },
         {
             "studentId": 394,
             "hallticket": "23P81A6903",
             "studentName": "ADITI JOPAT",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "44/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "70/80"
+                    "subjectName": "FS",
+                    "status": "71/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "41/57"
+                    "subjectName": "FIOT",
+                    "status": "2/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "27/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "11/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "32/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "12/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "5/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "10/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "19/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "11/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "19/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "18/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "23/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "18/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "12/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 300,
-            "totalPeriods": 422,
-            "percentage": "71.09",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 151,
+            "totalPeriods": 228,
+            "percentage": "66.23"
         },
         {
             "studentId": 395,
             "hallticket": "23P81A6904",
             "studentName": "ALE ESHWAR",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "56/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "48/80"
+                    "subjectName": "FS",
+                    "status": "63/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "45/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "15/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "21/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "40/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "2/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "4/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "16/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "33/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "3/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "21/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "21/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "21/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "19/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "21/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 307,
-            "totalPeriods": 422,
-            "percentage": "72.75",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 153,
+            "totalPeriods": 228,
+            "percentage": "67.11"
         },
         {
             "studentId": 396,
             "hallticket": "23P81A6905",
             "studentName": "ANUMULA RUSHIKA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "56/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "76/80"
+                    "subjectName": "FS",
+                    "status": "67/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "51/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "34/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "17/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "34/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "14/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "11/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "29/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "13/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "25/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "21/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "29/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "18/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "14/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 365,
-            "totalPeriods": 422,
-            "percentage": "86.49",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 162,
+            "totalPeriods": 222,
+            "percentage": "72.97"
         },
         {
             "studentId": 397,
             "hallticket": "23P81A6906",
             "studentName": "ANUMULA SAMARTH",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "52/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "64/80"
+                    "subjectName": "FS",
+                    "status": "71/83"
                 },
                 {
                     "subjectId": 104,
-                    "status": "42/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "21/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "14/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "32/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "12/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "4/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "7/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "18/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "10/21"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "15/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "15/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "30/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "15/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "1/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "14/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 294,
-            "totalPeriods": 422,
-            "percentage": "69.67",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 150,
+            "totalPeriods": 220,
+            "percentage": "68.18"
         },
         {
             "studentId": 398,
             "hallticket": "23P81A6907",
             "studentName": "AYYADEVARA T V R K KARTHIKEYA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "60/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "62/80"
+                    "subjectName": "FS",
+                    "status": "52/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "50/57"
+                    "subjectName": "FIOT",
+                    "status": "2/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "28/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "9/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "29/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "9/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "10/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "8/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "26/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "13/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "21/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "17/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "27/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "8/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "9/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 332,
-            "totalPeriods": 422,
-            "percentage": "78.67",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 114,
+            "totalPeriods": 222,
+            "percentage": "51.35"
         },
         {
             "studentId": 399,
             "hallticket": "23P81A6908",
             "studentName": "BALGURI KOUSHIK",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "60/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "72/80"
+                    "subjectName": "FS",
+                    "status": "55/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "51/57"
+                    "subjectName": "FIOT",
+                    "status": "2/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "24/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "17/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "15/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "7/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "10/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "11/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "23/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "13/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "16/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "17/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "30/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "16/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "9/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 321,
-            "totalPeriods": 422,
-            "percentage": "76.07",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 134,
+            "totalPeriods": 222,
+            "percentage": "60.36"
         },
         {
             "studentId": 400,
             "hallticket": "23P81A6909",
             "studentName": "BANDARI RUTHVIK KUMAR",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "56/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "72/80"
+                    "subjectName": "FS",
+                    "status": "67/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "56/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "28/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "19/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "26/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "13/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "9/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "13/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "27/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "19/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "17/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "14/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "26/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "16/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "1/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "14/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 332,
-            "totalPeriods": 422,
-            "percentage": "78.67",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 169,
+            "totalPeriods": 222,
+            "percentage": "76.13"
         },
         {
             "studentId": 401,
             "hallticket": "23P81A6910",
             "studentName": "BEJAWADA MANISH",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "56/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "70/80"
+                    "subjectName": "FS",
+                    "status": "75/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "55/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "33/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "19/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "38/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "19/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "16/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "32/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "20/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "28/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "21/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "34/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "22/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 377,
-            "totalPeriods": 422,
-            "percentage": "89.34",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 195,
+            "totalPeriods": 228,
+            "percentage": "85.53"
         },
         {
             "studentId": 402,
             "hallticket": "23P81A6911",
             "studentName": "BOMMISETTI LEELA PADMINI",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "64/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "68/80"
+                    "subjectName": "FS",
+                    "status": "59/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "51/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "30/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "17/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "32/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "11/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "10/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "10/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "34/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "19/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "26/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "22/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "36/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "11/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "14/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 375,
-            "totalPeriods": 422,
-            "percentage": "88.86",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 149,
+            "totalPeriods": 222,
+            "percentage": "67.12"
         },
         {
             "studentId": 403,
             "hallticket": "23P81A6912",
             "studentName": "CH SATHVIK KUMAR",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "64/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "62/80"
+                    "subjectName": "FS",
+                    "status": "71/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "43/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "31/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "19/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "32/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "18/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "14/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "27/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "15/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "24/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "20/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "28/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "21/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "19/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 341,
-            "totalPeriods": 422,
-            "percentage": "80.81",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 184,
+            "totalPeriods": 228,
+            "percentage": "80.70"
         },
         {
             "studentId": 404,
             "hallticket": "23P81A6913",
             "studentName": "CHATHIRI SATHVIK SAGAR",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "36/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "56/80"
+                    "subjectName": "FS",
+                    "status": "79/83"
                 },
                 {
                     "subjectId": 104,
-                    "status": "46/57"
+                    "subjectName": "FIOT",
+                    "status": "5/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "23/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "16/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "25/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "15/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "7/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "9/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "20/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "13/21"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "17/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "13/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "30/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "21/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 275,
-            "totalPeriods": 422,
-            "percentage": "65.17",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 178,
+            "totalPeriods": 220,
+            "percentage": "80.91"
         },
         {
             "studentId": 405,
             "hallticket": "23P81A6914",
             "studentName": "CHIKKALA CHANDRA SEKHAR",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "52/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "66/80"
+                    "subjectName": "FS",
+                    "status": "75/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "57/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "24/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "17/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "26/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "3/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "7/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "14/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "25/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "15/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "16/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "13/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "28/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "19/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "9/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 316,
-            "totalPeriods": 422,
-            "percentage": "74.88",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 159,
+            "totalPeriods": 222,
+            "percentage": "71.62"
         },
         {
             "studentId": 406,
             "hallticket": "23P81A6915",
             "studentName": "CHINNABATTHINA GNANAVARDHAN",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "56/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "68/80"
+                    "subjectName": "FS",
+                    "status": "35/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "54/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "22/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "16/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "22/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "7/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "7/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "13/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "20/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "12/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "14/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "16/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "27/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "10/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 309,
-            "totalPeriods": 422,
-            "percentage": "73.22",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 113,
+            "totalPeriods": 222,
+            "percentage": "50.90"
         },
         {
             "studentId": 407,
             "hallticket": "23P81A6916",
             "studentName": "DANDEBOINA HIMA BINDHU",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "44/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "54/80"
+                    "subjectName": "FS",
+                    "status": "62/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "47/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "29/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "14/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "28/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "12/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "7/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "9/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "22/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "10/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "20/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "16/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "21/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "5/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 290,
-            "totalPeriods": 422,
-            "percentage": "68.72",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 133,
+            "totalPeriods": 222,
+            "percentage": "59.91"
         },
         {
             "studentId": 408,
             "hallticket": "23P81A6917",
             "studentName": "DENDI VASAVI",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "52/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "52/80"
+                    "subjectName": "FS",
+                    "status": "62/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "49/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "22/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "15/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "19/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "14/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "10/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "29/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "19/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "22/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "15/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "23/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "5/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "1/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "14/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 292,
-            "totalPeriods": 422,
-            "percentage": "69.19",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 147,
+            "totalPeriods": 222,
+            "percentage": "66.22"
         },
         {
             "studentId": 409,
             "hallticket": "23P81A6918",
             "studentName": "DHARMALA JOSHITH REDDY",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "56/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "78/80"
+                    "subjectName": "FS",
+                    "status": "56/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "49/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "29/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "15/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "29/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "11/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "10/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "12/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "30/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "19/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "23/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "19/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "28/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "21/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "11/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 354,
-            "totalPeriods": 422,
-            "percentage": "83.89",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 152,
+            "totalPeriods": 222,
+            "percentage": "68.47"
         },
         {
             "studentId": 410,
             "hallticket": "23P81A6919",
             "studentName": "DUBBAKA SHAMITHA REDDY",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "56/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "54/80"
+                    "subjectName": "FS",
+                    "status": "63/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "37/57"
+                    "subjectName": "FIOT",
+                    "status": "5/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "23/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "17/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "22/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "16/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "12/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "29/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "22/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "22/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "16/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "22/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "18/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "1/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 290,
-            "totalPeriods": 422,
-            "percentage": "68.72",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 173,
+            "totalPeriods": 228,
+            "percentage": "75.88"
         },
         {
             "studentId": 411,
             "hallticket": "23P81A6920",
             "studentName": "DUDEKULA KARISHMA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "52/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "64/80"
+                    "subjectName": "FS",
+                    "status": "75/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "55/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "31/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "20/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "31/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "15/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "9/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "14/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "27/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "16/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "24/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "17/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "29/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "18/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "17/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 341,
-            "totalPeriods": 422,
-            "percentage": "80.81",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 183,
+            "totalPeriods": 222,
+            "percentage": "82.43"
         },
         {
             "studentId": 412,
             "hallticket": "23P81A6921",
             "studentName": "DUNABOINA VENKAT MADHU MOHAN",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "56/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "76/80"
+                    "subjectName": "FS",
+                    "status": "79/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "51/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "32/36"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "14/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "34/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "12/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "7/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "7/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "26/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "13/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "17/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "21/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "30/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "12/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "14/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 352,
-            "totalPeriods": 422,
-            "percentage": "83.41",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 159,
+            "totalPeriods": 222,
+            "percentage": "71.62"
         },
         {
             "studentId": 413,
             "hallticket": "23P81A6922",
             "studentName": "GAALI NAVYA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "44/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "62/80"
+                    "subjectName": "FS",
+                    "status": "75/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "55/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "27/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "19/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "25/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "14/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "7/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "11/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "22/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "15/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "23/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "13/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "32/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "18/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "12/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 312,
-            "totalPeriods": 420,
-            "percentage": "74.29",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 172,
+            "totalPeriods": 222,
+            "percentage": "77.48"
         },
         {
             "studentId": 414,
             "hallticket": "23P81A6923",
             "studentName": "GANDHASIRI RAKESH",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "56/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "68/80"
+                    "subjectName": "FS",
+                    "status": "71/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "51/57"
+                    "subjectName": "FIOT",
+                    "status": "2/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "21/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "14/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "23/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "2/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "10/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "10/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "24/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "5/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "15/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "16/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "28/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "9/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "8/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 315,
-            "totalPeriods": 420,
-            "percentage": "75.00",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 125,
+            "totalPeriods": 222,
+            "percentage": "56.31"
         },
         {
             "studentId": 415,
             "hallticket": "23P81A6924",
             "studentName": "GONGATI SUJAN REDDY",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "48/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "68/80"
+                    "subjectName": "FS",
+                    "status": "39/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "44/57"
+                    "subjectName": "FIOT",
+                    "status": "1/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "20/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "12/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "28/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "5/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "7/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "9/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "20/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "7/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "9/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "11/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "20/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "6/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "8/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 277,
-            "totalPeriods": 420,
-            "percentage": "65.95",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 91,
+            "totalPeriods": 222,
+            "percentage": "40.99"
         },
         {
             "studentId": 416,
             "hallticket": "23P81A6925",
             "studentName": "K KRITHIKA SHIVAPRIYA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "44/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "54/80"
+                    "subjectName": "FS",
+                    "status": "51/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "33/57"
+                    "subjectName": "FIOT",
+                    "status": "5/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "23/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "19/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "34/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "12/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "6/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "15/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "24/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "14/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "15/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "16/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "26/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "22/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "19/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 277,
-            "totalPeriods": 420,
-            "percentage": "65.95",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 161,
+            "totalPeriods": 228,
+            "percentage": "70.61"
         },
         {
             "studentId": 417,
             "hallticket": "23P81A6926",
             "studentName": "KANDADA SHIVANANDAN",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "44/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "62/80"
+                    "subjectName": "FS",
+                    "status": "79/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "55/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "28/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "14/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "27/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "13/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "5/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "9/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "24/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "13/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "19/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "14/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "30/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "21/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "1/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "15/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 309,
-            "totalPeriods": 420,
-            "percentage": "73.57",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 172,
+            "totalPeriods": 228,
+            "percentage": "75.44"
         },
         {
             "studentId": 418,
             "hallticket": "23P81A6927",
             "studentName": "KAREDLA JAHNAVI REDDY",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "48/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "72/80"
+                    "subjectName": "FS",
+                    "status": "59/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "44/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "25/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "15/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "28/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "15/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "12/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "32/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "16/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "23/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "18/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "34/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "18/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "15/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 335,
-            "totalPeriods": 420,
-            "percentage": "79.76",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 157,
+            "totalPeriods": 228,
+            "percentage": "68.86"
         },
         {
             "studentId": 419,
             "hallticket": "23P81A6928",
             "studentName": "KATHROJU ABHILASH",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "48/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "60/80"
+                    "subjectName": "FS",
+                    "status": "59/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "51/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "23/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "13/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "31/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "12/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "7/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "11/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "24/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "21/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "23/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "19/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "30/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "16/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "9/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 318,
-            "totalPeriods": 420,
-            "percentage": "75.71",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 148,
+            "totalPeriods": 222,
+            "percentage": "66.67"
         },
         {
             "studentId": 421,
             "hallticket": "23P81A6930",
             "studentName": "KONDALA KARTHIK SAGAR",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "56/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "78/80"
+                    "subjectName": "FS",
+                    "status": "71/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "47/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "32/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "17/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "40/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "14/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "7/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "12/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "31/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "16/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "24/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "22/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "35/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "24/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "14/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 375,
-            "totalPeriods": 420,
-            "percentage": "89.29",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 175,
+            "totalPeriods": 228,
+            "percentage": "76.75"
         },
         {
             "studentId": 422,
             "hallticket": "23P81A6931",
             "studentName": "KONKALA HEMANTH",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "44/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "70/80"
+                    "subjectName": "FS",
+                    "status": "75/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "56/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "20/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "18/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "22/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "6/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "6/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "15/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "23/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "13/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "13/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "13/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "29/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "19/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "11/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 298,
-            "totalPeriods": 420,
-            "percentage": "70.95",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 164,
+            "totalPeriods": 222,
+            "percentage": "73.87"
         },
         {
             "studentId": 423,
             "hallticket": "23P81A6932",
             "studentName": "KONUKATI SANDEEP",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "52/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "62/80"
+                    "subjectName": "FS",
+                    "status": "67/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "53/57"
+                    "subjectName": "FIOT",
+                    "status": "2/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "21/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "16/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "7/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "2/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "10/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "23/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "5/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "19/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "17/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "30/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "12/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "7/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 295,
-            "totalPeriods": 420,
-            "percentage": "70.24",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 125,
+            "totalPeriods": 222,
+            "percentage": "56.31"
         },
         {
             "studentId": 424,
             "hallticket": "23P81A6933",
             "studentName": "KOTHAPELLI SAI DEEPAK",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "44/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "52/80"
+                    "subjectName": "FS",
+                    "status": "55/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "42/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "19/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "9/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "32/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "12/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "10/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "18/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "15/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "19/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "11/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "28/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "16/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "1/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "9/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 274,
-            "totalPeriods": 420,
-            "percentage": "65.24",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 134,
+            "totalPeriods": 228,
+            "percentage": "58.77"
         },
         {
             "studentId": 425,
             "hallticket": "23P81A6934",
             "studentName": "MADASU SRIKRUTHI",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "48/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "60/80"
+                    "subjectName": "FS",
+                    "status": "56/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "51/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "22/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "9/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "22/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "8/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "7/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "8/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "25/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "14/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "26/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "19/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "35/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "15/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "11/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 318,
-            "totalPeriods": 420,
-            "percentage": "75.71",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 128,
+            "totalPeriods": 222,
+            "percentage": "57.66"
         },
         {
             "studentId": 426,
             "hallticket": "23P81A6935",
             "studentName": "MADUGULA SHARANYA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "12/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "2/80"
+                    "subjectName": "FS",
+                    "status": "66/83"
                 },
                 {
                     "subjectId": 104,
-                    "status": "30/57"
+                    "subjectName": "FIOT",
+                    "status": "2/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "0/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "12/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "2/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "9/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "0/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "6/15"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "2/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "10/21"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "0/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "0/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "1/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "5/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "11/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 51,
-            "totalPeriods": 420,
-            "percentage": "12.14",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 125,
+            "totalPeriods": 214,
+            "percentage": "58.41"
         },
         {
             "studentId": 427,
             "hallticket": "23P81A6936",
             "studentName": "MALLAIAHGARI SRAVYA REDDY",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "44/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "52/80"
+                    "subjectName": "FS",
+                    "status": "64/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "47/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "22/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "10/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "25/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "9/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "6/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "8/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "24/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "7/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "20/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "12/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "28/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "9/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "1/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "10/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 281,
-            "totalPeriods": 420,
-            "percentage": "66.90",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 125,
+            "totalPeriods": 222,
+            "percentage": "56.31"
         },
         {
             "studentId": 428,
             "hallticket": "23P81A6937",
             "studentName": "MANKALA AKHIL",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "52/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "76/80"
+                    "subjectName": "FS",
+                    "status": "71/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "57/57"
+                    "subjectName": "FIOT",
+                    "status": "2/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "20/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "19/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "27/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "8/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "15/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "26/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "12/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "15/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "14/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "31/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "22/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "11/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 328,
-            "totalPeriods": 420,
-            "percentage": "78.10",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 164,
+            "totalPeriods": 222,
+            "percentage": "73.87"
         },
         {
             "studentId": 429,
             "hallticket": "23P81A6938",
             "studentName": "MARPURI NITHYA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "48/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "62/80"
+                    "subjectName": "FS",
+                    "status": "68/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "54/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "29/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "16/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "27/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "14/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "9/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "12/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "23/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "13/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "24/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "14/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "30/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "18/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 322,
-            "totalPeriods": 420,
-            "percentage": "76.67",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 162,
+            "totalPeriods": 222,
+            "percentage": "72.97"
         },
         {
             "studentId": 430,
             "hallticket": "23P81A6939",
             "studentName": "MEDISETTY OMKAR",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "48/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "74/80"
+                    "subjectName": "FS",
+                    "status": "52/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "57/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "24/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "18/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "28/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "12/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "14/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "27/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "21/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "19/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "15/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "31/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "22/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 333,
-            "totalPeriods": 420,
-            "percentage": "79.29",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 160,
+            "totalPeriods": 222,
+            "percentage": "72.07"
         },
         {
             "studentId": 431,
             "hallticket": "23P81A6940",
             "studentName": "MERUGU LAXMI NARASIMHA RAO",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "60/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "68/80"
+                    "subjectName": "FS",
+                    "status": "75/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "57/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "23/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "17/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "15/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "7/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "9/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "14/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "26/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "7/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "19/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "18/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "31/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "13/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "12/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 329,
-            "totalPeriods": 420,
-            "percentage": "78.33",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 152,
+            "totalPeriods": 222,
+            "percentage": "68.47"
         },
         {
             "studentId": 432,
             "hallticket": "23P81A6941",
             "studentName": "MITTAPALLY SREEJA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "44/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "68/80"
+                    "subjectName": "FS",
+                    "status": "56/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "56/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "27/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "17/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "19/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "14/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "14/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "21/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "12/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "22/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "17/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "31/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "21/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "15/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 315,
-            "totalPeriods": 420,
-            "percentage": "75.00",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 157,
+            "totalPeriods": 222,
+            "percentage": "70.72"
         },
         {
             "studentId": 433,
             "hallticket": "23P81A6942",
             "studentName": "NAMAN DAGA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "56/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "72/80"
+                    "subjectName": "FS",
+                    "status": "59/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "53/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "23/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "15/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "25/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "12/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "12/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "26/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "19/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "18/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "15/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "28/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "13/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 326,
-            "totalPeriods": 420,
-            "percentage": "77.62",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 154,
+            "totalPeriods": 222,
+            "percentage": "69.37"
         },
         {
             "studentId": 434,
             "hallticket": "23P81A6943",
             "studentName": "PEDDOJU ROHITH",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "48/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "64/80"
+                    "subjectName": "FS",
+                    "status": "59/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "53/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "19/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "22/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "34/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "1/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "5/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "14/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "28/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "3/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "18/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "17/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "22/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "19/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "20/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 311,
-            "totalPeriods": 420,
-            "percentage": "74.05",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 146,
+            "totalPeriods": 222,
+            "percentage": "65.77"
         },
         {
             "studentId": 435,
             "hallticket": "23P81A6944",
             "studentName": "POTRU NANDA SHYAM",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "48/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "64/80"
+                    "subjectName": "FS",
+                    "status": "71/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "45/57"
+                    "subjectName": "FIOT",
+                    "status": "2/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "16/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "13/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "5/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "1/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "9/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "21/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "2/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "12/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "15/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "27/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "9/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "5/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 264,
-            "totalPeriods": 420,
-            "percentage": "62.86",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 116,
+            "totalPeriods": 222,
+            "percentage": "52.25"
         },
         {
             "studentId": 436,
             "hallticket": "23P81A6945",
             "studentName": "PRANAV KARNE",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "40/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "62/80"
+                    "subjectName": "FS",
+                    "status": "71/83"
                 },
                 {
                     "subjectId": 104,
-                    "status": "45/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "26/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "14/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "30/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "13/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "5/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "8/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "19/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "10/21"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "13/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "14/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "23/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "15/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "1/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "14/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 278,
-            "totalPeriods": 420,
-            "percentage": "66.19",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 152,
+            "totalPeriods": 220,
+            "percentage": "69.09"
         },
         {
             "studentId": 437,
             "hallticket": "23P81A6946",
             "studentName": "PRATHIK REDDY METTU",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "52/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "48/80"
+                    "subjectName": "FS",
+                    "status": "56/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "41/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "15/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "21/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "40/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "2/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "5/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "16/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "31/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "5/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "22/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "20/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "20/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "22/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "21/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 297,
-            "totalPeriods": 420,
-            "percentage": "70.71",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 151,
+            "totalPeriods": 228,
+            "percentage": "66.23"
         },
         {
             "studentId": 438,
             "hallticket": "23P81A6947",
             "studentName": "RAMAPURAM MOUNISHA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "48/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "60/80"
+                    "subjectName": "FS",
+                    "status": "75/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "56/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "30/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "17/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "24/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "15/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "13/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "26/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "13/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "22/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "14/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "30/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "18/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 320,
-            "totalPeriods": 420,
-            "percentage": "76.19",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 172,
+            "totalPeriods": 222,
+            "percentage": "77.48"
         },
         {
             "studentId": 439,
             "hallticket": "23P81A6948",
             "studentName": "RANGINENI MAALIKA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "44/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "38/80"
+                    "subjectName": "FS",
+                    "status": "47/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "43/57"
+                    "subjectName": "FIOT",
+                    "status": "1/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "25/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "4/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "18/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "5/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "6/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "3/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "18/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "5/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "14/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "10/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "21/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "0/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "1/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "4/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 238,
-            "totalPeriods": 420,
-            "percentage": "56.67",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 73,
+            "totalPeriods": 222,
+            "percentage": "32.88"
         },
         {
             "studentId": 440,
             "hallticket": "23P81A6949",
             "studentName": "SANAGAPALLI VENKATA KASHYAP",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "44/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "42/80"
+                    "subjectName": "FS",
+                    "status": "35/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "35/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "5/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "21/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "40/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "2/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "2/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "15/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "32/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "3/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "15/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "19/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "10/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "15/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "21/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 247,
-            "totalPeriods": 420,
-            "percentage": "58.81",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 120,
+            "totalPeriods": 228,
+            "percentage": "52.63"
         },
         {
             "studentId": 441,
             "hallticket": "23P81A6950",
             "studentName": "SANNAMANDLA PAVAN KUMAR",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "44/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "62/80"
+                    "subjectName": "FS",
+                    "status": "59/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "51/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "26/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "11/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "26/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "9/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "6/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "10/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "26/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "17/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "17/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "16/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "28/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "13/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "12/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 304,
-            "totalPeriods": 420,
-            "percentage": "72.38",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 138,
+            "totalPeriods": 222,
+            "percentage": "62.16"
         },
         {
             "studentId": 442,
             "hallticket": "23P81A6951",
             "studentName": "SHEELAM KRISHIKA PATEL",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "52/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "74/80"
+                    "subjectName": "FS",
+                    "status": "52/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "51/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "31/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "15/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "40/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "14/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "9/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "10/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "27/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "19/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "25/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "20/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "33/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "19/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "13/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 364,
-            "totalPeriods": 420,
-            "percentage": "86.67",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 150,
+            "totalPeriods": 228,
+            "percentage": "65.79"
         },
         {
             "studentId": 443,
             "hallticket": "23P81A6952",
             "studentName": "SURYA KIRAN",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "48/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "66/80"
+                    "subjectName": "FS",
+                    "status": "72/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "43/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "26/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "11/21"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "27/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "10/20"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "5/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "6/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "21/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "7/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "17/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "14/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "22/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "15/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "1/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "12/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 290,
-            "totalPeriods": 420,
-            "percentage": "69.05",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 141,
+            "totalPeriods": 225,
+            "percentage": "62.67"
         },
         {
             "studentId": 444,
             "hallticket": "23P81A6953",
             "studentName": "THOTA ABHAY DEEKSHIT",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "52/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "66/80"
+                    "subjectName": "FS",
+                    "status": "75/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "43/57"
+                    "subjectName": "FIOT",
+                    "status": "5/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "26/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "13/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "35/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "13/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "6/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "24/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "17/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "17/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "16/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "27/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "12/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "1/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "15/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 315,
-            "totalPeriods": 420,
-            "percentage": "75.00",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 160,
+            "totalPeriods": 228,
+            "percentage": "70.18"
         },
         {
             "studentId": 445,
             "hallticket": "23P81A6954",
             "studentName": "THUMMANAPALLY AVIGNA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "60/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "54/80"
+                    "subjectName": "FS",
+                    "status": "67/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "41/57"
+                    "subjectName": "FIOT",
+                    "status": "5/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "24/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "20/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "26/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "10/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "10/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "15/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "29/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "17/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "17/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "16/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "30/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "25/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "19/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 310,
-            "totalPeriods": 420,
-            "percentage": "73.81",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 182,
+            "totalPeriods": 228,
+            "percentage": "79.82"
         },
         {
             "studentId": 446,
             "hallticket": "23P81A6955",
             "studentName": "VEMULAPALLY RUSHITHA",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "56/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "76/80"
+                    "subjectName": "FS",
+                    "status": "71/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "53/57"
+                    "subjectName": "FIOT",
+                    "status": "3/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "30/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "15/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "38/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "14/22"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "9/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "12/17"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "31/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "19/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "24/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "22/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "36/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "21/25"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "13/22"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 378,
-            "totalPeriods": 420,
-            "percentage": "90.00",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 172,
+            "totalPeriods": 228,
+            "percentage": "75.44"
         },
         {
             "studentId": 448,
             "hallticket": "24P85A6901",
             "studentName": "K CHATRAPATHI REDDY",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "60/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "62/80"
+                    "subjectName": "FS",
+                    "status": "51/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "55/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "25/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "15/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "23/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "10/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "9/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "12/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "26/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "21/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "18/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "17/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "29/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "12/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "11/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 327,
-            "totalPeriods": 420,
-            "percentage": "77.86",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 140,
+            "totalPeriods": 222,
+            "percentage": "63.06"
         },
         {
             "studentId": 449,
             "hallticket": "24P85A6902",
             "studentName": "MOHAMMAD AFROZ",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "52/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "56/80"
+                    "subjectName": "FS",
+                    "status": "63/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "55/57"
+                    "subjectName": "FIOT",
+                    "status": "2/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "17/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "9/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "18/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "5/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "7/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "8/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "21/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "4/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "16/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "15/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "25/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "12/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "2/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "7/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 284,
-            "totalPeriods": 420,
-            "percentage": "67.62",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 114,
+            "totalPeriods": 222,
+            "percentage": "51.35"
         },
         {
             "studentId": 450,
             "hallticket": "24P85A6903",
             "studentName": "YAPA SAI",
+            "section": "CSO 3yr",
             "attendance": [
                 {
-                    "subjectId": 105,
-                    "status": "52/64"
-                },
-                {
                     "subjectId": 103,
-                    "status": "66/80"
+                    "subjectName": "FS",
+                    "status": "43/87"
                 },
                 {
                     "subjectId": 104,
-                    "status": "50/57"
+                    "subjectName": "FIOT",
+                    "status": "4/5"
                 },
                 {
-                    "subjectId": 112,
-                    "status": "25/34"
+                    "subjectId": 105,
+                    "subjectName": "COVR",
+                    "status": "14/22"
                 },
                 {
-                    "subjectId": 127,
-                    "status": "17/40"
+                    "subjectId": 106,
+                    "subjectName": "IOTS",
+                    "status": "7/21"
                 },
                 {
-                    "subjectId": 117,
-                    "status": "8/11"
+                    "subjectId": 107,
+                    "subjectName": "IOTCPA",
+                    "status": "10/16"
                 },
                 {
-                    "subjectId": 126,
-                    "status": "28/38"
+                    "subjectId": 108,
+                    "subjectName": "IOT LAB",
+                    "status": "13/24"
                 },
                 {
-                    "subjectId": 125,
-                    "status": "17/29"
-                },
-                {
-                    "subjectId": 120,
-                    "status": "14/26"
-                },
-                {
-                    "subjectId": 113,
-                    "status": "28/38"
+                    "subjectId": 109,
+                    "subjectName": "COVR LAB",
+                    "status": "12/22"
                 },
                 {
                     "subjectId": 110,
-                    "status": "3/3"
+                    "subjectName": "ES",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "ML",
+                    "status": "10/21"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "IOMP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "4/4"
                 }
             ],
-            "totalPresent": 308,
-            "totalPeriods": 420,
-            "percentage": "73.33",
-            "totalBiometricPresentDays": 0,
-            "totalBiometricWorkingDays": 0,
-            "biometricpercentage": 0
+            "totalPresent": 117,
+            "totalPeriods": 222,
+            "percentage": "52.70"
         }
     ]
 }

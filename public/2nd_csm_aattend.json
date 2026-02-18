@@ -1,0 +1,5303 @@
+{
+    "Error": false,
+    "subjectDetails": [
+        {
+            "subjectId": 103,
+            "subjectName": "DIS-MATHS"
+        },
+        {
+            "subjectId": 104,
+            "subjectName": "AT & CD"
+        },
+        {
+            "subjectId": 105,
+            "subjectName": "FDS"
+        },
+        {
+            "subjectId": 106,
+            "subjectName": "DBMS"
+        },
+        {
+            "subjectId": 107,
+            "subjectName": "AI"
+        },
+        {
+            "subjectId": 108,
+            "subjectName": "PS"
+        },
+        {
+            "subjectId": 109,
+            "subjectName": "JAVA LAB"
+        },
+        {
+            "subjectId": 110,
+            "subjectName": "OOPS JAVA"
+        },
+        {
+            "subjectId": 111,
+            "subjectName": "GS"
+        },
+        {
+            "subjectId": 112,
+            "subjectName": "RTRP"
+        },
+        {
+            "subjectId": 113,
+            "subjectName": "CLUBS"
+        },
+        {
+            "subjectId": 114,
+            "subjectName": "DBMS LAB"
+        },
+        {
+            "subjectId": 115,
+            "subjectName": "SDC"
+        }
+    ],
+    "studentsAttendance": [
+        {
+            "studentId": 643,
+            "hallticket": "24P81A6601",
+            "studentName": "A SATWIKA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "16/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "21/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/7"
+                }
+            ],
+            "totalPresent": 182,
+            "totalPeriods": 248,
+            "percentage": "73.39"
+        },
+        {
+            "studentId": 644,
+            "hallticket": "24P81A6602",
+            "studentName": "AAKARAM KAPIL KUMAR",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "19/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "19/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 191,
+            "totalPeriods": 248,
+            "percentage": "77.02"
+        },
+        {
+            "studentId": 645,
+            "hallticket": "24P81A6603",
+            "studentName": "AKULA GIRIDHAR SAI SANTHOSH",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "19/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "22/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/7"
+                }
+            ],
+            "totalPresent": 198,
+            "totalPeriods": 248,
+            "percentage": "79.84"
+        },
+        {
+            "studentId": 646,
+            "hallticket": "24P81A6604",
+            "studentName": "BADDAM SHRUTHIKA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "14/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "19/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "24/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "22/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "7/7"
+                }
+            ],
+            "totalPresent": 214,
+            "totalPeriods": 248,
+            "percentage": "86.29"
+        },
+        {
+            "studentId": 647,
+            "hallticket": "24P81A6605",
+            "studentName": "BHEEMUNI SRIHARSHA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "16/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "20/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "11/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 184,
+            "totalPeriods": 248,
+            "percentage": "74.19"
+        },
+        {
+            "studentId": 648,
+            "hallticket": "24P81A6606",
+            "studentName": "BOKKA SMARAN REDDY",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "13/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "28/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "21/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "7/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "10/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 171,
+            "totalPeriods": 248,
+            "percentage": "68.95"
+        },
+        {
+            "studentId": 649,
+            "hallticket": "24P81A6607",
+            "studentName": "BOLLAM RITVIK",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "16/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "20/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 190,
+            "totalPeriods": 248,
+            "percentage": "76.61"
+        },
+        {
+            "studentId": 650,
+            "hallticket": "24P81A6608",
+            "studentName": "BYREDDY RTHWIK REDDY",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "16/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "16/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "6/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "14/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 159,
+            "totalPeriods": 248,
+            "percentage": "64.11"
+        },
+        {
+            "studentId": 651,
+            "hallticket": "24P81A6609",
+            "studentName": "C SRINIDHI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/13"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/26"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "20/44"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "56/64"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "9/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/7"
+                }
+            ],
+            "totalPresent": 173,
+            "totalPeriods": 229,
+            "percentage": "75.55"
+        },
+        {
+            "studentId": 652,
+            "hallticket": "24P81A6610",
+            "studentName": "CHERUVU SRI SAI CHAKRADHAR",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "17/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "14/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 161,
+            "totalPeriods": 248,
+            "percentage": "64.92"
+        },
+        {
+            "studentId": 653,
+            "hallticket": "24P81A6611",
+            "studentName": "CHILUKURI VIGNESHWAR",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "18/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "21/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "10/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "18/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/7"
+                }
+            ],
+            "totalPresent": 203,
+            "totalPeriods": 248,
+            "percentage": "81.85"
+        },
+        {
+            "studentId": 654,
+            "hallticket": "24P81A6612",
+            "studentName": "DIVYANSH KAVALI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "7/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "16/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "74/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "10/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 159,
+            "totalPeriods": 248,
+            "percentage": "64.11"
+        },
+        {
+            "studentId": 655,
+            "hallticket": "24P81A6613",
+            "studentName": "DONTHI AKSHITH REDDY",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "18/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "3/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/7"
+                }
+            ],
+            "totalPresent": 174,
+            "totalPeriods": 248,
+            "percentage": "70.16"
+        },
+        {
+            "studentId": 656,
+            "hallticket": "24P81A6614",
+            "studentName": "ELUKURTHI SRINIVAS",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "5/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "12/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "10/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "8/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 130,
+            "totalPeriods": 248,
+            "percentage": "52.42"
+        },
+        {
+            "studentId": 657,
+            "hallticket": "24P81A6615",
+            "studentName": "GADDAM KOUSHIK",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "7/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "9/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "6/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "6/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "1/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "66/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "12/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 120,
+            "totalPeriods": 248,
+            "percentage": "48.39"
+        },
+        {
+            "studentId": 658,
+            "hallticket": "24P81A6616",
+            "studentName": "GANDHE SHREEJA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "23/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 196,
+            "totalPeriods": 248,
+            "percentage": "79.03"
+        },
+        {
+            "studentId": 659,
+            "hallticket": "24P81A6617",
+            "studentName": "GATTU RAJA KOUNDINYA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "16/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "20/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 180,
+            "totalPeriods": 248,
+            "percentage": "72.58"
+        },
+        {
+            "studentId": 660,
+            "hallticket": "24P81A6618",
+            "studentName": "GUNDEBOYINA SANDEEP YADAV",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "5/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "15/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "12/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "2/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "10/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 150,
+            "totalPeriods": 248,
+            "percentage": "60.48"
+        },
+        {
+            "studentId": 661,
+            "hallticket": "24P81A6619",
+            "studentName": "GUNDU RUTHIK REDDY",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "10/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "15/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "26/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 189,
+            "totalPeriods": 248,
+            "percentage": "76.21"
+        },
+        {
+            "studentId": 662,
+            "hallticket": "24P81A6620",
+            "studentName": "GUNTUKA VIGNESH",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "19/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "21/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 198,
+            "totalPeriods": 248,
+            "percentage": "79.84"
+        },
+        {
+            "studentId": 663,
+            "hallticket": "24P81A6621",
+            "studentName": "H AKRUTHI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "21/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "7/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "22/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "1/7"
+                }
+            ],
+            "totalPresent": 191,
+            "totalPeriods": 248,
+            "percentage": "77.02"
+        },
+        {
+            "studentId": 664,
+            "hallticket": "24P81A6622",
+            "studentName": "JETTY SNIGDHAN",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "15/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "10/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "6/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "11/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 165,
+            "totalPeriods": 248,
+            "percentage": "66.53"
+        },
+        {
+            "studentId": 665,
+            "hallticket": "24P81A6623",
+            "studentName": "K KEERTHI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "20/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/7"
+                }
+            ],
+            "totalPresent": 193,
+            "totalPeriods": 248,
+            "percentage": "77.82"
+        },
+        {
+            "studentId": 666,
+            "hallticket": "24P81A6624",
+            "studentName": "KALLU SHARANYA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "21/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 194,
+            "totalPeriods": 248,
+            "percentage": "78.23"
+        },
+        {
+            "studentId": 667,
+            "hallticket": "24P81A6625",
+            "studentName": "KARLAPUDI SAI VENKATA NIRAVADYA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "15/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "18/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/7"
+                }
+            ],
+            "totalPresent": 180,
+            "totalPeriods": 248,
+            "percentage": "72.58"
+        },
+        {
+            "studentId": 668,
+            "hallticket": "24P81A6626",
+            "studentName": "KARNATI SRI VYSHNAVI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "16/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "20/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "1/7"
+                }
+            ],
+            "totalPresent": 189,
+            "totalPeriods": 248,
+            "percentage": "76.21"
+        },
+        {
+            "studentId": 669,
+            "hallticket": "24P81A6627",
+            "studentName": "KATA HARSHA VARDHINI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "14/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "22/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "22/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/7"
+                }
+            ],
+            "totalPresent": 206,
+            "totalPeriods": 248,
+            "percentage": "83.06"
+        },
+        {
+            "studentId": 670,
+            "hallticket": "24P81A6628",
+            "studentName": "KESARLA VISWESH",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "0/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "7/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "0/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "0/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "56/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "0/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 89,
+            "totalPeriods": 248,
+            "percentage": "35.89"
+        },
+        {
+            "studentId": 671,
+            "hallticket": "24P81A6629",
+            "studentName": "KONDAPURAM SRIJA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "24/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "22/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/7"
+                }
+            ],
+            "totalPresent": 194,
+            "totalPeriods": 248,
+            "percentage": "78.23"
+        },
+        {
+            "studentId": 672,
+            "hallticket": "24P81A6630",
+            "studentName": "KOPATAM SRAVANI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "10/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "14/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "4/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "1/7"
+                }
+            ],
+            "totalPresent": 156,
+            "totalPeriods": 248,
+            "percentage": "62.90"
+        },
+        {
+            "studentId": 673,
+            "hallticket": "24P81A6631",
+            "studentName": "KOTHAKOTA VARSHITH REDDY",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "18/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "3/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/7"
+                }
+            ],
+            "totalPresent": 167,
+            "totalPeriods": 248,
+            "percentage": "67.34"
+        },
+        {
+            "studentId": 674,
+            "hallticket": "24P81A6632",
+            "studentName": "KUCHANPALLY RAJ VARDHAN REDDY",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "8/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "14/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "11/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 154,
+            "totalPeriods": 248,
+            "percentage": "62.10"
+        },
+        {
+            "studentId": 675,
+            "hallticket": "24P81A6633",
+            "studentName": "KUMMARI SHIREESHA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "17/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "6/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "1/7"
+                }
+            ],
+            "totalPresent": 174,
+            "totalPeriods": 248,
+            "percentage": "70.16"
+        },
+        {
+            "studentId": 676,
+            "hallticket": "24P81A6634",
+            "studentName": "KURVA BENNE ANUSHA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "16/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "20/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/7"
+                }
+            ],
+            "totalPresent": 178,
+            "totalPeriods": 248,
+            "percentage": "71.77"
+        },
+        {
+            "studentId": 677,
+            "hallticket": "24P81A6635",
+            "studentName": "M MOHAN KUMAR YADAV",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "0/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "7/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "6/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "0/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "0/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "49/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "0/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 62,
+            "totalPeriods": 248,
+            "percentage": "25.00"
+        },
+        {
+            "studentId": 678,
+            "hallticket": "24P81A6636",
+            "studentName": "MADIPADIGE PAVAN TEJA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/26"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "15/44"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/13"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "62/70"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "5/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "11/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 148,
+            "totalPeriods": 236,
+            "percentage": "62.71"
+        },
+        {
+            "studentId": 679,
+            "hallticket": "24P81A6637",
+            "studentName": "MALLEPALLI VASU",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "13/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "16/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "11/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "5/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 154,
+            "totalPeriods": 248,
+            "percentage": "62.10"
+        },
+        {
+            "studentId": 680,
+            "hallticket": "24P81A6638",
+            "studentName": "MANCHIKANTI INDU",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "18/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "24/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/7"
+                }
+            ],
+            "totalPresent": 199,
+            "totalPeriods": 248,
+            "percentage": "80.24"
+        },
+        {
+            "studentId": 681,
+            "hallticket": "24P81A6639",
+            "studentName": "MANDAPATI SAI TEJ",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "14/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "14/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 164,
+            "totalPeriods": 248,
+            "percentage": "66.13"
+        },
+        {
+            "studentId": 682,
+            "hallticket": "24P81A6640",
+            "studentName": "MANTHAPURI SRUJAN",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "11/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "10/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "15/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "3/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 149,
+            "totalPeriods": 248,
+            "percentage": "60.08"
+        },
+        {
+            "studentId": 683,
+            "hallticket": "24P81A6641",
+            "studentName": "MARYALA YASHWANTH",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "8/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "11/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "11/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "4/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "10/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 159,
+            "totalPeriods": 248,
+            "percentage": "64.11"
+        },
+        {
+            "studentId": 684,
+            "hallticket": "24P81A6642",
+            "studentName": "MEKALA ANIRUDH SREEVATHSA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "16/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "23/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "7/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 179,
+            "totalPeriods": 248,
+            "percentage": "72.18"
+        },
+        {
+            "studentId": 685,
+            "hallticket": "24P81A6643",
+            "studentName": "MEKALA RITHWIK",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "3/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "14/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "13/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "3/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "5/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 131,
+            "totalPeriods": 248,
+            "percentage": "52.82"
+        },
+        {
+            "studentId": 686,
+            "hallticket": "24P81A6644",
+            "studentName": "MEKALA SHIVA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "12/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "20/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "14/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/7"
+                }
+            ],
+            "totalPresent": 175,
+            "totalPeriods": 248,
+            "percentage": "70.56"
+        },
+        {
+            "studentId": 687,
+            "hallticket": "24P81A6645",
+            "studentName": "MOHAMMAD ZEBA NISHA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "18/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "20/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "6/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 185,
+            "totalPeriods": 248,
+            "percentage": "74.60"
+        },
+        {
+            "studentId": 688,
+            "hallticket": "24P81A6646",
+            "studentName": "MUMMADI JAAHNAVI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "16/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "18/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/7"
+                }
+            ],
+            "totalPresent": 195,
+            "totalPeriods": 248,
+            "percentage": "78.63"
+        },
+        {
+            "studentId": 689,
+            "hallticket": "24P81A6647",
+            "studentName": "NEELI PALLAVI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "0/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "7/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "2/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "0/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "0/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "49/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "1/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 59,
+            "totalPeriods": 248,
+            "percentage": "23.79"
+        },
+        {
+            "studentId": 690,
+            "hallticket": "24P81A6648",
+            "studentName": "PADIGE TANUSREE",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "14/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "19/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "28/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "24/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "25/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/7"
+                }
+            ],
+            "totalPresent": 212,
+            "totalPeriods": 248,
+            "percentage": "85.48"
+        },
+        {
+            "studentId": 691,
+            "hallticket": "24P81A6649",
+            "studentName": "PALAKALURI MOKSHAGNA MALLIKARJUN",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/14"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "18/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/26"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "21/44"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/13"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "66/70"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "9/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/7"
+                }
+            ],
+            "totalPresent": 188,
+            "totalPeriods": 236,
+            "percentage": "79.66"
+        },
+        {
+            "studentId": 692,
+            "hallticket": "24P81A6650",
+            "studentName": "PATHAPATI PAVAN SHANKER VARMA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "7/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "15/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "8/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "6/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 131,
+            "totalPeriods": 248,
+            "percentage": "52.82"
+        },
+        {
+            "studentId": 693,
+            "hallticket": "24P81A6651",
+            "studentName": "PATNAM VIVEK",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "10/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "16/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "19/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "10/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 172,
+            "totalPeriods": 248,
+            "percentage": "69.35"
+        },
+        {
+            "studentId": 694,
+            "hallticket": "24P81A6652",
+            "studentName": "PEDHIREDDY KRITHIKA REDDY",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "10/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "16/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "18/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "7/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 185,
+            "totalPeriods": 248,
+            "percentage": "74.60"
+        },
+        {
+            "studentId": 695,
+            "hallticket": "24P81A6653",
+            "studentName": "SAMA THRISHUL REDDY",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "10/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "18/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 173,
+            "totalPeriods": 248,
+            "percentage": "69.76"
+        },
+        {
+            "studentId": 696,
+            "hallticket": "24P81A6654",
+            "studentName": "SAMALA SATHWIKA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "10/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "19/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 174,
+            "totalPeriods": 248,
+            "percentage": "70.16"
+        },
+        {
+            "studentId": 697,
+            "hallticket": "24P81A6655",
+            "studentName": "SHEELA SAI LAXMI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "14/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "15/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "23/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "1/7"
+                }
+            ],
+            "totalPresent": 194,
+            "totalPeriods": 248,
+            "percentage": "78.23"
+        },
+        {
+            "studentId": 699,
+            "hallticket": "24P81A6657",
+            "studentName": "SUDINI ANSHIKA REDDY",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "19/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "7/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "74/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/7"
+                }
+            ],
+            "totalPresent": 177,
+            "totalPeriods": 248,
+            "percentage": "71.37"
+        },
+        {
+            "studentId": 700,
+            "hallticket": "24P81A6658",
+            "studentName": "UPPALA SRI CHAITANYA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "17/44"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "7/13"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "69/70"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "7/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "11/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 166,
+            "totalPeriods": 236,
+            "percentage": "70.34"
+        },
+        {
+            "studentId": 701,
+            "hallticket": "24P81A6659",
+            "studentName": "UPPULA SANDEEP",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "12/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "14/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "16/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "6/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "56/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "9/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 138,
+            "totalPeriods": 248,
+            "percentage": "55.65"
+        },
+        {
+            "studentId": 702,
+            "hallticket": "24P81A6660",
+            "studentName": "VADLA VAMSHI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "10/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "12/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "16/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "6/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "74/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "12/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/7"
+                }
+            ],
+            "totalPresent": 173,
+            "totalPeriods": 248,
+            "percentage": "69.76"
+        },
+        {
+            "studentId": 703,
+            "hallticket": "24P81A6661",
+            "studentName": "VAKKALA RAMYA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "19/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "21/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/7"
+                }
+            ],
+            "totalPresent": 193,
+            "totalPeriods": 248,
+            "percentage": "77.82"
+        },
+        {
+            "studentId": 704,
+            "hallticket": "24P81A6662",
+            "studentName": "VANAM DIVIJA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "20/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "6/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "1/7"
+                }
+            ],
+            "totalPresent": 185,
+            "totalPeriods": 248,
+            "percentage": "74.60"
+        },
+        {
+            "studentId": 705,
+            "hallticket": "24P81A6663",
+            "studentName": "VEERAVALLI RAJDEEP",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "10/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "15/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "7/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/7"
+                }
+            ],
+            "totalPresent": 158,
+            "totalPeriods": 248,
+            "percentage": "63.71"
+        },
+        {
+            "studentId": 706,
+            "hallticket": "24P81A6664",
+            "studentName": "VIKHYAT SONI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "8/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "12/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "16/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "11/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "11/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "61/74"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "12/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 147,
+            "totalPeriods": 245,
+            "percentage": "60.00"
+        },
+        {
+            "studentId": 912,
+            "hallticket": "25P85A6601",
+            "studentName": "AGGIDI SPANDANA",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "14/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "16/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "7/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "12/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/7"
+                }
+            ],
+            "totalPresent": 184,
+            "totalPeriods": 248,
+            "percentage": "74.19"
+        },
+        {
+            "studentId": 913,
+            "hallticket": "25P85A6602",
+            "studentName": "BETHI VAISHNAVI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "7/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "13/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "16/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "15/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "4/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "12/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/7"
+                }
+            ],
+            "totalPresent": 138,
+            "totalPeriods": 248,
+            "percentage": "55.65"
+        },
+        {
+            "studentId": 914,
+            "hallticket": "25P85A6603",
+            "studentName": "DITI ABHILASH",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "16/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "22/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "9/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "18/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/7"
+                }
+            ],
+            "totalPresent": 193,
+            "totalPeriods": 248,
+            "percentage": "77.82"
+        },
+        {
+            "studentId": 915,
+            "hallticket": "25P85A6604",
+            "studentName": "ERUKALA SAI VARDHAN GOUD",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "7/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "15/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "17/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "5/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "9/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/7"
+                }
+            ],
+            "totalPresent": 149,
+            "totalPeriods": 248,
+            "percentage": "60.08"
+        },
+        {
+            "studentId": 916,
+            "hallticket": "25P85A6605",
+            "studentName": "GANGISHETTI SHRAVANI",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "17/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "22/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "8/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "2/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/7"
+                }
+            ],
+            "totalPresent": 198,
+            "totalPeriods": 248,
+            "percentage": "79.84"
+        },
+        {
+            "studentId": 917,
+            "hallticket": "25P85A6606",
+            "studentName": "PUSHIGAMPA NISHITH GOUD",
+            "section": "CSM A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "DIS-MATHS",
+                    "status": "7/15"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AT & CD",
+                    "status": "13/19"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/28"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "DBMS",
+                    "status": "14/45"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "AI",
+                    "status": "6/14"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "JAVA LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "OOPS JAVA",
+                    "status": "9/26"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "3/3"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/4"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/7"
+                }
+            ],
+            "totalPresent": 151,
+            "totalPeriods": 248,
+            "percentage": "60.89"
+        }
+    ]
+}

@@ -91,6 +91,7 @@ module.exports = {
         "float": "float 3s ease-in-out infinite",
       },
       fontFamily: {
+        'outfit': ['Outfit', 'sans-serif'],
         'satoshi': ['Satoshi', 'sans-serif'],
         'jakarta': ['Plus Jakarta Sans', 'sans-serif'],
         'inter': ['Inter', 'sans-serif'],

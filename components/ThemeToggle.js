@@ -1,46 +1,55 @@
 import { useState, useEffect } from 'react';
+import { Sun, Moon, Sparkles } from 'lucide-react';
+import { motion, AnimatePresence } from 'framer-motion';
 
 export default function ThemeToggle() {
-  const [isDark, setIsDark] = useState(true);
+  const [theme, setTheme] = useState('dark');
+  const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    const savedTheme = localStorage.getItem('theme');
-    if (savedTheme) {
-      setIsDark(savedTheme === 'dark');
-    }
+    setMounted(true);
+    const savedTheme = localStorage.getItem('theme') || 'dark';
+    setTheme(savedTheme);
+    document.documentElement.classList.toggle('dark', savedTheme === 'dark');
   }, []);
 
-  useEffect(() => {
-    document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
-    localStorage.setItem('theme', isDark ? 'dark' : 'light');
-  }, [isDark]);
+  const toggleTheme = () => {
+    const newTheme = theme === 'dark' ? 'light' : 'dark';
+    setTheme(newTheme);
+    localStorage.setItem('theme', newTheme);
+    document.documentElement.classList.toggle('dark', newTheme === 'dark');
+  };
+
+  if (!mounted) return null;
 
   return (
     <button
-      className="theme-toggle"
-      onClick={() => setIsDark(!isDark)}
-      style={{
-        position: 'fixed',
-        top: '20px',
-        right: '20px',
-        width: '50px',
-        height: '50px',
-        borderRadius: '50%',
-        border: '2px solid #333',
-        background: isDark ? '#000' : '#fff',
-        color: isDark ? '#fff' : '#000',
-        cursor: 'pointer',
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        fontSize: '1.2rem',
-        zIndex: 1000,
-        transition: 'all 0.3s ease',
-        boxShadow: '0 2px 10px rgba(0,0,0,0.2)'
-      }}
-      title={`Switch to ${isDark ? 'light' : 'dark'} theme`}
+      onClick={toggleTheme}
+      className="relative group p-2.5 rounded-2xl bg-white/5 dark:bg-white/5 light:bg-slate-200/50 backdrop-blur-3xl border border-white/10 dark:border-white/10 light:border-slate-300 transition-all duration-500 hover:scale-110 active:scale-95 shadow-lg overflow-hidden"
+      aria-label="Toggle Theme"
     >
-      {isDark ? '☀️' : '🌙'}
+      <div className="absolute inset-0 bg-gradient-to-br from-indigo-500/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
+
+      <AnimatePresence mode="wait">
+        <motion.div
+          key={theme}
+          initial={{ y: 20, opacity: 0, rotate: -90 }}
+          animate={{ y: 0, opacity: 1, rotate: 0 }}
+          exit={{ y: -20, opacity: 0, rotate: 90 }}
+          transition={{ duration: 0.3, ease: "backOut" }}
+          className="relative z-10"
+        >
+          {theme === 'dark' ? (
+            <Moon className="w-5 h-5 text-indigo-400" />
+          ) : (
+            <Sun className="w-5 h-5 text-amber-500" />
+          )}
+        </motion.div>
+      </AnimatePresence>
+
+      <div className="absolute -top-1 -right-1">
+        <Sparkles className="w-3 h-3 text-indigo-500/40 animate-pulse" />
+      </div>
     </button>
   );
 }

@@ -1,0 +1,5303 @@
+{
+    "Error": false,
+    "subjectDetails": [
+        {
+            "subjectId": 103,
+            "subjectName": "OS"
+        },
+        {
+            "subjectId": 104,
+            "subjectName": "COI"
+        },
+        {
+            "subjectId": 105,
+            "subjectName": "FDS"
+        },
+        {
+            "subjectId": 106,
+            "subjectName": "OS LAB"
+        },
+        {
+            "subjectId": 107,
+            "subjectName": "PS"
+        },
+        {
+            "subjectId": 108,
+            "subjectName": "DIS-MATHS"
+        },
+        {
+            "subjectId": 109,
+            "subjectName": "BEFA"
+        },
+        {
+            "subjectId": 110,
+            "subjectName": "DBMS"
+        },
+        {
+            "subjectId": 111,
+            "subjectName": "SE"
+        },
+        {
+            "subjectId": 112,
+            "subjectName": "DBMS LAB"
+        },
+        {
+            "subjectId": 113,
+            "subjectName": "RTRP"
+        },
+        {
+            "subjectId": 114,
+            "subjectName": "CLUBS"
+        },
+        {
+            "subjectId": 115,
+            "subjectName": "SDC"
+        }
+    ],
+    "studentsAttendance": [
+        {
+            "studentId": 451,
+            "hallticket": "24P81A0501",
+            "studentName": "ADDAGATLA MANASA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "15/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "12/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "13/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "10/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 177,
+            "totalPeriods": 247,
+            "percentage": "71.66"
+        },
+        {
+            "studentId": 452,
+            "hallticket": "24P81A0502",
+            "studentName": "AYUSH KUMAR",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "11/26"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "14/30"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "64/64"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/20"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "9/23"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "8/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/6"
+                }
+            ],
+            "totalPresent": 138,
+            "totalPeriods": 226,
+            "percentage": "61.06"
+        },
+        {
+            "studentId": 453,
+            "hallticket": "24P81A0503",
+            "studentName": "BASHETTY SUMUKH",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "17/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "14/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "15/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 184,
+            "totalPeriods": 247,
+            "percentage": "74.49"
+        },
+        {
+            "studentId": 454,
+            "hallticket": "24P81A0504",
+            "studentName": "BHAVYA MAVILLAPALLY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "19/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "15/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "3/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 199,
+            "totalPeriods": 247,
+            "percentage": "80.57"
+        },
+        {
+            "studentId": 455,
+            "hallticket": "24P81A0505",
+            "studentName": "BODDU NITESH REDDY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "20/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "11/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "6/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/6"
+                }
+            ],
+            "totalPresent": 173,
+            "totalPeriods": 247,
+            "percentage": "70.04"
+        },
+        {
+            "studentId": 456,
+            "hallticket": "24P81A0506",
+            "studentName": "BOPPIDI KAUSHAL REDDY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "18/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "12/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "17/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "9/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "6/6"
+                }
+            ],
+            "totalPresent": 182,
+            "totalPeriods": 247,
+            "percentage": "73.68"
+        },
+        {
+            "studentId": 457,
+            "hallticket": "24P81A0507",
+            "studentName": "CHADURUPALLI JASHWANTH",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "20/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "18/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "2/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 189,
+            "totalPeriods": 247,
+            "percentage": "76.52"
+        },
+        {
+            "studentId": 458,
+            "hallticket": "24P81A0508",
+            "studentName": "CHAGANTI SREEVATSALYA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "15/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "16/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "10/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "9/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "11/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 151,
+            "totalPeriods": 247,
+            "percentage": "61.13"
+        },
+        {
+            "studentId": 459,
+            "hallticket": "24P81A0509",
+            "studentName": "CHAMALA SAI NIKSHITH REDDY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "16/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "56/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "10/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "11/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "9/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 145,
+            "totalPeriods": 247,
+            "percentage": "58.70"
+        },
+        {
+            "studentId": 460,
+            "hallticket": "24P81A0510",
+            "studentName": "CHENNARAM SAI DILIP REDDY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "18/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "12/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "14/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 171,
+            "totalPeriods": 247,
+            "percentage": "69.23"
+        },
+        {
+            "studentId": 461,
+            "hallticket": "24P81A0511",
+            "studentName": "CHINNAPULLARI SRINIDHI",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "19/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "12/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "15/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "14/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "2/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "6/6"
+                }
+            ],
+            "totalPresent": 189,
+            "totalPeriods": 247,
+            "percentage": "76.52"
+        },
+        {
+            "studentId": 462,
+            "hallticket": "24P81A0512",
+            "studentName": "CHIRRA GREESHMA REDDY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "18/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "18/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "14/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "3/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/6"
+                }
+            ],
+            "totalPresent": 196,
+            "totalPeriods": 247,
+            "percentage": "79.35"
+        },
+        {
+            "studentId": 463,
+            "hallticket": "24P81A0513",
+            "studentName": "DASA GNANADEEP",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "21/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "19/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "15/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "19/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "15/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "10/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 208,
+            "totalPeriods": 247,
+            "percentage": "84.21"
+        },
+        {
+            "studentId": 464,
+            "hallticket": "24P81A0514",
+            "studentName": "DUGYALA RATHNA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "16/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "10/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "9/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 178,
+            "totalPeriods": 247,
+            "percentage": "72.06"
+        },
+        {
+            "studentId": 465,
+            "hallticket": "24P81A0515",
+            "studentName": "GADDAM SRINIKESH REDDY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "6/26"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "12/30"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "42/64"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "6/20"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "5/15"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "7/23"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "5/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "1/6"
+                }
+            ],
+            "totalPresent": 91,
+            "totalPeriods": 226,
+            "percentage": "40.27"
+        },
+        {
+            "studentId": 466,
+            "hallticket": "24P81A0516",
+            "studentName": "GADIYARAM HASINI",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "15/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "2/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "49/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "10/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "12/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "8/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 138,
+            "totalPeriods": 247,
+            "percentage": "55.87"
+        },
+        {
+            "studentId": 467,
+            "hallticket": "24P81A0517",
+            "studentName": "GAJJALA RITHWIK",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "14/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "14/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "8/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "10/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "6/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 143,
+            "totalPeriods": 247,
+            "percentage": "57.89"
+        },
+        {
+            "studentId": 468,
+            "hallticket": "24P81A0518",
+            "studentName": "GUMPENA AKSHITHA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "20/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "15/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "12/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "14/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 184,
+            "totalPeriods": 247,
+            "percentage": "74.49"
+        },
+        {
+            "studentId": 469,
+            "hallticket": "24P81A0519",
+            "studentName": "GUNTOJU LAASYA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "56/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "10/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "15/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 169,
+            "totalPeriods": 247,
+            "percentage": "68.42"
+        },
+        {
+            "studentId": 470,
+            "hallticket": "24P81A0520",
+            "studentName": "KARNAM RUSHI CHANDRA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "13/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "15/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "8/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "12/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "8/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 157,
+            "totalPeriods": 247,
+            "percentage": "63.56"
+        },
+        {
+            "studentId": 471,
+            "hallticket": "24P81A0521",
+            "studentName": "KATABATHINI MANOGNYA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "18/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "17/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "14/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 181,
+            "totalPeriods": 247,
+            "percentage": "73.28"
+        },
+        {
+            "studentId": 472,
+            "hallticket": "24P81A0522",
+            "studentName": "KATKAM ARJUN SAI",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "16/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "16/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "14/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "9/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "7/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "7/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 162,
+            "totalPeriods": 247,
+            "percentage": "65.59"
+        },
+        {
+            "studentId": 473,
+            "hallticket": "24P81A0523",
+            "studentName": "KOMMIDI HASWITHA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "18/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "67/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "15/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "10/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "10/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "8/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "6/6"
+                }
+            ],
+            "totalPresent": 164,
+            "totalPeriods": 247,
+            "percentage": "66.40"
+        },
+        {
+            "studentId": 474,
+            "hallticket": "24P81A0524",
+            "studentName": "KONTHAM DINESH KARTHIK",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "15/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "14/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "9/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "11/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "11/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 166,
+            "totalPeriods": 247,
+            "percentage": "67.21"
+        },
+        {
+            "studentId": 475,
+            "hallticket": "24P81A0525",
+            "studentName": "MADHAVARAM ASHMITHA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "18/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "18/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "19/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "15/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 193,
+            "totalPeriods": 247,
+            "percentage": "78.14"
+        },
+        {
+            "studentId": 476,
+            "hallticket": "24P81A0526",
+            "studentName": "MAJJI KIRAN",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "15/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "10/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "13/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 174,
+            "totalPeriods": 247,
+            "percentage": "70.45"
+        },
+        {
+            "studentId": 477,
+            "hallticket": "24P81A0527",
+            "studentName": "MALLEBOINA THRINESH KUMAR",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "16/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "16/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "10/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "8/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "11/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 168,
+            "totalPeriods": 247,
+            "percentage": "68.02"
+        },
+        {
+            "studentId": 478,
+            "hallticket": "24P81A0528",
+            "studentName": "MANDUGULA ARCHANA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "8/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "14/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "56/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "7/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "7/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "4/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 118,
+            "totalPeriods": 247,
+            "percentage": "47.77"
+        },
+        {
+            "studentId": 479,
+            "hallticket": "24P81A0529",
+            "studentName": "MASNA RAJITHA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "22/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "2/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "19/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "14/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "19/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "16/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "3/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "6/6"
+                }
+            ],
+            "totalPresent": 209,
+            "totalPeriods": 247,
+            "percentage": "84.62"
+        },
+        {
+            "studentId": 480,
+            "hallticket": "24P81A0530",
+            "studentName": "MEKALA HARSHVARDHAN REDDY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "8/26"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "12/30"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "56/64"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/20"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "6/15"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "5/23"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "7/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/6"
+                }
+            ],
+            "totalPresent": 115,
+            "totalPeriods": 226,
+            "percentage": "50.88"
+        },
+        {
+            "studentId": 481,
+            "hallticket": "24P81A0531",
+            "studentName": "MUMMADI SIDHI SRIMAYI ANANYA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "16/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "11/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "9/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 174,
+            "totalPeriods": 247,
+            "percentage": "70.45"
+        },
+        {
+            "studentId": 482,
+            "hallticket": "24P81A0532",
+            "studentName": "MUNAGALA KEERTHI",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "12/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "18/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "3/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 177,
+            "totalPeriods": 247,
+            "percentage": "71.66"
+        },
+        {
+            "studentId": 483,
+            "hallticket": "24P81A0533",
+            "studentName": "NANDAGIRI SHIVANI",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "15/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "3/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 177,
+            "totalPeriods": 247,
+            "percentage": "71.66"
+        },
+        {
+            "studentId": 485,
+            "hallticket": "24P81A0535",
+            "studentName": "NELKI ABHINAV",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "14/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "14/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "10/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "3/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 176,
+            "totalPeriods": 247,
+            "percentage": "71.26"
+        },
+        {
+            "studentId": 486,
+            "hallticket": "24P81A0536",
+            "studentName": "PERAM GOUTHAM KARTHIK",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "19/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "17/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "21/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "14/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "2/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "1/6"
+                }
+            ],
+            "totalPresent": 190,
+            "totalPeriods": 247,
+            "percentage": "76.92"
+        },
+        {
+            "studentId": 487,
+            "hallticket": "24P81A0537",
+            "studentName": "PONNABOINA SAMYUKTHA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "18/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "15/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "12/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "9/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 181,
+            "totalPeriods": 247,
+            "percentage": "73.28"
+        },
+        {
+            "studentId": 488,
+            "hallticket": "24P81A0538",
+            "studentName": "PONUGOTI SAI AKSHITH",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/27"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "69/70"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/20"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "16/23"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "11/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 177,
+            "totalPeriods": 233,
+            "percentage": "75.97"
+        },
+        {
+            "studentId": 489,
+            "hallticket": "24P81A0539",
+            "studentName": "POORNA CHANDER REDDY KONANI",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "24/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "12/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "15/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "23/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "15/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "2/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/6"
+                }
+            ],
+            "totalPresent": 185,
+            "totalPeriods": 247,
+            "percentage": "74.90"
+        },
+        {
+            "studentId": 490,
+            "hallticket": "24P81A0540",
+            "studentName": "RACHAMALLA JISHNU",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "15/27"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/30"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "56/64"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "15/20"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "14/23"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "12/17"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 165,
+            "totalPeriods": 226,
+            "percentage": "73.01"
+        },
+        {
+            "studentId": 491,
+            "hallticket": "24P81A0541",
+            "studentName": "RAJOJI SHARANYA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "19/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "17/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "14/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "6/6"
+                }
+            ],
+            "totalPresent": 193,
+            "totalPeriods": 247,
+            "percentage": "78.14"
+        },
+        {
+            "studentId": 492,
+            "hallticket": "24P81A0542",
+            "studentName": "RAMAGIRI NISCHAY PRATHEEK",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "10/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "12/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "49/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "10/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "6/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "8/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "4/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/6"
+                }
+            ],
+            "totalPresent": 105,
+            "totalPeriods": 247,
+            "percentage": "42.51"
+        },
+        {
+            "studentId": 493,
+            "hallticket": "24P81A0543",
+            "studentName": "REVURI RISHITH REDDY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "11/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "14/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "10/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "8/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "8/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 140,
+            "totalPeriods": 247,
+            "percentage": "56.68"
+        },
+        {
+            "studentId": 494,
+            "hallticket": "24P81A0544",
+            "studentName": "SARAMPALLI VAMSHITH",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "11/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "13/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "7/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "11/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "7/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/6"
+                }
+            ],
+            "totalPresent": 142,
+            "totalPeriods": 247,
+            "percentage": "57.49"
+        },
+        {
+            "studentId": 495,
+            "hallticket": "24P81A0545",
+            "studentName": "SIRI REDDY MANDADI",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "16/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "9/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "9/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "10/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "8/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "0/6"
+                }
+            ],
+            "totalPresent": 135,
+            "totalPeriods": 247,
+            "percentage": "54.66"
+        },
+        {
+            "studentId": 496,
+            "hallticket": "24P81A0546",
+            "studentName": "SIRISANAGANDLA SRAVYA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "18/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "14/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "12/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "11/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 181,
+            "totalPeriods": 247,
+            "percentage": "73.28"
+        },
+        {
+            "studentId": 497,
+            "hallticket": "24P81A0547",
+            "studentName": "SULUVA SANGHAVI",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "19/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "2/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "18/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "14/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "2/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "6/6"
+                }
+            ],
+            "totalPresent": 183,
+            "totalPeriods": 247,
+            "percentage": "74.09"
+        },
+        {
+            "studentId": 498,
+            "hallticket": "24P81A0548",
+            "studentName": "TADAKAMALLA RUKMANANDA ROHAN",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "15/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "4/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "9/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "8/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "8/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 148,
+            "totalPeriods": 247,
+            "percentage": "59.92"
+        },
+        {
+            "studentId": 499,
+            "hallticket": "24P81A0549",
+            "studentName": "THALLOJU SAI CHARAN",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "11/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "18/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "2/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 180,
+            "totalPeriods": 247,
+            "percentage": "72.87"
+        },
+        {
+            "studentId": 500,
+            "hallticket": "24P81A0550",
+            "studentName": "THUMMALA RAKSHITH REDDY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "16/27"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "69/70"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/20"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 177,
+            "totalPeriods": 233,
+            "percentage": "75.97"
+        },
+        {
+            "studentId": 501,
+            "hallticket": "24P81A0551",
+            "studentName": "TUNGENA AKSHAY RAO",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "15/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "14/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "19/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/6"
+                }
+            ],
+            "totalPresent": 179,
+            "totalPeriods": 247,
+            "percentage": "72.47"
+        },
+        {
+            "studentId": 502,
+            "hallticket": "24P81A0552",
+            "studentName": "ULINDALA TRINATH REDDY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "18/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "14/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "12/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "14/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "15/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 183,
+            "totalPeriods": 247,
+            "percentage": "74.09"
+        },
+        {
+            "studentId": 503,
+            "hallticket": "24P81A0553",
+            "studentName": "UYYALA SRINIJA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "20/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "19/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "19/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "15/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 193,
+            "totalPeriods": 247,
+            "percentage": "78.14"
+        },
+        {
+            "studentId": 504,
+            "hallticket": "24P81A0554",
+            "studentName": "VAJJA SREEMAYEE",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "56/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "15/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "20/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "15/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "3/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/6"
+                }
+            ],
+            "totalPresent": 178,
+            "totalPeriods": 247,
+            "percentage": "72.06"
+        },
+        {
+            "studentId": 505,
+            "hallticket": "24P81A0555",
+            "studentName": "VAKA ABHIRAM",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "18/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "14/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "19/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/6"
+                }
+            ],
+            "totalPresent": 177,
+            "totalPeriods": 247,
+            "percentage": "71.66"
+        },
+        {
+            "studentId": 506,
+            "hallticket": "24P81A0556",
+            "studentName": "VEERABOMMA SUJITH",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "14/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "15/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "10/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "12/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 176,
+            "totalPeriods": 247,
+            "percentage": "71.26"
+        },
+        {
+            "studentId": 507,
+            "hallticket": "24P81A0557",
+            "studentName": "VEERAGONI VARUN",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "66/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "12/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "11/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "7/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 158,
+            "totalPeriods": 247,
+            "percentage": "63.97"
+        },
+        {
+            "studentId": 508,
+            "hallticket": "24P81A0558",
+            "studentName": "VEERAMANENI CHARAN",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "16/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "11/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "9/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "8/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "9/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "2/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 160,
+            "totalPeriods": 247,
+            "percentage": "64.78"
+        },
+        {
+            "studentId": 509,
+            "hallticket": "24P81A0559",
+            "studentName": "VEERAVAJHULA SAI PHANI ANIRUDH",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "19/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "7/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "14/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/6"
+                }
+            ],
+            "totalPresent": 174,
+            "totalPeriods": 247,
+            "percentage": "70.45"
+        },
+        {
+            "studentId": 510,
+            "hallticket": "24P81A0560",
+            "studentName": "VEMPATI SAI KALYAN",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "18/27"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "2/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/30"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "69/70"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "17/20"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "16/23"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "16/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 194,
+            "totalPeriods": 233,
+            "percentage": "83.26"
+        },
+        {
+            "studentId": 511,
+            "hallticket": "24P81A0561",
+            "studentName": "VENEPALLY ANIRUDH RAO",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "16/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "77/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "16/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "14/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "21/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "2/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/6"
+                }
+            ],
+            "totalPresent": 190,
+            "totalPeriods": 247,
+            "percentage": "76.92"
+        },
+        {
+            "studentId": 512,
+            "hallticket": "24P81A0562",
+            "studentName": "VINJAMURI RISHI VARDHAN CHARY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "17/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "18/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "11/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "13/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 180,
+            "totalPeriods": 247,
+            "percentage": "72.87"
+        },
+        {
+            "studentId": 513,
+            "hallticket": "24P81A0563",
+            "studentName": "YARAGARLA PHANI KUMAR",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "7/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "4/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "56/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "6/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "5/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "4/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "4/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "2/6"
+                }
+            ],
+            "totalPresent": 91,
+            "totalPeriods": 247,
+            "percentage": "36.84"
+        },
+        {
+            "studentId": 514,
+            "hallticket": "24P81A0564",
+            "studentName": "YARALA SHARVANI REDDY",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "18/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "19/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "14/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "17/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "15/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "4/6"
+                }
+            ],
+            "totalPresent": 199,
+            "totalPeriods": 247,
+            "percentage": "80.57"
+        },
+        {
+            "studentId": 895,
+            "hallticket": "25P85A0501",
+            "studentName": "ANUSHA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "6/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "8/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "42/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "7/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "6/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "4/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "4/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "3/6"
+                }
+            ],
+            "totalPresent": 80,
+            "totalPeriods": 247,
+            "percentage": "32.39"
+        },
+        {
+            "studentId": 896,
+            "hallticket": "25P85A0502",
+            "studentName": "GADDA THRIDEV",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "13/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "14/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "28/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "5/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "5/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "6/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "4/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 84,
+            "totalPeriods": 247,
+            "percentage": "34.01"
+        },
+        {
+            "studentId": 897,
+            "hallticket": "25P85A0503",
+            "studentName": "MATTA SAI",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "13/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "14/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "42/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "12/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "8/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "7/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "5/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "1/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 116,
+            "totalPeriods": 247,
+            "percentage": "46.96"
+        },
+        {
+            "studentId": 898,
+            "hallticket": "25P85A0504",
+            "studentName": "P GAYATHRI",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "21/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "26/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "63/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "20/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "13/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "20/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "2/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "6/6"
+                }
+            ],
+            "totalPresent": 195,
+            "totalPeriods": 247,
+            "percentage": "78.95"
+        },
+        {
+            "studentId": 899,
+            "hallticket": "25P85A0505",
+            "studentName": "PENDAM ANUHYA",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "16/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "1/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "56/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "15/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "11/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "13/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "0/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "5/6"
+                }
+            ],
+            "totalPresent": 161,
+            "totalPeriods": 247,
+            "percentage": "65.18"
+        },
+        {
+            "studentId": 900,
+            "hallticket": "25P85A0506",
+            "studentName": "SHESH KUMAR KAKKAR",
+            "section": "CSE A 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "OS",
+                    "status": "18/29"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "COI",
+                    "status": "0/2"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "FDS",
+                    "status": "18/32"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "OS LAB",
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "PS",
+                    "status": "70/77"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DIS-MATHS",
+                    "status": "10/21"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "BEFA",
+                    "status": "8/16"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DBMS",
+                    "status": "15/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "SE",
+                    "status": "10/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "DBMS LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "RTRP",
+                    "status": "2/4"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "SDC",
+                    "status": "6/6"
+                }
+            ],
+            "totalPresent": 159,
+            "totalPeriods": 247,
+            "percentage": "64.37"
+        }
+    ]
+}

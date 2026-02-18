@@ -1,8 +1,8 @@
-// Subject mapping
+// Subject mapping for 3rd year (Legacy support)
 export const SUBJECTS = {
   105: 'SKILLING',
   103: 'PS',
-  104: 'FS', 
+  104: 'FS',
   110: 'SDC',
   136: 'EH',
   112: 'DBMS',
@@ -14,37 +14,55 @@ export const SUBJECTS = {
   119: 'IDS'
 };
 
-// Load attendance data from all section JSON files
+// Load attendance data from all section JSON files for both years
 export const loadAttendanceData = async () => {
   try {
-    const sections = ['cseaattend', 'csebattend', 'cscattend', 'csdattedn', 'csmattend', 'csoattend'];
+    const years = ['2', '3'];
+    const sectionsByYear = {
+      '2': ['CSE A', 'CSE B', 'CSE C', 'CSM A', 'CSM B', 'CSM C', 'ECE'],
+      '3': ['csea', 'cseb', 'csc', 'csd', 'csm', 'cso']
+    };
     const allStudents = [];
-    
-    for (const section of sections) {
-      try {
-        const response = await fetch(`/${section}.json?t=${Date.now()}`);
-        const data = await response.json();
-        const students = data.studentsAttendance || data;
-        
-        // Add section info to each student
-        const sectionName = section.replace('attend', '').replace('attedn', '').toUpperCase();
-        const formattedSection = sectionName === 'CSEA' ? 'CSE A' : 
-                                sectionName === 'CSEB' ? 'CSE B' :
-                                sectionName === 'CSD' ? 'CSD' :
-                                sectionName === 'CSC' ? 'CSC' :
-                                sectionName === 'CSM' ? 'CSM' :
-                                sectionName === 'CSO' ? 'CSO' : sectionName;
-        
-        students.forEach(student => {
-          student.section = formattedSection;
-        });
-        
-        allStudents.push(...students);
-      } catch (sectionError) {
-        console.warn(`Failed to load ${section}.json:`, sectionError);
+
+    for (const year of years) {
+      const yearSections = sectionsByYear[year];
+      for (const section of yearSections) {
+        try {
+          // Handle legacy naming for 3rd year
+          let filename;
+          const cleanSection = section.toLowerCase().replace(/\s+/g, '');
+          if (year === '3') {
+            filename = cleanSection === 'csd' ? 'csdattedn.json' : `${cleanSection}attend.json`;
+          } else {
+            // 2nd year uses underscores: "cse_a"
+            const underSection = section.toLowerCase().replace(/\s+/g, '_');
+            filename = `${year}nd_${underSection}attend.json`;
+          }
+
+          const response = await fetch(`/${filename}?t=${Date.now()}`);
+          if (!response.ok) continue; // Skip if file doesn't exist yet
+
+          const data = await response.json();
+          const students = data.studentsAttendance || data;
+
+          // Add section & year info to each student
+          const formattedSection = section.toUpperCase();
+
+          students.forEach(student => {
+            student.section = `${formattedSection} - ${year}nd Year`;
+            student.year = year;
+            // Ensure studentName is always present
+            if (!student.studentName && student.name) student.studentName = student.name;
+          });
+
+          allStudents.push(...students);
+        } catch (sectionError) {
+          // Silent fail for individual missing files
+          console.debug(`Could not load ${section} for Year ${year}`);
+        }
       }
     }
-    
+
     // Add obfuscation for data protection
     const { obfuscateData } = await import('./dataProtection');
     return obfuscateData(allStudents);
@@ -56,7 +74,8 @@ export const loadAttendanceData = async () => {
 
 // Find student by hall ticket
 export const findStudentByHallTicket = (students, hallTicket) => {
-  return students.find(student => 
+  if (!students) return null;
+  return students.find(student =>
     student.hallticket?.toLowerCase() === hallTicket.toLowerCase()
   );
 };
@@ -69,26 +88,15 @@ export const calculatePercentage = (present, total) => {
 
 // Parse attendance status (e.g., "45/49" -> {present: 45, total: 49})
 export const parseAttendanceStatus = (status) => {
+  if (!status) return { present: 0, total: 0 };
   const [present, total] = status.split('/').map(Number);
-  return { present, total };
+  return { present: present || 0, total: total || 0 };
 };
 
 // Calculate classes needed for target percentage
 export const calculateClassesNeeded = (currentPresent, currentTotal, targetPercentage) => {
   const target = targetPercentage / 100;
-  
-  // If already above target
-  if (currentPresent / currentTotal >= target) {
-    return 0;
-  }
-  
-  // Calculate classes needed: (present + x) / (total + x) = target
-  // Solving: present + x = target * (total + x)
-  // present + x = target * total + target * x
-  // x - target * x = target * total - present
-  // x(1 - target) = target * total - present
-  // x = (target * total - present) / (1 - target)
-  
+  if (currentPresent / currentTotal >= target) return 0;
   const classesNeeded = Math.ceil((target * currentTotal - currentPresent) / (1 - target));
   return Math.max(0, classesNeeded);
 };
@@ -96,19 +104,7 @@ export const calculateClassesNeeded = (currentPresent, currentTotal, targetPerce
 // Calculate classes that can be missed while maintaining percentage
 export const calculateClassesCanMiss = (currentPresent, currentTotal, minPercentage) => {
   const minPercent = minPercentage / 100;
-  
-  // If already below minimum
-  if (currentPresent / currentTotal < minPercent) {
-    return 0;
-  }
-  
-  // Calculate maximum classes that can be missed
-  // (present) / (total + x) = minPercent
-  // present = minPercent * (total + x)
-  // present = minPercent * total + minPercent * x
-  // present - minPercent * total = minPercent * x
-  // x = (present - minPercent * total) / minPercent
-  
+  if (currentPresent / currentTotal < minPercent) return 0;
   const canMiss = Math.floor((currentPresent - minPercent * currentTotal) / minPercent);
   return Math.max(0, canMiss);
 };
@@ -129,53 +125,32 @@ export const formatDate = (date) => {
   });
 };
 
-// Check if date is valid for attendance (not future, not Sunday, after start date)
+// Check if date is valid
 export const isValidAttendanceDate = (date, startDate) => {
   const today = new Date();
   const checkDate = new Date(date);
   const start = new Date(startDate);
-  
-  // Reset time to compare dates only
   today.setHours(23, 59, 59, 999);
   checkDate.setHours(0, 0, 0, 0);
   start.setHours(0, 0, 0, 0);
-  
-  // Check if date is not in future
   if (checkDate > today) return false;
-  
-  // Check if date is not Sunday (0 = Sunday)
   if (checkDate.getDay() === 0) return false;
-  
-  // Check if date is on or after start date
   if (checkDate < start) return false;
-  
   return true;
 };
 
-// Generate analysis for different thresholds
+// Generate analysis
 export const generateAnalysis = (student) => {
   const thresholds = [55, 65, 75];
   const analysis = {};
-  
   thresholds.forEach(threshold => {
-    const classesNeeded = calculateClassesNeeded(
-      student.totalPresent, 
-      student.totalPeriods, 
-      threshold
-    );
-    
-    const classesCanMiss = calculateClassesCanMiss(
-      student.totalPresent, 
-      student.totalPeriods, 
-      threshold
-    );
-    
+    const classesNeeded = calculateClassesNeeded(student.totalPresent, student.totalPeriods, threshold);
+    const classesCanMiss = calculateClassesCanMiss(student.totalPresent, student.totalPeriods, threshold);
     analysis[threshold] = {
       classesNeeded,
       classesCanMiss,
       currentStatus: parseFloat(student.percentage) >= threshold ? 'Safe' : 'At Risk'
     };
   });
-  
   return analysis;
 };

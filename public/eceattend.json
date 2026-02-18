@@ -1,0 +1,3153 @@
+{
+    "Error": false,
+    "subjectDetails": [
+        {
+            "subjectId": 103,
+            "subjectName": "FS"
+        },
+        {
+            "subjectId": 104,
+            "subjectName": "AWP"
+        },
+        {
+            "subjectId": 105,
+            "subjectName": "DBMS"
+        },
+        {
+            "subjectId": 106,
+            "subjectName": "ESD"
+        },
+        {
+            "subjectId": 107,
+            "subjectName": "VLSI"
+        },
+        {
+            "subjectId": 108,
+            "subjectName": "DSP"
+        },
+        {
+            "subjectId": 109,
+            "subjectName": "IOMP"
+        },
+        {
+            "subjectId": 110,
+            "subjectName": "DSP LAB"
+        },
+        {
+            "subjectId": 111,
+            "subjectName": "AC LAB"
+        },
+        {
+            "subjectId": 112,
+            "subjectName": "VLSI LAB"
+        },
+        {
+            "subjectId": 113,
+            "subjectName": "CLUBS"
+        }
+    ],
+    "studentsAttendance": [
+        {
+            "studentId": 138,
+            "hallticket": "23P81A0401",
+            "studentName": "AMBATI SRIHARINI",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "22/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "12/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "8/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "10/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "11/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "17/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "4/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "9/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "9/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 111,
+            "totalPeriods": 215,
+            "percentage": "51.63"
+        },
+        {
+            "studentId": 139,
+            "hallticket": "23P81A0403",
+            "studentName": "AOUTI CHANDRAKANTH",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "2/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "0/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "0/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "1/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "1/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "0/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "0/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "0/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "0/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "4/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 8,
+            "totalPeriods": 215,
+            "percentage": "3.72"
+        },
+        {
+            "studentId": 140,
+            "hallticket": "23P81A0404",
+            "studentName": "ASHWALA VARSHITHA",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "12/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "14/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "10/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "14/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "16/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "12/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "3/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "11/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 119,
+            "totalPeriods": 215,
+            "percentage": "55.35"
+        },
+        {
+            "studentId": 141,
+            "hallticket": "23P81A0405",
+            "studentName": "BANDARU TEJASHVINI",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "14/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "10/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "10/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "10/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "9/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "17/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "6/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "18/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "8/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 111,
+            "totalPeriods": 215,
+            "percentage": "51.63"
+        },
+        {
+            "studentId": 142,
+            "hallticket": "23P81A0406",
+            "studentName": "BHARATHA ADITHYA",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "21/23"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "14/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "11/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "4/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "16/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "5/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "4/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 111,
+            "totalPeriods": 216,
+            "percentage": "51.39"
+        },
+        {
+            "studentId": 143,
+            "hallticket": "23P81A0407",
+            "studentName": "BODDU DEVISREE",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "22/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "15/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "12/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "14/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "20/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "7/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "18/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "13/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 140,
+            "totalPeriods": 215,
+            "percentage": "65.12"
+        },
+        {
+            "studentId": 144,
+            "hallticket": "23P81A0408",
+            "studentName": "BONTHALA VAMSI KRISHNA REDDY",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "16/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "22/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "15/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "17/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 156,
+            "totalPeriods": 216,
+            "percentage": "72.22"
+        },
+        {
+            "studentId": 145,
+            "hallticket": "23P81A0409",
+            "studentName": "BUSIREDDY AVINASH REDDY",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "21/23"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "17/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "22/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "13/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "18/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "17/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 155,
+            "totalPeriods": 216,
+            "percentage": "71.76"
+        },
+        {
+            "studentId": 146,
+            "hallticket": "23P81A0410",
+            "studentName": "CHAKILAM VISHWAS",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "13/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "12/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "18/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "11/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "22/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 140,
+            "totalPeriods": 215,
+            "percentage": "65.12"
+        },
+        {
+            "studentId": 147,
+            "hallticket": "23P81A0411",
+            "studentName": "CHIPURI SOWMYA",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "20/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "15/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "14/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "22/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "28/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "18/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 180,
+            "totalPeriods": 215,
+            "percentage": "83.72"
+        },
+        {
+            "studentId": 148,
+            "hallticket": "23P81A0412",
+            "studentName": "DONDA LEKAN GOVTTHAM",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "19/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "17/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "14/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "24/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "18/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "22/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 178,
+            "totalPeriods": 215,
+            "percentage": "82.79"
+        },
+        {
+            "studentId": 149,
+            "hallticket": "23P81A0413",
+            "studentName": "GADIGE SAI KUMAR",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "15/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "12/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "17/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "16/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "15/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "15/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 136,
+            "totalPeriods": 215,
+            "percentage": "63.26"
+        },
+        {
+            "studentId": 151,
+            "hallticket": "23P81A0415",
+            "studentName": "GODISHALA RAJESHWARI",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "18/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "11/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "17/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "11/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "13/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 143,
+            "totalPeriods": 215,
+            "percentage": "66.51"
+        },
+        {
+            "studentId": 152,
+            "hallticket": "23P81A0416",
+            "studentName": "HARI HARAN SURESH BABU",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "10/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "14/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "19/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "12/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "8/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 133,
+            "totalPeriods": 215,
+            "percentage": "61.86"
+        },
+        {
+            "studentId": 153,
+            "hallticket": "23P81A0417",
+            "studentName": "JAIRAJ BANDA",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "22/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "15/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "20/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "5/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 157,
+            "totalPeriods": 215,
+            "percentage": "73.02"
+        },
+        {
+            "studentId": 154,
+            "hallticket": "23P81A0418",
+            "studentName": "KALLURI PRANEETH REDDY",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "22/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "20/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "12/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "23/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "18/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 173,
+            "totalPeriods": 215,
+            "percentage": "80.47"
+        },
+        {
+            "studentId": 155,
+            "hallticket": "23P81A0419",
+            "studentName": "KARANGULA SHARANYA REDDY",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "19/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "17/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "0/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "14/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 144,
+            "totalPeriods": 215,
+            "percentage": "66.98"
+        },
+        {
+            "studentId": 156,
+            "hallticket": "23P81A0420",
+            "studentName": "KODI SANTHOSH",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "15/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "12/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "8/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "12/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "16/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "5/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "9/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "14/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 116,
+            "totalPeriods": 215,
+            "percentage": "53.95"
+        },
+        {
+            "studentId": 157,
+            "hallticket": "23P81A0421",
+            "studentName": "KONDA SUMITH YADAV",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "18/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "24/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "20/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "18/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 166,
+            "totalPeriods": 215,
+            "percentage": "77.21"
+        },
+        {
+            "studentId": 158,
+            "hallticket": "23P81A0422",
+            "studentName": "KORE SREEJA",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "19/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "18/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "3/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "14/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "9/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 133,
+            "totalPeriods": 215,
+            "percentage": "61.86"
+        },
+        {
+            "studentId": 159,
+            "hallticket": "23P81A0423",
+            "studentName": "M HARSHA VARDHAN REDDY",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "10/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "16/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "25/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "16/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "13/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 150,
+            "totalPeriods": 215,
+            "percentage": "69.77"
+        },
+        {
+            "studentId": 160,
+            "hallticket": "23P81A0425",
+            "studentName": "MARIGELI SHIVA",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "14/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "13/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "10/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "25/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "3/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 136,
+            "totalPeriods": 215,
+            "percentage": "63.26"
+        },
+        {
+            "studentId": 161,
+            "hallticket": "23P81A0426",
+            "studentName": "MASULA ARUN",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "10/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "12/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "11/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "5/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 114,
+            "totalPeriods": 215,
+            "percentage": "53.02"
+        },
+        {
+            "studentId": 162,
+            "hallticket": "23P81A0427",
+            "studentName": "MIRYALA ROHITH",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "6/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "12/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "14/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "21/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 137,
+            "totalPeriods": 215,
+            "percentage": "63.72"
+        },
+        {
+            "studentId": 163,
+            "hallticket": "23P81A0428",
+            "studentName": "MOOLA VAISHANAVI",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "18/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "16/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "15/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "21/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "25/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "22/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 168,
+            "totalPeriods": 215,
+            "percentage": "78.14"
+        },
+        {
+            "studentId": 164,
+            "hallticket": "23P81A0429",
+            "studentName": "MUNAVATH BABULAL",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "10/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "11/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "11/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "9/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "13/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "8/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "22/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 129,
+            "totalPeriods": 215,
+            "percentage": "60.00"
+        },
+        {
+            "studentId": 165,
+            "hallticket": "23P81A0430",
+            "studentName": "N AKHILA",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "5/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "4/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "3/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "4/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "7/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "2/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "0/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "2/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "2/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 49,
+            "totalPeriods": 215,
+            "percentage": "22.79"
+        },
+        {
+            "studentId": 166,
+            "hallticket": "23P81A0431",
+            "studentName": "NELLORE VAMSI PAVAN SIVA KUMAR",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "15/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "14/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "24/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "16/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "17/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 166,
+            "totalPeriods": 215,
+            "percentage": "77.21"
+        },
+        {
+            "studentId": 167,
+            "hallticket": "23P81A0432",
+            "studentName": "ORUGANTI RAHUL",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "2/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "0/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "0/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "2/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "1/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "0/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "0/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "0/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "0/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "8/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 13,
+            "totalPeriods": 215,
+            "percentage": "6.05"
+        },
+        {
+            "studentId": 168,
+            "hallticket": "23P81A0433",
+            "studentName": "PEDDIREDDY AMULYA REDDY",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "15/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "16/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "14/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "21/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "23/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "13/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "13/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 161,
+            "totalPeriods": 215,
+            "percentage": "74.88"
+        },
+        {
+            "studentId": 169,
+            "hallticket": "23P81A0434",
+            "studentName": "PENDYALA ABHILASH",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "21/23"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "16/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "21/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "1/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 147,
+            "totalPeriods": 216,
+            "percentage": "68.06"
+        },
+        {
+            "studentId": 170,
+            "hallticket": "23P81A0435",
+            "studentName": "PINNAPUREDDY VISHNUVARDHAN REDDY",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "18/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "16/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "10/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "25/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "10/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "13/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 153,
+            "totalPeriods": 215,
+            "percentage": "71.16"
+        },
+        {
+            "studentId": 171,
+            "hallticket": "23P81A0436",
+            "studentName": "POTTI ARAVIND",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "9/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "8/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "4/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "7/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "11/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "5/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "0/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "2/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "2/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 66,
+            "totalPeriods": 215,
+            "percentage": "30.70"
+        },
+        {
+            "studentId": 172,
+            "hallticket": "23P81A0437",
+            "studentName": "RAGIPANI HARISH",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "22/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "11/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "16/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "12/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "16/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "11/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "5/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 130,
+            "totalPeriods": 215,
+            "percentage": "60.47"
+        },
+        {
+            "studentId": 173,
+            "hallticket": "23P81A0438",
+            "studentName": "RAJULAPATI ARAVIND",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "12/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "15/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "11/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "7/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "17/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "8/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "9/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "14/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 112,
+            "totalPeriods": 215,
+            "percentage": "52.09"
+        },
+        {
+            "studentId": 174,
+            "hallticket": "23P81A0439",
+            "studentName": "SAMMETA VENKATESHWAR REDDY",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "14/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "9/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "12/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "5/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "17/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "10/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "7/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "8/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 104,
+            "totalPeriods": 215,
+            "percentage": "48.37"
+        },
+        {
+            "studentId": 175,
+            "hallticket": "23P81A0440",
+            "studentName": "TELLAPALLY SHIVA KUMAR",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "22/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "17/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "16/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "15/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "26/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "19/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "15/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "22/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 181,
+            "totalPeriods": 215,
+            "percentage": "84.19"
+        },
+        {
+            "studentId": 176,
+            "hallticket": "23P81A0441",
+            "studentName": "TELUKUNTLA DEEKSHITA",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "21/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "16/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "14/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "23/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "3/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "11/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 160,
+            "totalPeriods": 215,
+            "percentage": "74.42"
+        },
+        {
+            "studentId": 177,
+            "hallticket": "23P81A0442",
+            "studentName": "TIRUGUDU VENKAT",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "22/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "15/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "12/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "16/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "3/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "5/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 136,
+            "totalPeriods": 215,
+            "percentage": "63.26"
+        },
+        {
+            "studentId": 178,
+            "hallticket": "24P85A0401",
+            "studentName": "AVANCHA BHARATH",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "18/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "12/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "7/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "15/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "3/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "5/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "10/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 116,
+            "totalPeriods": 215,
+            "percentage": "53.95"
+        },
+        {
+            "studentId": 179,
+            "hallticket": "24P85A0402",
+            "studentName": "GAINIBAITI SHIRISHA",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "16/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "11/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "14/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "0/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "11/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "13/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 120,
+            "totalPeriods": 215,
+            "percentage": "55.81"
+        },
+        {
+            "studentId": 180,
+            "hallticket": "24P85A0403",
+            "studentName": "KADARI NITHYANI",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "19/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "15/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "13/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "24/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "14/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "17/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 165,
+            "totalPeriods": 215,
+            "percentage": "76.74"
+        },
+        {
+            "studentId": 181,
+            "hallticket": "24P85A0404",
+            "studentName": "MADASI KURUVA BHARGAVI",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "17/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "15/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "14/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "25/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "18/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "14/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "17/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 168,
+            "totalPeriods": 215,
+            "percentage": "78.14"
+        },
+        {
+            "studentId": 182,
+            "hallticket": "24P85A0405",
+            "studentName": "P ABHIRAM",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "22/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "16/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "15/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "11/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "14/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "21/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "13/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "6/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "7/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "18/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 143,
+            "totalPeriods": 215,
+            "percentage": "66.51"
+        },
+        {
+            "studentId": 183,
+            "hallticket": "24P85A0406",
+            "studentName": "PILLI VIJAY",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "6/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "8/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "8/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "12/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "16/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "9/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "12/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "16/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 109,
+            "totalPeriods": 215,
+            "percentage": "50.70"
+        },
+        {
+            "studentId": 184,
+            "hallticket": "24P85A0407",
+            "studentName": "RASUMALLA RUTHVIKA",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "20/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "17/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "14/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "14/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "18/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "25/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "15/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "14/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "17/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 163,
+            "totalPeriods": 215,
+            "percentage": "75.81"
+        },
+        {
+            "studentId": 185,
+            "hallticket": "24P85A0408",
+            "studentName": "YAKKALA HIRANMAI RAMYA SRI",
+            "section": "ECE 3yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FS",
+                    "status": "12/22"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "AWP",
+                    "status": "18/25"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "DBMS",
+                    "status": "13/20"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "ESD",
+                    "status": "12/15"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "VLSI",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "DSP",
+                    "status": "24/35"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "IOMP",
+                    "status": "17/23"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "DSP LAB",
+                    "status": "9/9"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "AC LAB",
+                    "status": "18/18"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "VLSI LAB",
+                    "status": "13/22"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                }
+            ],
+            "totalPresent": 151,
+            "totalPeriods": 215,
+            "percentage": "70.23"
+        }
+    ]
+}

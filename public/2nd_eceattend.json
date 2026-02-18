@@ -1,0 +1,5303 @@
+{
+    "Error": false,
+    "subjectDetails": [
+        {
+            "subjectId": 103,
+            "subjectName": "FDS"
+        },
+        {
+            "subjectId": 104,
+            "subjectName": "PTSP"
+        },
+        {
+            "subjectId": 105,
+            "subjectName": "ECA"
+        },
+        {
+            "subjectId": 106,
+            "subjectName": "PS"
+        },
+        {
+            "subjectId": 107,
+            "subjectName": "ECA/ADC LAB"
+        },
+        {
+            "subjectId": 108,
+            "subjectName": "ADC"
+        },
+        {
+            "subjectId": 109,
+            "subjectName": "LDICA"
+        },
+        {
+            "subjectId": 110,
+            "subjectName": "EM&TL"
+        },
+        {
+            "subjectId": 111,
+            "subjectName": "GS"
+        },
+        {
+            "subjectId": 112,
+            "subjectName": "RTRP"
+        },
+        {
+            "subjectId": 113,
+            "subjectName": "ADC/LDIC LAB"
+        },
+        {
+            "subjectId": 114,
+            "subjectName": "CLUBS"
+        },
+        {
+            "subjectId": 115,
+            "subjectName": "LDIC/ECA LAB"
+        }
+    ],
+    "studentsAttendance": [
+        {
+            "studentId": 831,
+            "hallticket": "24P81A0401",
+            "studentName": "ADULA SHIVA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "20/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "35/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "16/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "20/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "7/11"
+                }
+            ],
+            "totalPresent": 177,
+            "totalPeriods": 240,
+            "percentage": "73.75"
+        },
+        {
+            "studentId": 833,
+            "hallticket": "24P81A0403",
+            "studentName": "AYUSH SANJAY",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "26/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "17/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "28/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "23/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "20/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "15/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "2/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "5/11"
+                }
+            ],
+            "totalPresent": 163,
+            "totalPeriods": 240,
+            "percentage": "67.92"
+        },
+        {
+            "studentId": 834,
+            "hallticket": "24P81A0404",
+            "studentName": "B BHUVAN",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "22/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "20/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "28/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "23/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "22/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "2/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "7/11"
+                }
+            ],
+            "totalPresent": 183,
+            "totalPeriods": 240,
+            "percentage": "76.25"
+        },
+        {
+            "studentId": 835,
+            "hallticket": "24P81A0405",
+            "studentName": "BADRI BHARGAVA REDDY",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "26/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "19/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "14/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "9/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "2/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "0/11"
+                }
+            ],
+            "totalPresent": 145,
+            "totalPeriods": 240,
+            "percentage": "60.42"
+        },
+        {
+            "studentId": 836,
+            "hallticket": "24P81A0406",
+            "studentName": "BANAVATH VENKATESH NAYAK",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "18/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "7/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "12/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "32/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "6/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "3/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "10/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "0/11"
+                }
+            ],
+            "totalPresent": 96,
+            "totalPeriods": 240,
+            "percentage": "40.00"
+        },
+        {
+            "studentId": 837,
+            "hallticket": "24P81A0407",
+            "studentName": "BANDARI RAKESH",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "20/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "8/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "15/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "35/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "8/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "6/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "13/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "6/11"
+                }
+            ],
+            "totalPresent": 119,
+            "totalPeriods": 240,
+            "percentage": "49.58"
+        },
+        {
+            "studentId": 838,
+            "hallticket": "24P81A0408",
+            "studentName": "BHEEMANADHUNI SAICHARAN",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "18/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "18/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "24/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "19/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "20/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "5/11"
+                }
+            ],
+            "totalPresent": 165,
+            "totalPeriods": 240,
+            "percentage": "68.75"
+        },
+        {
+            "studentId": 839,
+            "hallticket": "24P81A0409",
+            "studentName": "BURRA SHRESTA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "22/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "18/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "21/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "12/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "18/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "17/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "7/11"
+                }
+            ],
+            "totalPresent": 150,
+            "totalPeriods": 240,
+            "percentage": "62.50"
+        },
+        {
+            "studentId": 840,
+            "hallticket": "24P81A0410",
+            "studentName": "CHALLA JYOTHI",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "18/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "15/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "18/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "8/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "13/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "4/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "8/11"
+                }
+            ],
+            "totalPresent": 142,
+            "totalPeriods": 240,
+            "percentage": "59.17"
+        },
+        {
+            "studentId": 841,
+            "hallticket": "24P81A0411",
+            "studentName": "CHALLA SAINEHA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "26/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "18/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "16/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "17/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "2/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "11/11"
+                }
+            ],
+            "totalPresent": 175,
+            "totalPeriods": 240,
+            "percentage": "72.92"
+        },
+        {
+            "studentId": 842,
+            "hallticket": "24P81A0412",
+            "studentName": "CHIKKULLA MANOJ",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "21/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "35/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "25/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "18/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "21/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "11/11"
+                }
+            ],
+            "totalPresent": 196,
+            "totalPeriods": 240,
+            "percentage": "81.67"
+        },
+        {
+            "studentId": 843,
+            "hallticket": "24P81A0413",
+            "studentName": "CHITYALA PAVANI",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "26/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "21/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "26/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "21/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "19/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "7/11"
+                }
+            ],
+            "totalPresent": 192,
+            "totalPeriods": 240,
+            "percentage": "80.00"
+        },
+        {
+            "studentId": 844,
+            "hallticket": "24P81A0414",
+            "studentName": "D LAKSHMI PRIYANKA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "26/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "19/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "32/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "18/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "11/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "4/11"
+                }
+            ],
+            "totalPresent": 172,
+            "totalPeriods": 240,
+            "percentage": "71.67"
+        },
+        {
+            "studentId": 845,
+            "hallticket": "24P81A0415",
+            "studentName": "DACHIREDDY VINITHA REDDY",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "22/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "17/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "28/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "21/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "21/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "13/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "4/11"
+                }
+            ],
+            "totalPresent": 160,
+            "totalPeriods": 240,
+            "percentage": "66.67"
+        },
+        {
+            "studentId": 846,
+            "hallticket": "24P81A0416",
+            "studentName": "DINDIGALA MYTHRI",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "26/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "17/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "23/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "21/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "19/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "10/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "4/11"
+                }
+            ],
+            "totalPresent": 156,
+            "totalPeriods": 240,
+            "percentage": "65.00"
+        },
+        {
+            "studentId": 847,
+            "hallticket": "24P81A0417",
+            "studentName": "GAIGULLA  VISHAL",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "16/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "18/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "28/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "20/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "15/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "9/11"
+                }
+            ],
+            "totalPresent": 164,
+            "totalPeriods": 240,
+            "percentage": "68.33"
+        },
+        {
+            "studentId": 848,
+            "hallticket": "24P81A0418",
+            "studentName": "GARIMELLA VPL SRI SAHITHI",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "20/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "17/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "27/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "13/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "14/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "4/11"
+                }
+            ],
+            "totalPresent": 151,
+            "totalPeriods": 240,
+            "percentage": "62.92"
+        },
+        {
+            "studentId": 849,
+            "hallticket": "24P81A0419",
+            "studentName": "GATTU KARTHIKEYA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "26/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "21/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "25/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "21/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "20/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "11/11"
+                }
+            ],
+            "totalPresent": 196,
+            "totalPeriods": 240,
+            "percentage": "81.67"
+        },
+        {
+            "studentId": 850,
+            "hallticket": "24P81A0420",
+            "studentName": "GODI SUDHEER KUMAR",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "12/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "11/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "17/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "15/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "16/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "7/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "18/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "2/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "7/11"
+                }
+            ],
+            "totalPresent": 116,
+            "totalPeriods": 240,
+            "percentage": "48.33"
+        },
+        {
+            "studentId": 851,
+            "hallticket": "24P81A0421",
+            "studentName": "GOTTIMUKKULA DEEPIKA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "22/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "20/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "35/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "11/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "18/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "10/11"
+                }
+            ],
+            "totalPresent": 176,
+            "totalPeriods": 240,
+            "percentage": "73.33"
+        },
+        {
+            "studentId": 852,
+            "hallticket": "24P81A0422",
+            "studentName": "GURRAM DHANUSH REDDY",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "18/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "11/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "14/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "10/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "6/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "15/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "2/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "4/11"
+                }
+            ],
+            "totalPresent": 120,
+            "totalPeriods": 240,
+            "percentage": "50.00"
+        },
+        {
+            "studentId": 853,
+            "hallticket": "24P81A0423",
+            "studentName": "JETTI SURYA TEJASWINI",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "22/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "18/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "19/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "20/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "14/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "17/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "4/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "7/11"
+                }
+            ],
+            "totalPresent": 155,
+            "totalPeriods": 240,
+            "percentage": "64.58"
+        },
+        {
+            "studentId": 854,
+            "hallticket": "24P81A0424",
+            "studentName": "KALYANKAR LOKESH",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "18/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "12/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "10/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "24/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "17/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "11/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "9/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "5/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "4/11"
+                }
+            ],
+            "totalPresent": 114,
+            "totalPeriods": 240,
+            "percentage": "47.50"
+        },
+        {
+            "studentId": 855,
+            "hallticket": "24P81A0425",
+            "studentName": "KANDALA ABHINAV REDDY",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "19/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "28/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "23/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "21/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "14/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "5/11"
+                }
+            ],
+            "totalPresent": 168,
+            "totalPeriods": 240,
+            "percentage": "70.00"
+        },
+        {
+            "studentId": 856,
+            "hallticket": "24P81A0426",
+            "studentName": "KANUGULA MOHITH",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "15/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "24/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "23/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "14/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "12/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "5/11"
+                }
+            ],
+            "totalPresent": 157,
+            "totalPeriods": 240,
+            "percentage": "65.42"
+        },
+        {
+            "studentId": 857,
+            "hallticket": "24P81A0427",
+            "studentName": "KESHAM SHIVAMANIKANTA SWAMY",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "22/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "22/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "22/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "28/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "25/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "23/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "7/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "11/11"
+                }
+            ],
+            "totalPresent": 208,
+            "totalPeriods": 240,
+            "percentage": "86.67"
+        },
+        {
+            "studentId": 858,
+            "hallticket": "24P81A0428",
+            "studentName": "KODAVATIKANTI SHANKAR SHOUNDILYA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "14/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "24/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "19/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "19/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "12/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "4/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "4/11"
+                }
+            ],
+            "totalPresent": 141,
+            "totalPeriods": 240,
+            "percentage": "58.75"
+        },
+        {
+            "studentId": 859,
+            "hallticket": "24P81A0429",
+            "studentName": "KOKALA SRUJANKUMAR",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "16/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "17/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "23/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "16/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "17/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "3/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "5/11"
+                }
+            ],
+            "totalPresent": 146,
+            "totalPeriods": 240,
+            "percentage": "60.83"
+        },
+        {
+            "studentId": 860,
+            "hallticket": "24P81A0430",
+            "studentName": "KONDURU KRISHNA SRI",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "22/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "14/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "18/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "24/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "20/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "9/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "2/11"
+                }
+            ],
+            "totalPresent": 152,
+            "totalPeriods": 240,
+            "percentage": "63.33"
+        },
+        {
+            "studentId": 861,
+            "hallticket": "24P81A0431",
+            "studentName": "KOUDAGANITHRISHUNCHAND",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "26/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "12/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "28/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "18/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "11/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "8/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "2/11"
+                }
+            ],
+            "totalPresent": 133,
+            "totalPeriods": 240,
+            "percentage": "55.42"
+        },
+        {
+            "studentId": 862,
+            "hallticket": "24P81A0432",
+            "studentName": "M SAI DEEPAK",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "2/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "0/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "0/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "4/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "0/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "0/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "0/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "0/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "0/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "2/11"
+                }
+            ],
+            "totalPresent": 8,
+            "totalPeriods": 240,
+            "percentage": "3.33"
+        },
+        {
+            "studentId": 863,
+            "hallticket": "24P81A0433",
+            "studentName": "MADARAVENA SRI CHANAKYA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "18/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "11/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "15/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "21/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "16/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "8/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "1/11"
+                }
+            ],
+            "totalPresent": 138,
+            "totalPeriods": 240,
+            "percentage": "57.50"
+        },
+        {
+            "studentId": 864,
+            "hallticket": "24P81A0434",
+            "studentName": "MAGINENI VISHNU",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "21/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "25/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "17/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "21/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "3/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "11/11"
+                }
+            ],
+            "totalPresent": 188,
+            "totalPeriods": 240,
+            "percentage": "78.33"
+        },
+        {
+            "studentId": 865,
+            "hallticket": "24P81A0435",
+            "studentName": "MAHESHWARAPU ARCHANA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "19/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "27/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "19/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "13/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "14/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "6/11"
+                }
+            ],
+            "totalPresent": 151,
+            "totalPeriods": 240,
+            "percentage": "62.92"
+        },
+        {
+            "studentId": 866,
+            "hallticket": "24P81A0436",
+            "studentName": "MALOTHU RAKESH",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "21/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "21/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "23/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "22/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "18/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "3/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "3/11"
+                }
+            ],
+            "totalPresent": 181,
+            "totalPeriods": 240,
+            "percentage": "75.42"
+        },
+        {
+            "studentId": 867,
+            "hallticket": "24P81A0437",
+            "studentName": "MANDADI NANDA KISHORE REDDY",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "18/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "17/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "23/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "20/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "17/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "2/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "2/11"
+                }
+            ],
+            "totalPresent": 162,
+            "totalPeriods": 240,
+            "percentage": "67.50"
+        },
+        {
+            "studentId": 868,
+            "hallticket": "24P81A0438",
+            "studentName": "MANIRAJ SINGH",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "26/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "22/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "23/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "35/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "29/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "25/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "22/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "7/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "9/11"
+                }
+            ],
+            "totalPresent": 215,
+            "totalPeriods": 240,
+            "percentage": "89.58"
+        },
+        {
+            "studentId": 869,
+            "hallticket": "24P81A0439",
+            "studentName": "MESINENI BHARATH",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "18/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "18/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "18/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "27/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "17/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "20/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "3/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "5/11"
+                }
+            ],
+            "totalPresent": 161,
+            "totalPeriods": 240,
+            "percentage": "67.08"
+        },
+        {
+            "studentId": 870,
+            "hallticket": "24P81A0440",
+            "studentName": "MOHD KHAJA REHAN SABI",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "14/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "17/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "20/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "18/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "13/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "4/11"
+                }
+            ],
+            "totalPresent": 129,
+            "totalPeriods": 240,
+            "percentage": "53.75"
+        },
+        {
+            "studentId": 871,
+            "hallticket": "24P81A0441",
+            "studentName": "NAGULAVANCHA AKANKSHA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "18/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "19/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "27/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "19/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "16/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "14/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "5/11"
+                }
+            ],
+            "totalPresent": 161,
+            "totalPeriods": 240,
+            "percentage": "67.08"
+        },
+        {
+            "studentId": 872,
+            "hallticket": "24P81A0442",
+            "studentName": "NARAN BHANU",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "12/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "7/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "10/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "12/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "4/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "6/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "10/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "2/11"
+                }
+            ],
+            "totalPresent": 67,
+            "totalPeriods": 240,
+            "percentage": "27.92"
+        },
+        {
+            "studentId": 873,
+            "hallticket": "24P81A0443",
+            "studentName": "PUDHURI SAI PRANEETH",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "20/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "15/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "17/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "13/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "2/11"
+                }
+            ],
+            "totalPresent": 149,
+            "totalPeriods": 240,
+            "percentage": "62.08"
+        },
+        {
+            "studentId": 874,
+            "hallticket": "24P81A0444",
+            "studentName": "RACHA DEEPAK",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "20/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "14/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "16/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "9/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "12/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "15/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "4/11"
+                }
+            ],
+            "totalPresent": 127,
+            "totalPeriods": 240,
+            "percentage": "52.92"
+        },
+        {
+            "studentId": 875,
+            "hallticket": "24P81A0445",
+            "studentName": "RACHAKONDA SRAVANTH",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "12/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "9/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "12/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "28/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "4/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "4/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "11/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "0/11"
+                }
+            ],
+            "totalPresent": 84,
+            "totalPeriods": 240,
+            "percentage": "35.00"
+        },
+        {
+            "studentId": 876,
+            "hallticket": "24P81A0446",
+            "studentName": "RANGINENI BHAVIKA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "12/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "5/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "12/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "16/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "9/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "6/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "5/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "3/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "0/11"
+                }
+            ],
+            "totalPresent": 75,
+            "totalPeriods": 240,
+            "percentage": "31.25"
+        },
+        {
+            "studentId": 877,
+            "hallticket": "24P81A0447",
+            "studentName": "SANJAY ANAND SOMA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "19/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "35/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "17/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "12/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "19/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "2/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "4/11"
+                }
+            ],
+            "totalPresent": 161,
+            "totalPeriods": 240,
+            "percentage": "67.08"
+        },
+        {
+            "studentId": 878,
+            "hallticket": "24P81A0448",
+            "studentName": "SETTY PRASAD",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "22/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "27/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "21/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "21/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "22/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "3/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "7/11"
+                }
+            ],
+            "totalPresent": 178,
+            "totalPeriods": 240,
+            "percentage": "74.17"
+        },
+        {
+            "studentId": 879,
+            "hallticket": "24P81A0449",
+            "studentName": "SHAIK ASHWAQ",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "17/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "14/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "12/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "15/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "23/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "15/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "18/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "5/11"
+                }
+            ],
+            "totalPresent": 138,
+            "totalPeriods": 240,
+            "percentage": "57.50"
+        },
+        {
+            "studentId": 880,
+            "hallticket": "24P81A0450",
+            "studentName": "SRI VARSH REDDY NOMULA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "28/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "19/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "35/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "14/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "12/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "9/11"
+                }
+            ],
+            "totalPresent": 160,
+            "totalPeriods": 240,
+            "percentage": "66.67"
+        },
+        {
+            "studentId": 881,
+            "hallticket": "24P81A0451",
+            "studentName": "SRIVALLI  KAVALI",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "22/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "20/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "24/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "17/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "13/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "19/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "3/11"
+                }
+            ],
+            "totalPresent": 156,
+            "totalPeriods": 240,
+            "percentage": "65.00"
+        },
+        {
+            "studentId": 882,
+            "hallticket": "24P81A0452",
+            "studentName": "SUGURU GNANESHWAR",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "10/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "9/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "9/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "19/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "9/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "3/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "10/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "2/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "2/11"
+                }
+            ],
+            "totalPresent": 75,
+            "totalPeriods": 240,
+            "percentage": "31.25"
+        },
+        {
+            "studentId": 883,
+            "hallticket": "24P81A0453",
+            "studentName": "SUNKARI RUTHIK RAO",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "20/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "14/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "18/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "20/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "21/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "20/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "17/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "5/11"
+                }
+            ],
+            "totalPresent": 156,
+            "totalPeriods": 240,
+            "percentage": "65.00"
+        },
+        {
+            "studentId": 884,
+            "hallticket": "24P81A0454",
+            "studentName": "SURA SAI KUMAR REDDY",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "18/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "17/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "21/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "19/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "2/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "2/11"
+                }
+            ],
+            "totalPresent": 165,
+            "totalPeriods": 240,
+            "percentage": "68.75"
+        },
+        {
+            "studentId": 885,
+            "hallticket": "24P81A0455",
+            "studentName": "T PRANAY KUMAR",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "12/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "11/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "13/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "19/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "10/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "5/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "13/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "2/11"
+                }
+            ],
+            "totalPresent": 91,
+            "totalPeriods": 240,
+            "percentage": "37.92"
+        },
+        {
+            "studentId": 886,
+            "hallticket": "24P81A0456",
+            "studentName": "TURERAO ANAND",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "16/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "17/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "19/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "16/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "6/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "0/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "3/11"
+                }
+            ],
+            "totalPresent": 116,
+            "totalPeriods": 240,
+            "percentage": "48.33"
+        },
+        {
+            "studentId": 887,
+            "hallticket": "24P81A0457",
+            "studentName": "VADDETI JASWANTH KUMAR",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "22/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "28/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "20/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "21/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "7/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "7/11"
+                }
+            ],
+            "totalPresent": 194,
+            "totalPeriods": 240,
+            "percentage": "80.83"
+        },
+        {
+            "studentId": 888,
+            "hallticket": "24P81A0458",
+            "studentName": "VANKUDOTHU CHANTI",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "22/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "35/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "27/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "12/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "21/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "9/11"
+                }
+            ],
+            "totalPresent": 190,
+            "totalPeriods": 240,
+            "percentage": "79.17"
+        },
+        {
+            "studentId": 889,
+            "hallticket": "24P81A0459",
+            "studentName": "VARANASI HARIDEEP",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "16/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "17/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "23/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "24/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "16/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "3/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "3/11"
+                }
+            ],
+            "totalPresent": 148,
+            "totalPeriods": 240,
+            "percentage": "61.67"
+        },
+        {
+            "studentId": 890,
+            "hallticket": "24P81A0460",
+            "studentName": "VEDANTAM NIKHILENDRA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "18/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "16/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "23/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "17/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "21/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "18/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "8/11"
+                }
+            ],
+            "totalPresent": 156,
+            "totalPeriods": 240,
+            "percentage": "65.00"
+        },
+        {
+            "studentId": 891,
+            "hallticket": "24P81A0461",
+            "studentName": "VEERUBHOTLA SRI BALA TRIPURA SUNDARI",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "15/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "15/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "32/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "18/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "12/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "12/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "0/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "4/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "4/11"
+                }
+            ],
+            "totalPresent": 150,
+            "totalPeriods": 240,
+            "percentage": "62.50"
+        },
+        {
+            "studentId": 892,
+            "hallticket": "24P81A0462",
+            "studentName": "VENGALA GAURAV SAI",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "20/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "15/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "24/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "19/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "19/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "14/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "9/11"
+                }
+            ],
+            "totalPresent": 153,
+            "totalPeriods": 240,
+            "percentage": "63.75"
+        },
+        {
+            "studentId": 893,
+            "hallticket": "24P81A0463",
+            "studentName": "YELLU VARSHA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "20/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "21/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "35/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "26/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "19/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "21/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "7/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "9/11"
+                }
+            ],
+            "totalPresent": 199,
+            "totalPeriods": 240,
+            "percentage": "82.92"
+        },
+        {
+            "studentId": 930,
+            "hallticket": "25P85A0401",
+            "studentName": "BONE BONE PRANAY KUMAR",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "17/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "19/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "20/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "17/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "2/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "3/11"
+                }
+            ],
+            "totalPresent": 164,
+            "totalPeriods": 240,
+            "percentage": "68.33"
+        },
+        {
+            "studentId": 931,
+            "hallticket": "25P85A0402",
+            "studentName": "EJAPU HARSHINI",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "22/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "18/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "20/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "35/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "27/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "19/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "18/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "7/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "7/11"
+                }
+            ],
+            "totalPresent": 188,
+            "totalPeriods": 240,
+            "percentage": "78.33"
+        },
+        {
+            "studentId": 932,
+            "hallticket": "25P85A0403",
+            "studentName": "KALVACHARLA RASMITHA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "21/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "35/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "28/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "20/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "19/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "7/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "7/11"
+                }
+            ],
+            "totalPresent": 197,
+            "totalPeriods": 240,
+            "percentage": "82.08"
+        },
+        {
+            "studentId": 933,
+            "hallticket": "25P85A0404",
+            "studentName": "KANDHI SINDHUJA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "20/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "17/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "15/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "2/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "13/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "11/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "2/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "2/11"
+                }
+            ],
+            "totalPresent": 118,
+            "totalPeriods": 240,
+            "percentage": "49.17"
+        },
+        {
+            "studentId": 934,
+            "hallticket": "25P85A0405",
+            "studentName": "MOKKARALA VAIBHAV MURTHY",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "24/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "19/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "20/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "35/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "8/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "25/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "20/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "6/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "8/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "5/11"
+                }
+            ],
+            "totalPresent": 187,
+            "totalPeriods": 240,
+            "percentage": "77.92"
+        },
+        {
+            "studentId": 935,
+            "hallticket": "25P85A0406",
+            "studentName": "SHAIK SHAREENA",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "20/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "16/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "20/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "23/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "6/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "22/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "17/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "16/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "7/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "6/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "4/11"
+                }
+            ],
+            "totalPresent": 158,
+            "totalPeriods": 240,
+            "percentage": "65.83"
+        },
+        {
+            "studentId": 936,
+            "hallticket": "25P85A0407",
+            "studentName": "VASKULLA JASHWANTH",
+            "section": "ECE 2yr",
+            "attendance": [
+                {
+                    "subjectId": 103,
+                    "subjectName": "FDS",
+                    "status": "16/30"
+                },
+                {
+                    "subjectId": 104,
+                    "subjectName": "PTSP",
+                    "status": "13/26"
+                },
+                {
+                    "subjectId": 105,
+                    "subjectName": "ECA",
+                    "status": "16/31"
+                },
+                {
+                    "subjectId": 106,
+                    "subjectName": "PS",
+                    "status": "31/35"
+                },
+                {
+                    "subjectId": 107,
+                    "subjectName": "ECA/ADC LAB",
+                    "status": "4/8"
+                },
+                {
+                    "subjectId": 108,
+                    "subjectName": "ADC",
+                    "status": "20/32"
+                },
+                {
+                    "subjectId": 109,
+                    "subjectName": "LDICA",
+                    "status": "15/25"
+                },
+                {
+                    "subjectId": 110,
+                    "subjectName": "EM&TL",
+                    "status": "12/24"
+                },
+                {
+                    "subjectId": 111,
+                    "subjectName": "GS",
+                    "status": "1/1"
+                },
+                {
+                    "subjectId": 112,
+                    "subjectName": "RTRP",
+                    "status": "3/7"
+                },
+                {
+                    "subjectId": 113,
+                    "subjectName": "ADC/LDIC LAB",
+                    "status": "4/10"
+                },
+                {
+                    "subjectId": 114,
+                    "subjectName": "CLUBS",
+                    "status": "0/0"
+                },
+                {
+                    "subjectId": 115,
+                    "subjectName": "LDIC/ECA LAB",
+                    "status": "1/11"
+                }
+            ],
+            "totalPresent": 136,
+            "totalPeriods": 240,
+            "percentage": "56.67"
+        }
+    ]
+}

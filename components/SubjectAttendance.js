@@ -25,7 +25,7 @@ export default function SubjectAttendance({ student }) {
     const bData = parseAttendanceStatus(b.status);
     const aPercentage = parseFloat(calculatePercentage(aData.present, aData.total));
     const bPercentage = parseFloat(calculatePercentage(bData.present, bData.total));
-    
+
     let aValue, bValue;
     switch (sortBy) {
       case 'name':
@@ -44,7 +44,7 @@ export default function SubjectAttendance({ student }) {
         aValue = aPercentage;
         bValue = bPercentage;
     }
-    
+
     if (sortOrder === 'asc') {
       return aValue > bValue ? 1 : -1;
     } else {
@@ -56,7 +56,7 @@ export default function SubjectAttendance({ student }) {
     <div className="glass-card animate-slide-up">
       <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-6 gap-4">
         <h2 className="gradient-text m-0">📚 Subject-wise Attendance</h2>
-        
+
         <div className="flex gap-2 items-center">
           <select
             value={sortBy}
@@ -68,7 +68,7 @@ export default function SubjectAttendance({ student }) {
             <option value="present">Sort by Present</option>
             <option value="total">Sort by Total Classes</option>
           </select>
-          
+
           <button
             className="glass-button px-3 py-2"
             onClick={() => setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc')}
@@ -77,17 +77,17 @@ export default function SubjectAttendance({ student }) {
           </button>
         </div>
       </div>
-      
+
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {sortedSubjects.map((subject, index) => {
           const { present, total } = parseAttendanceStatus(subject.status);
           const percentage = parseFloat(calculatePercentage(present, total));
           const colorClass = getAttendanceColor(percentage);
-          const subjectName = SUBJECT_NAMES[subject.subjectId] || SUBJECTS[subject.subjectId] || `Subject ${subject.subjectId}`;
+          const subjectName = subject.subjectName || SUBJECT_NAMES[subject.subjectId] || SUBJECTS[subject.subjectId] || `Subject ${subject.subjectId}`;
 
           return (
-            <div 
-              key={subject.subjectId} 
+            <div
+              key={subject.subjectId}
               className="glass-card-inner animate-fade-in"
               style={{ animationDelay: `${index * 0.05}s` }}
             >
@@ -99,17 +99,17 @@ export default function SubjectAttendance({ student }) {
                   {percentage}%
                 </div>
               </div>
-              
+
               <div className="w-full bg-gray-700 rounded-full h-2 mb-3">
-                <div 
+                <div
                   className={`h-2 rounded-full fill-${colorClass}`}
-                  style={{ 
+                  style={{
                     width: `${percentage}%`,
                     animation: `fillBar 1s ease-out ${index * 0.05}s forwards`
                   }}
                 ></div>
               </div>
-              
+
               <div className="flex justify-between text-xs text-gray-400">
                 <span>Present: <strong className="text-green-400">{present}</strong> / {total}</span>
                 <span>Absent: {total - present}</span>
